@@ -1,0 +1,2899 @@
+Order ID,Warehouse Activity,Warehouse Time,Facility
+ORD-00001,Picking Started,2026-02-12 06:46:00,West
+ORD-00001,Quality Check,2026-02-12 08:46:00,Central
+ORD-00001,Packed,2026-02-12 14:46:00,Central
+ORD-00002,Picking Started,2026-01-18 20:57:00,West
+ORD-00002,Quality Check,2026-01-19 05:57:00,Central
+ORD-00002,Packed,2026-01-19 12:57:00,Central
+ORD-00003,Picking Started,2026-02-19 14:01:00,West
+ORD-00003,Quality Check,2026-02-19 23:01:00,Central
+ORD-00003,Packed,2026-02-20 02:01:00,Central
+ORD-00004,Picking Started,2026-02-26 14:59:00,East
+ORD-00004,Quality Check,2026-02-26 16:59:00,Central
+ORD-00004,Packed,2026-02-27 00:59:00,Central
+ORD-00005,Picking Started,2026-01-19 07:36:00,West
+ORD-00005,Quality Check,2026-01-19 13:36:00,Central
+ORD-00005,Packed,2026-01-19 15:36:00,Central
+ORD-00006,Picking Started,2026-02-03 09:06:00,West
+ORD-00006,Quality Check,2026-02-03 18:06:00,Central
+ORD-00006,Packed,2026-02-03 23:06:00,Central
+ORD-00007,Picking Started,2026-01-13 02:16:00,West
+ORD-00007,Quality Check,2026-01-13 05:16:00,Central
+ORD-00007,Packed,2026-01-13 11:16:00,Central
+ORD-00008,Picking Started,2026-02-13 12:41:00,West
+ORD-00008,Quality Check,2026-02-13 15:41:00,Central
+ORD-00008,Packed,2026-02-13 19:41:00,Central
+ORD-00009,Picking Started,2026-02-02 02:53:00,West
+ORD-00009,Quality Check,2026-02-02 08:53:00,Central
+ORD-00009,Packed,2026-02-02 12:53:00,Central
+ORD-00010,Picking Started,2026-01-09 08:39:00,West
+ORD-00010,Quality Check,2026-01-09 11:39:00,Central
+ORD-00010,Packed,2026-01-09 19:39:00,Central
+ORD-00011,Picking Started,2026-01-08 21:47:00,East
+ORD-00011,Quality Check,2026-01-08 23:47:00,Central
+ORD-00011,Packed,2026-01-09 03:47:00,Central
+ORD-00012,Picking Started,2026-01-18 01:57:00,West
+ORD-00012,Quality Check,2026-01-18 09:57:00,Central
+ORD-00012,Packed,2026-01-18 14:57:00,Central
+ORD-00013,Picking Started,2026-01-07 20:56:00,East
+ORD-00013,Quality Check,2026-01-07 23:56:00,Central
+ORD-00013,Quality Check,2026-01-08 00:27:00,Central
+ORD-00013,Packed,2026-01-08 02:27:00,Central
+ORD-00014,Picking Started,2026-02-17 02:34:00,West
+ORD-00014,Quality Check,2026-02-17 12:34:00,Central
+ORD-00014,Packed,2026-02-17 16:34:00,Central
+ORD-00015,Picking Started,2026-02-12 09:18:00,East
+ORD-00015,Quality Check,2026-02-12 12:18:00,Central
+ORD-00015,Packed,2026-02-12 13:18:00,Central
+ORD-00016,Picking Started,2026-01-13 15:28:00,West
+ORD-00016,Quality Check,2026-01-13 21:28:00,Central
+ORD-00016,Packed,2026-01-13 22:28:00,Central
+ORD-00018,Picking Started,2026-01-15 11:33:00,East
+ORD-00018,Quality Check,2026-01-15 15:33:00,Central
+ORD-00018,Packed,2026-01-15 17:33:00,Central
+ORD-00019,Picking Started,2026-02-17 07:27:00,West
+ORD-00019,Quality Check,2026-02-17 14:27:00,Central
+ORD-00019,Packed,2026-02-17 22:27:00,Central
+ORD-00020,Picking Started,2026-01-27 09:38:00,West
+ORD-00020,Quality Check,2026-01-27 16:38:00,Central
+ORD-00020,Packed,2026-01-27 17:38:00,Central
+ORD-00021,Picking Started,2026-02-10 18:47:00,East
+ORD-00021,Quality Check,2026-02-10 22:47:00,Central
+ORD-00021,Packed,2026-02-11 07:47:00,Central
+ORD-00022,Picking Started,2026-02-27 03:21:00,East
+ORD-00022,Quality Check,2026-02-27 09:21:00,Central
+ORD-00022,Packed,2026-02-27 17:21:00,Central
+ORD-00023,Picking Started,2026-02-09 22:50:00,West
+ORD-00023,Quality Check,2026-02-10 04:50:00,Central
+ORD-00023,Packed,2026-02-10 05:50:00,Central
+ORD-00024,Picking Started,2026-01-07 15:40:00,East
+ORD-00024,Quality Check,2026-01-08 01:40:00,Central
+ORD-00024,Packed,2026-01-08 05:40:00,Central
+ORD-00025,Picking Started,2026-02-23 18:35:00,East
+ORD-00025,Quality Check,2026-02-23 23:35:00,Central
+ORD-00025,Packed,2026-02-24 05:35:00,Central
+ORD-00026,Picking Started,2026-01-06 18:08:00,West
+ORD-00026,Quality Check,2026-01-06 22:08:00,Central
+ORD-00026,Quality Check,2026-01-06 23:35:00,Central
+ORD-00026,Packed,2026-01-07 02:35:00,Central
+ORD-00027,Picking Started,2026-01-20 11:41:00,East
+ORD-00027,Quality Check,2026-01-20 19:41:00,Central
+ORD-00027,Packed,2026-01-20 20:41:00,Central
+ORD-00028,Picking Started,2026-02-21 23:24:00,East
+ORD-00028,Quality Check,2026-02-22 07:24:00,Central
+ORD-00028,Packed,2026-02-22 10:24:00,Central
+ORD-00029,Picking Started,2026-01-25 19:28:00,West
+ORD-00029,Quality Check,2026-01-25 20:28:00,Central
+ORD-00029,Packed,2026-01-25 22:28:00,Central
+ORD-00030,Picking Started,2026-02-25 08:49:00,West
+ORD-00030,Quality Check,2026-02-25 11:49:00,Central
+ORD-00030,Packed,2026-02-25 18:49:00,Central
+ORD-00031,Picking Started,2026-01-06 21:58:00,West
+ORD-00031,Quality Check,2026-01-07 00:58:00,Central
+ORD-00031,Packed,2026-01-07 02:58:00,Central
+ORD-00032,Picking Started,2026-02-18 17:32:00,East
+ORD-00032,Quality Check,2026-02-18 19:32:00,Central
+ORD-00032,Packed,2026-02-18 20:32:00,Central
+ORD-00033,Picking Started,2026-01-29 09:57:00,East
+ORD-00033,Quality Check,2026-01-29 11:57:00,Central
+ORD-00033,Packed,2026-01-29 13:57:00,Central
+ORD-00035,Picking Started,2026-02-05 14:42:00,West
+ORD-00035,Quality Check,2026-02-05 21:42:00,Central
+ORD-00035,Packed,2026-02-05 23:42:00,Central
+ORD-00036,Picking Started,2026-01-29 21:37:00,West
+ORD-00036,Quality Check,2026-01-30 05:37:00,Central
+ORD-00036,Packed,2026-01-30 12:37:00,Central
+ORD-00037,Picking Started,2026-01-28 23:30:00,West
+ORD-00037,Quality Check,2026-01-29 03:30:00,Central
+ORD-00037,Packed,2026-01-29 06:30:00,Central
+ORD-00038,Picking Started,2026-01-28 07:56:00,East
+ORD-00038,Quality Check,2026-01-28 17:56:00,Central
+ORD-00038,Packed,2026-01-29 00:56:00,Central
+ORD-00039,Picking Started,2026-02-11 18:57:00,East
+ORD-00039,Quality Check,2026-02-12 03:57:00,Central
+ORD-00039,Quality Check,2026-02-12 04:30:00,Central
+ORD-00039,Packed,2026-02-12 08:30:00,Central
+ORD-00040,Picking Started,2026-02-26 07:48:00,East
+ORD-00040,Quality Check,2026-02-26 10:48:00,Central
+ORD-00040,Packed,2026-02-26 13:48:00,Central
+ORD-00041,Picking Started,2026-01-14 15:24:00,East
+ORD-00041,Quality Check,2026-01-15 00:24:00,Central
+ORD-00041,Packed,2026-01-15 06:24:00,Central
+ORD-00042,Picking Started,2026-01-30 11:55:00,East
+ORD-00042,Quality Check,2026-01-30 21:55:00,Central
+ORD-00042,Packed,2026-01-31 01:55:00,Central
+ORD-00043,Picking Started,2026-02-23 23:27:00,East
+ORD-00043,Quality Check,2026-02-24 07:27:00,Central
+ORD-00043,Packed,2026-02-24 08:27:00,Central
+ORD-00044,Picking Started,2026-01-23 03:23:00,West
+ORD-00044,Quality Check,2026-01-23 05:23:00,Central
+ORD-00044,Packed,2026-01-23 14:23:00,Central
+ORD-00045,Picking Started,2026-02-13 01:57:00,East
+ORD-00045,Quality Check,2026-02-13 04:57:00,Central
+ORD-00045,Packed,2026-02-13 09:57:00,Central
+ORD-00046,Picking Started,2026-01-08 08:03:00,West
+ORD-00046,Quality Check,2026-01-08 12:03:00,Central
+ORD-00046,Packed,2026-01-08 19:03:00,Central
+ORD-00047,Picking Started,2026-02-02 23:42:00,West
+ORD-00047,Quality Check,2026-02-03 05:42:00,Central
+ORD-00047,Packed,2026-02-03 06:42:00,Central
+ORD-00048,Picking Started,2026-01-09 06:31:00,West
+ORD-00048,Quality Check,2026-01-09 13:31:00,Central
+ORD-00048,Packed,2026-01-09 20:31:00,Central
+ORD-00049,Picking Started,2026-01-29 13:18:00,East
+ORD-00049,Quality Check,2026-01-29 22:18:00,Central
+ORD-00049,Packed,2026-01-30 06:18:00,Central
+ORD-00050,Picking Started,2026-02-19 12:48:00,East
+ORD-00050,Quality Check,2026-02-19 18:48:00,Central
+ORD-00050,Packed,2026-02-20 03:48:00,Central
+ORD-00052,Picking Started,2026-01-11 15:58:00,East
+ORD-00052,Quality Check,2026-01-11 21:58:00,Central
+ORD-00052,Quality Check,2026-01-11 22:31:00,Central
+ORD-00052,Packed,2026-01-12 07:31:00,Central
+ORD-00053,Picking Started,2026-01-31 01:11:00,East
+ORD-00053,Quality Check,2026-01-31 10:11:00,Central
+ORD-00053,Packed,2026-01-31 15:11:00,Central
+ORD-00054,Picking Started,2026-02-17 07:08:00,East
+ORD-00054,Quality Check,2026-02-17 10:08:00,Central
+ORD-00054,Packed,2026-02-17 15:08:00,Central
+ORD-00055,Picking Started,2026-01-24 10:42:00,West
+ORD-00055,Quality Check,2026-01-24 16:42:00,Central
+ORD-00055,Packed,2026-01-25 01:42:00,Central
+ORD-00056,Picking Started,2026-01-26 04:01:00,West
+ORD-00056,Quality Check,2026-01-26 05:01:00,Central
+ORD-00056,Packed,2026-01-26 14:01:00,Central
+ORD-00057,Picking Started,2026-03-01 18:18:00,West
+ORD-00057,Quality Check,2026-03-02 00:18:00,Central
+ORD-00057,Packed,2026-03-02 02:18:00,Central
+ORD-00058,Picking Started,2026-02-21 19:32:00,East
+ORD-00058,Quality Check,2026-02-21 22:32:00,Central
+ORD-00058,Packed,2026-02-22 04:32:00,Central
+ORD-00059,Picking Started,2026-02-07 04:44:00,East
+ORD-00059,Quality Check,2026-02-07 07:44:00,Central
+ORD-00059,Packed,2026-02-07 09:44:00,Central
+ORD-00060,Picking Started,2026-01-24 17:39:00,East
+ORD-00060,Quality Check,2026-01-24 22:39:00,Central
+ORD-00060,Packed,2026-01-25 06:39:00,Central
+ORD-00061,Picking Started,2026-01-13 03:15:00,East
+ORD-00061,Quality Check,2026-01-13 05:15:00,Central
+ORD-00061,Packed,2026-01-13 08:15:00,Central
+ORD-00062,Picking Started,2026-01-07 03:51:00,East
+ORD-00062,Quality Check,2026-01-07 12:51:00,Central
+ORD-00062,Packed,2026-01-07 21:51:00,Central
+ORD-00063,Picking Started,2026-02-08 00:14:00,West
+ORD-00063,Quality Check,2026-02-08 01:14:00,Central
+ORD-00063,Packed,2026-02-08 09:14:00,Central
+ORD-00064,Picking Started,2026-01-09 09:31:00,West
+ORD-00064,Quality Check,2026-01-09 18:31:00,Central
+ORD-00064,Packed,2026-01-09 21:31:00,Central
+ORD-00065,Picking Started,2026-01-17 16:47:00,East
+ORD-00065,Quality Check,2026-01-18 00:47:00,Central
+ORD-00065,Quality Check,2026-01-18 02:13:00,Central
+ORD-00065,Packed,2026-01-18 06:13:00,Central
+ORD-00066,Picking Started,2026-01-07 20:46:00,West
+ORD-00066,Quality Check,2026-01-08 04:46:00,Central
+ORD-00066,Packed,2026-01-08 11:46:00,Central
+ORD-00067,Picking Started,2026-02-04 18:32:00,West
+ORD-00067,Quality Check,2026-02-05 00:32:00,Central
+ORD-00067,Packed,2026-02-05 01:32:00,Central
+ORD-00069,Picking Started,2026-02-18 11:50:00,West
+ORD-00069,Quality Check,2026-02-18 19:50:00,Central
+ORD-00069,Packed,2026-02-19 00:50:00,Central
+ORD-00070,Picking Started,2026-02-12 03:34:00,West
+ORD-00070,Quality Check,2026-02-12 07:34:00,Central
+ORD-00070,Packed,2026-02-12 11:34:00,Central
+ORD-00071,Picking Started,2026-02-20 21:03:00,West
+ORD-00071,Quality Check,2026-02-21 05:03:00,Central
+ORD-00071,Packed,2026-02-21 06:03:00,Central
+ORD-00072,Picking Started,2026-02-25 15:02:00,East
+ORD-00072,Quality Check,2026-02-26 00:02:00,Central
+ORD-00072,Packed,2026-02-26 09:02:00,Central
+ORD-00073,Picking Started,2026-02-19 06:19:00,East
+ORD-00073,Quality Check,2026-02-19 15:19:00,Central
+ORD-00073,Packed,2026-02-19 16:19:00,Central
+ORD-00074,Picking Started,2026-01-27 07:20:00,East
+ORD-00074,Quality Check,2026-01-27 12:20:00,Central
+ORD-00074,Packed,2026-01-27 15:20:00,Central
+ORD-00075,Picking Started,2026-02-20 04:56:00,East
+ORD-00075,Quality Check,2026-02-20 08:56:00,Central
+ORD-00075,Packed,2026-02-20 09:56:00,Central
+ORD-00076,Picking Started,2026-01-23 10:46:00,West
+ORD-00076,Quality Check,2026-01-23 19:46:00,Central
+ORD-00076,Packed,2026-01-23 21:46:00,Central
+ORD-00077,Picking Started,2026-01-16 16:31:00,West
+ORD-00077,Quality Check,2026-01-16 19:31:00,Central
+ORD-00077,Packed,2026-01-16 23:31:00,Central
+ORD-00078,Picking Started,2026-02-10 08:50:00,West
+ORD-00078,Quality Check,2026-02-10 18:50:00,Central
+ORD-00078,Quality Check,2026-02-10 19:12:00,Central
+ORD-00078,Packed,2026-02-11 03:12:00,Central
+ORD-00079,Picking Started,2026-01-11 05:22:00,East
+ORD-00079,Quality Check,2026-01-11 07:22:00,Central
+ORD-00079,Packed,2026-01-11 16:22:00,Central
+ORD-00080,Picking Started,2026-01-25 20:19:00,East
+ORD-00080,Quality Check,2026-01-26 06:19:00,Central
+ORD-00080,Packed,2026-01-26 15:19:00,Central
+ORD-00081,Picking Started,2026-02-11 21:37:00,West
+ORD-00081,Quality Check,2026-02-12 07:37:00,Central
+ORD-00081,Packed,2026-02-12 12:37:00,Central
+ORD-00082,Picking Started,2026-01-14 13:44:00,East
+ORD-00082,Quality Check,2026-01-14 16:44:00,Central
+ORD-00082,Packed,2026-01-14 22:44:00,Central
+ORD-00083,Picking Started,2026-02-10 17:28:00,East
+ORD-00083,Quality Check,2026-02-10 22:28:00,Central
+ORD-00083,Packed,2026-02-11 01:28:00,Central
+ORD-00084,Picking Started,2026-02-28 13:34:00,East
+ORD-00084,Quality Check,2026-02-28 16:34:00,Central
+ORD-00084,Packed,2026-02-28 21:34:00,Central
+ORD-00086,Picking Started,2026-02-20 00:47:00,East
+ORD-00086,Quality Check,2026-02-20 07:47:00,Central
+ORD-00086,Packed,2026-02-20 08:47:00,Central
+ORD-00087,Picking Started,2026-02-23 08:10:00,West
+ORD-00087,Quality Check,2026-02-23 13:10:00,Central
+ORD-00087,Packed,2026-02-23 22:10:00,Central
+ORD-00088,Picking Started,2026-01-16 13:08:00,East
+ORD-00088,Quality Check,2026-01-16 21:08:00,Central
+ORD-00088,Packed,2026-01-17 05:08:00,Central
+ORD-00089,Picking Started,2026-02-12 10:41:00,East
+ORD-00089,Quality Check,2026-02-12 16:41:00,Central
+ORD-00089,Packed,2026-02-12 17:41:00,Central
+ORD-00090,Picking Started,2026-02-26 07:14:00,West
+ORD-00090,Quality Check,2026-02-26 16:14:00,Central
+ORD-00090,Packed,2026-02-26 22:14:00,Central
+ORD-00091,Picking Started,2026-01-12 18:51:00,West
+ORD-00091,Quality Check,2026-01-12 21:51:00,Central
+ORD-00091,Quality Check,2026-01-12 22:53:00,Central
+ORD-00091,Packed,2026-01-13 00:53:00,Central
+ORD-00092,Picking Started,2026-01-16 10:17:00,West
+ORD-00092,Quality Check,2026-01-16 12:17:00,Central
+ORD-00092,Packed,2026-01-16 21:17:00,Central
+ORD-00093,Picking Started,2026-02-20 01:55:00,East
+ORD-00093,Quality Check,2026-02-20 10:55:00,Central
+ORD-00093,Packed,2026-02-20 13:55:00,Central
+ORD-00094,Picking Started,2026-02-02 04:45:00,West
+ORD-00094,Quality Check,2026-02-02 13:45:00,Central
+ORD-00094,Packed,2026-02-02 19:45:00,Central
+ORD-00095,Picking Started,2026-02-02 14:21:00,West
+ORD-00095,Quality Check,2026-02-03 00:21:00,Central
+ORD-00095,Packed,2026-02-03 06:21:00,Central
+ORD-00096,Picking Started,2026-01-19 01:47:00,West
+ORD-00096,Quality Check,2026-01-19 09:47:00,Central
+ORD-00096,Packed,2026-01-19 11:47:00,Central
+ORD-00097,Picking Started,2026-01-09 16:09:00,West
+ORD-00097,Quality Check,2026-01-09 22:09:00,Central
+ORD-00097,Packed,2026-01-10 04:09:00,Central
+ORD-00098,Picking Started,2026-02-01 23:54:00,West
+ORD-00098,Quality Check,2026-02-02 09:54:00,Central
+ORD-00098,Packed,2026-02-02 13:54:00,Central
+ORD-00099,Picking Started,2026-01-18 01:44:00,West
+ORD-00099,Quality Check,2026-01-18 09:44:00,Central
+ORD-00099,Packed,2026-01-18 14:44:00,Central
+ORD-00100,Picking Started,2026-01-12 20:31:00,West
+ORD-00100,Quality Check,2026-01-13 00:31:00,Central
+ORD-00100,Packed,2026-01-13 05:31:00,Central
+ORD-00101,Picking Started,2026-02-22 14:14:00,East
+ORD-00101,Quality Check,2026-02-22 16:14:00,Central
+ORD-00101,Packed,2026-02-22 18:14:00,Central
+ORD-00103,Picking Started,2026-01-12 10:07:00,West
+ORD-00103,Quality Check,2026-01-12 12:07:00,Central
+ORD-00103,Packed,2026-01-12 17:07:00,Central
+ORD-00104,Picking Started,2026-02-16 19:49:00,East
+ORD-00104,Quality Check,2026-02-16 21:49:00,Central
+ORD-00104,Quality Check,2026-02-16 23:08:00,Central
+ORD-00104,Packed,2026-02-17 06:08:00,Central
+ORD-00105,Picking Started,2026-02-22 14:07:00,West
+ORD-00105,Quality Check,2026-02-22 16:07:00,Central
+ORD-00105,Packed,2026-02-22 17:07:00,Central
+ORD-00106,Picking Started,2026-01-08 20:49:00,West
+ORD-00106,Quality Check,2026-01-09 02:49:00,Central
+ORD-00106,Packed,2026-01-09 03:49:00,Central
+ORD-00107,Picking Started,2026-02-17 13:34:00,East
+ORD-00107,Quality Check,2026-02-17 21:34:00,Central
+ORD-00107,Packed,2026-02-18 00:34:00,Central
+ORD-00108,Picking Started,2026-02-24 13:08:00,West
+ORD-00108,Quality Check,2026-02-24 18:08:00,Central
+ORD-00108,Packed,2026-02-24 19:08:00,Central
+ORD-00109,Picking Started,2026-01-05 23:22:00,East
+ORD-00109,Quality Check,2026-01-06 01:22:00,Central
+ORD-00109,Packed,2026-01-06 08:22:00,Central
+ORD-00110,Picking Started,2026-01-07 10:39:00,West
+ORD-00110,Quality Check,2026-01-07 13:39:00,Central
+ORD-00110,Packed,2026-01-07 15:39:00,Central
+ORD-00111,Picking Started,2026-01-24 01:25:00,West
+ORD-00111,Quality Check,2026-01-24 03:25:00,Central
+ORD-00111,Packed,2026-01-24 05:25:00,Central
+ORD-00112,Picking Started,2026-02-01 11:56:00,West
+ORD-00112,Quality Check,2026-02-01 14:56:00,Central
+ORD-00112,Packed,2026-02-01 19:56:00,Central
+ORD-00113,Picking Started,2026-02-06 09:44:00,East
+ORD-00113,Quality Check,2026-02-06 13:44:00,Central
+ORD-00113,Packed,2026-02-06 19:44:00,Central
+ORD-00114,Picking Started,2026-01-28 15:44:00,West
+ORD-00114,Quality Check,2026-01-28 20:44:00,Central
+ORD-00114,Packed,2026-01-28 23:44:00,Central
+ORD-00115,Picking Started,2026-01-22 01:23:00,East
+ORD-00115,Quality Check,2026-01-22 06:23:00,Central
+ORD-00115,Packed,2026-01-22 10:23:00,Central
+ORD-00116,Picking Started,2026-01-25 17:21:00,West
+ORD-00116,Quality Check,2026-01-25 18:21:00,Central
+ORD-00116,Packed,2026-01-25 22:21:00,Central
+ORD-00117,Picking Started,2026-01-27 23:56:00,East
+ORD-00117,Quality Check,2026-01-28 07:56:00,Central
+ORD-00117,Quality Check,2026-01-28 09:20:00,Central
+ORD-00117,Packed,2026-01-28 16:20:00,Central
+ORD-00118,Picking Started,2026-01-11 19:39:00,West
+ORD-00118,Quality Check,2026-01-12 03:39:00,Central
+ORD-00118,Packed,2026-01-12 05:39:00,Central
+ORD-00120,Picking Started,2026-02-04 15:48:00,West
+ORD-00120,Quality Check,2026-02-05 01:48:00,Central
+ORD-00120,Packed,2026-02-05 07:48:00,Central
+ORD-00121,Picking Started,2026-01-24 14:53:00,West
+ORD-00121,Quality Check,2026-01-25 00:53:00,Central
+ORD-00121,Packed,2026-01-25 01:53:00,Central
+ORD-00122,Picking Started,2026-02-23 10:34:00,East
+ORD-00122,Quality Check,2026-02-23 17:34:00,Central
+ORD-00122,Packed,2026-02-24 00:34:00,Central
+ORD-00123,Picking Started,2026-02-17 11:46:00,East
+ORD-00123,Quality Check,2026-02-17 20:46:00,Central
+ORD-00123,Packed,2026-02-18 01:46:00,Central
+ORD-00124,Picking Started,2026-01-10 14:40:00,East
+ORD-00124,Quality Check,2026-01-10 23:40:00,Central
+ORD-00124,Packed,2026-01-11 00:40:00,Central
+ORD-00125,Picking Started,2026-02-16 15:07:00,East
+ORD-00125,Quality Check,2026-02-16 17:07:00,Central
+ORD-00125,Packed,2026-02-17 01:07:00,Central
+ORD-00126,Picking Started,2026-02-19 00:00:00,West
+ORD-00126,Quality Check,2026-02-19 03:00:00,Central
+ORD-00126,Packed,2026-02-19 07:00:00,Central
+ORD-00127,Picking Started,2026-01-13 15:32:00,West
+ORD-00127,Quality Check,2026-01-13 23:32:00,Central
+ORD-00127,Packed,2026-01-14 00:32:00,Central
+ORD-00128,Picking Started,2026-01-19 06:28:00,West
+ORD-00128,Quality Check,2026-01-19 16:28:00,Central
+ORD-00128,Packed,2026-01-19 20:28:00,Central
+ORD-00129,Picking Started,2026-01-14 02:12:00,West
+ORD-00129,Quality Check,2026-01-14 12:12:00,Central
+ORD-00129,Packed,2026-01-14 14:12:00,Central
+ORD-00130,Picking Started,2026-02-14 10:56:00,East
+ORD-00130,Quality Check,2026-02-14 16:56:00,Central
+ORD-00130,Quality Check,2026-02-14 18:09:00,Central
+ORD-00130,Packed,2026-02-14 22:09:00,Central
+ORD-00131,Picking Started,2026-02-27 01:03:00,East
+ORD-00131,Quality Check,2026-02-27 07:03:00,Central
+ORD-00131,Packed,2026-02-27 13:03:00,Central
+ORD-00132,Picking Started,2026-02-06 16:12:00,West
+ORD-00132,Quality Check,2026-02-06 23:12:00,Central
+ORD-00132,Packed,2026-02-07 03:12:00,Central
+ORD-00133,Picking Started,2026-03-01 13:58:00,East
+ORD-00133,Quality Check,2026-03-01 22:58:00,Central
+ORD-00133,Packed,2026-03-01 23:58:00,Central
+ORD-00134,Picking Started,2026-02-19 16:06:00,West
+ORD-00134,Quality Check,2026-02-19 19:06:00,Central
+ORD-00134,Packed,2026-02-19 20:06:00,Central
+ORD-00135,Picking Started,2026-02-06 12:40:00,West
+ORD-00135,Quality Check,2026-02-06 20:40:00,Central
+ORD-00135,Packed,2026-02-06 21:40:00,Central
+ORD-00137,Picking Started,2026-02-09 02:32:00,East
+ORD-00137,Quality Check,2026-02-09 05:32:00,Central
+ORD-00137,Packed,2026-02-09 13:32:00,Central
+ORD-00138,Picking Started,2026-02-11 06:04:00,West
+ORD-00138,Quality Check,2026-02-11 15:04:00,Central
+ORD-00138,Packed,2026-02-11 21:04:00,Central
+ORD-00139,Picking Started,2026-02-28 18:37:00,West
+ORD-00139,Quality Check,2026-03-01 00:37:00,Central
+ORD-00139,Packed,2026-03-01 08:37:00,Central
+ORD-00140,Picking Started,2026-02-06 14:17:00,West
+ORD-00140,Quality Check,2026-02-07 00:17:00,Central
+ORD-00140,Packed,2026-02-07 04:17:00,Central
+ORD-00141,Picking Started,2026-02-07 02:05:00,East
+ORD-00141,Quality Check,2026-02-07 08:05:00,Central
+ORD-00141,Packed,2026-02-07 15:05:00,Central
+ORD-00142,Picking Started,2026-02-28 17:43:00,East
+ORD-00142,Quality Check,2026-02-28 18:43:00,Central
+ORD-00142,Packed,2026-03-01 03:43:00,Central
+ORD-00143,Picking Started,2026-02-09 23:13:00,East
+ORD-00143,Quality Check,2026-02-10 07:13:00,Central
+ORD-00143,Quality Check,2026-02-10 08:36:00,Central
+ORD-00143,Packed,2026-02-10 16:36:00,Central
+ORD-00144,Picking Started,2026-01-31 19:55:00,East
+ORD-00144,Quality Check,2026-01-31 21:55:00,Central
+ORD-00144,Packed,2026-02-01 03:55:00,Central
+ORD-00145,Picking Started,2026-02-08 21:22:00,East
+ORD-00145,Quality Check,2026-02-09 06:22:00,Central
+ORD-00145,Packed,2026-02-09 10:22:00,Central
+ORD-00146,Picking Started,2026-02-25 02:13:00,East
+ORD-00146,Quality Check,2026-02-25 10:13:00,Central
+ORD-00146,Packed,2026-02-25 16:13:00,Central
+ORD-00147,Picking Started,2026-02-08 10:18:00,East
+ORD-00147,Quality Check,2026-02-08 17:18:00,Central
+ORD-00147,Packed,2026-02-09 01:18:00,Central
+ORD-00148,Picking Started,2026-02-03 03:07:00,East
+ORD-00148,Quality Check,2026-02-03 04:07:00,Central
+ORD-00148,Packed,2026-02-03 13:07:00,Central
+ORD-00149,Picking Started,2026-02-18 21:18:00,East
+ORD-00149,Quality Check,2026-02-19 00:18:00,Central
+ORD-00149,Packed,2026-02-19 03:18:00,Central
+ORD-00150,Picking Started,2026-02-25 13:20:00,West
+ORD-00150,Quality Check,2026-02-25 18:20:00,Central
+ORD-00150,Packed,2026-02-25 23:20:00,Central
+ORD-00151,Picking Started,2026-01-22 18:20:00,East
+ORD-00151,Quality Check,2026-01-23 00:20:00,Central
+ORD-00151,Packed,2026-01-23 09:20:00,Central
+ORD-00152,Picking Started,2026-01-23 15:27:00,East
+ORD-00152,Quality Check,2026-01-23 23:27:00,Central
+ORD-00152,Packed,2026-01-24 03:27:00,Central
+ORD-00154,Picking Started,2026-02-20 22:37:00,West
+ORD-00154,Quality Check,2026-02-21 04:37:00,Central
+ORD-00154,Packed,2026-02-21 08:37:00,Central
+ORD-00155,Picking Started,2026-01-21 05:34:00,East
+ORD-00155,Quality Check,2026-01-21 10:34:00,Central
+ORD-00155,Packed,2026-01-21 12:34:00,Central
+ORD-00156,Picking Started,2026-02-01 16:06:00,East
+ORD-00156,Quality Check,2026-02-01 19:06:00,Central
+ORD-00156,Quality Check,2026-02-01 19:33:00,Central
+ORD-00156,Packed,2026-02-02 02:33:00,Central
+ORD-00157,Picking Started,2026-01-05 21:37:00,East
+ORD-00157,Quality Check,2026-01-06 05:37:00,Central
+ORD-00157,Packed,2026-01-06 10:37:00,Central
+ORD-00158,Picking Started,2026-02-26 15:58:00,East
+ORD-00158,Quality Check,2026-02-26 18:58:00,Central
+ORD-00158,Packed,2026-02-27 01:58:00,Central
+ORD-00159,Picking Started,2026-02-07 11:16:00,West
+ORD-00159,Quality Check,2026-02-07 18:16:00,Central
+ORD-00159,Packed,2026-02-07 19:16:00,Central
+ORD-00160,Picking Started,2026-02-21 23:33:00,East
+ORD-00160,Quality Check,2026-02-22 00:33:00,Central
+ORD-00160,Packed,2026-02-22 07:33:00,Central
+ORD-00161,Picking Started,2026-02-27 22:53:00,West
+ORD-00161,Quality Check,2026-02-28 03:53:00,Central
+ORD-00161,Packed,2026-02-28 10:53:00,Central
+ORD-00162,Picking Started,2026-02-21 02:10:00,West
+ORD-00162,Quality Check,2026-02-21 12:10:00,Central
+ORD-00162,Packed,2026-02-21 20:10:00,Central
+ORD-00163,Picking Started,2026-02-03 16:30:00,East
+ORD-00163,Quality Check,2026-02-03 23:30:00,Central
+ORD-00163,Packed,2026-02-04 00:30:00,Central
+ORD-00164,Picking Started,2026-01-19 15:51:00,West
+ORD-00164,Quality Check,2026-01-19 22:51:00,Central
+ORD-00164,Packed,2026-01-20 00:51:00,Central
+ORD-00165,Picking Started,2026-02-10 04:37:00,West
+ORD-00165,Quality Check,2026-02-10 10:37:00,Central
+ORD-00165,Packed,2026-02-10 14:37:00,Central
+ORD-00166,Picking Started,2026-02-25 21:25:00,East
+ORD-00166,Quality Check,2026-02-26 04:25:00,Central
+ORD-00166,Packed,2026-02-26 12:25:00,Central
+ORD-00167,Picking Started,2026-02-10 12:56:00,East
+ORD-00167,Quality Check,2026-02-10 22:56:00,Central
+ORD-00167,Packed,2026-02-11 00:56:00,Central
+ORD-00168,Picking Started,2026-02-05 19:35:00,East
+ORD-00168,Quality Check,2026-02-05 22:35:00,Central
+ORD-00168,Packed,2026-02-06 03:35:00,Central
+ORD-00169,Picking Started,2026-01-15 10:56:00,West
+ORD-00169,Quality Check,2026-01-15 20:56:00,Central
+ORD-00169,Quality Check,2026-01-15 21:43:00,Central
+ORD-00169,Packed,2026-01-16 05:43:00,Central
+ORD-00171,Picking Started,2026-01-14 14:15:00,West
+ORD-00171,Quality Check,2026-01-14 20:15:00,Central
+ORD-00171,Packed,2026-01-15 05:15:00,Central
+ORD-00172,Picking Started,2026-01-23 10:35:00,East
+ORD-00172,Quality Check,2026-01-23 12:35:00,Central
+ORD-00172,Packed,2026-01-23 13:35:00,Central
+ORD-00173,Picking Started,2026-02-23 20:26:00,West
+ORD-00173,Quality Check,2026-02-23 22:26:00,Central
+ORD-00173,Packed,2026-02-24 04:26:00,Central
+ORD-00174,Picking Started,2026-02-24 23:22:00,East
+ORD-00174,Quality Check,2026-02-25 03:22:00,Central
+ORD-00174,Packed,2026-02-25 04:22:00,Central
+ORD-00175,Picking Started,2026-01-13 09:24:00,East
+ORD-00175,Quality Check,2026-01-13 13:24:00,Central
+ORD-00175,Packed,2026-01-13 21:24:00,Central
+ORD-00176,Picking Started,2026-02-05 10:19:00,East
+ORD-00176,Quality Check,2026-02-05 17:19:00,Central
+ORD-00176,Packed,2026-02-06 00:19:00,Central
+ORD-00177,Picking Started,2026-02-18 23:44:00,East
+ORD-00177,Quality Check,2026-02-19 02:44:00,Central
+ORD-00177,Packed,2026-02-19 06:44:00,Central
+ORD-00178,Picking Started,2026-01-27 04:35:00,West
+ORD-00178,Quality Check,2026-01-27 07:35:00,Central
+ORD-00178,Packed,2026-01-27 10:35:00,Central
+ORD-00179,Picking Started,2026-02-24 22:03:00,East
+ORD-00179,Quality Check,2026-02-25 08:03:00,Central
+ORD-00179,Packed,2026-02-25 14:03:00,Central
+ORD-00180,Picking Started,2026-02-15 00:17:00,West
+ORD-00180,Quality Check,2026-02-15 03:17:00,Central
+ORD-00180,Packed,2026-02-15 12:17:00,Central
+ORD-00181,Picking Started,2026-01-07 19:57:00,West
+ORD-00181,Quality Check,2026-01-07 21:57:00,Central
+ORD-00181,Packed,2026-01-08 00:57:00,Central
+ORD-00182,Picking Started,2026-02-25 06:24:00,West
+ORD-00182,Quality Check,2026-02-25 16:24:00,Central
+ORD-00182,Quality Check,2026-02-25 17:16:00,Central
+ORD-00182,Packed,2026-02-25 21:16:00,Central
+ORD-00183,Picking Started,2026-02-28 21:32:00,West
+ORD-00183,Quality Check,2026-03-01 03:32:00,Central
+ORD-00183,Packed,2026-03-01 05:32:00,Central
+ORD-00184,Picking Started,2026-02-05 22:16:00,West
+ORD-00184,Quality Check,2026-02-06 08:16:00,Central
+ORD-00184,Packed,2026-02-06 12:16:00,Central
+ORD-00185,Picking Started,2026-01-20 14:48:00,West
+ORD-00185,Quality Check,2026-01-20 18:48:00,Central
+ORD-00185,Packed,2026-01-21 01:48:00,Central
+ORD-00186,Picking Started,2026-02-11 11:04:00,East
+ORD-00186,Quality Check,2026-02-11 18:04:00,Central
+ORD-00186,Packed,2026-02-12 00:04:00,Central
+ORD-00188,Picking Started,2026-01-13 21:45:00,East
+ORD-00188,Quality Check,2026-01-14 05:45:00,Central
+ORD-00188,Packed,2026-01-14 09:45:00,Central
+ORD-00189,Picking Started,2026-01-08 04:00:00,West
+ORD-00189,Quality Check,2026-01-08 12:00:00,Central
+ORD-00189,Packed,2026-01-08 16:00:00,Central
+ORD-00190,Picking Started,2026-02-14 16:45:00,West
+ORD-00190,Quality Check,2026-02-15 02:45:00,Central
+ORD-00190,Packed,2026-02-15 11:45:00,Central
+ORD-00191,Picking Started,2026-02-21 04:49:00,East
+ORD-00191,Quality Check,2026-02-21 06:49:00,Central
+ORD-00191,Packed,2026-02-21 13:49:00,Central
+ORD-00192,Picking Started,2026-02-22 14:40:00,East
+ORD-00192,Quality Check,2026-02-22 20:40:00,Central
+ORD-00192,Packed,2026-02-23 05:40:00,Central
+ORD-00193,Picking Started,2026-02-15 05:26:00,East
+ORD-00193,Quality Check,2026-02-15 10:26:00,Central
+ORD-00193,Packed,2026-02-15 19:26:00,Central
+ORD-00194,Picking Started,2026-01-10 10:04:00,East
+ORD-00194,Quality Check,2026-01-10 15:04:00,Central
+ORD-00194,Packed,2026-01-10 22:04:00,Central
+ORD-00195,Picking Started,2026-01-24 16:58:00,East
+ORD-00195,Quality Check,2026-01-24 19:58:00,Central
+ORD-00195,Quality Check,2026-01-24 21:00:00,Central
+ORD-00195,Packed,2026-01-24 22:00:00,Central
+ORD-00196,Picking Started,2026-02-23 07:33:00,West
+ORD-00196,Quality Check,2026-02-23 16:33:00,Central
+ORD-00196,Packed,2026-02-24 01:33:00,Central
+ORD-00197,Picking Started,2026-01-07 12:49:00,West
+ORD-00197,Quality Check,2026-01-07 18:49:00,Central
+ORD-00197,Packed,2026-01-08 01:49:00,Central
+ORD-00198,Picking Started,2026-02-06 11:29:00,West
+ORD-00198,Quality Check,2026-02-06 16:29:00,Central
+ORD-00198,Packed,2026-02-06 17:29:00,Central
+ORD-00199,Picking Started,2026-01-12 04:51:00,West
+ORD-00199,Quality Check,2026-01-12 11:51:00,Central
+ORD-00199,Packed,2026-01-12 12:51:00,Central
+ORD-00200,Picking Started,2026-01-18 13:31:00,East
+ORD-00200,Quality Check,2026-01-18 18:31:00,Central
+ORD-00200,Packed,2026-01-19 03:31:00,Central
+ORD-00201,Picking Started,2026-02-12 11:09:00,East
+ORD-00201,Quality Check,2026-02-12 14:09:00,Central
+ORD-00201,Packed,2026-02-12 22:09:00,Central
+ORD-00202,Picking Started,2026-02-07 22:54:00,East
+ORD-00202,Quality Check,2026-02-08 02:54:00,Central
+ORD-00202,Packed,2026-02-08 11:54:00,Central
+ORD-00203,Picking Started,2026-02-14 16:40:00,West
+ORD-00203,Quality Check,2026-02-15 01:40:00,Central
+ORD-00203,Packed,2026-02-15 09:40:00,Central
+ORD-00205,Picking Started,2026-01-30 21:51:00,East
+ORD-00205,Quality Check,2026-01-31 01:51:00,Central
+ORD-00205,Packed,2026-01-31 07:51:00,Central
+ORD-00206,Picking Started,2026-02-18 20:14:00,East
+ORD-00206,Quality Check,2026-02-19 06:14:00,Central
+ORD-00206,Packed,2026-02-19 12:14:00,Central
+ORD-00207,Picking Started,2026-01-18 00:49:00,West
+ORD-00207,Quality Check,2026-01-18 07:49:00,Central
+ORD-00207,Packed,2026-01-18 09:49:00,Central
+ORD-00208,Picking Started,2026-02-15 14:16:00,West
+ORD-00208,Quality Check,2026-02-15 15:16:00,Central
+ORD-00208,Quality Check,2026-02-15 16:11:00,Central
+ORD-00208,Packed,2026-02-15 19:11:00,Central
+ORD-00209,Picking Started,2026-02-03 19:55:00,West
+ORD-00209,Quality Check,2026-02-04 03:55:00,Central
+ORD-00209,Packed,2026-02-04 11:55:00,Central
+ORD-00210,Picking Started,2026-02-08 12:37:00,West
+ORD-00210,Quality Check,2026-02-08 16:37:00,Central
+ORD-00210,Packed,2026-02-08 18:37:00,Central
+ORD-00211,Picking Started,2026-01-26 17:38:00,East
+ORD-00211,Quality Check,2026-01-27 01:38:00,Central
+ORD-00211,Packed,2026-01-27 08:38:00,Central
+ORD-00212,Picking Started,2026-02-05 06:15:00,West
+ORD-00212,Quality Check,2026-02-05 12:15:00,Central
+ORD-00212,Packed,2026-02-05 15:15:00,Central
+ORD-00213,Picking Started,2026-01-31 14:40:00,East
+ORD-00213,Quality Check,2026-01-31 19:40:00,Central
+ORD-00213,Packed,2026-02-01 03:40:00,Central
+ORD-00214,Picking Started,2026-01-31 03:00:00,West
+ORD-00214,Quality Check,2026-01-31 07:00:00,Central
+ORD-00214,Packed,2026-01-31 14:00:00,Central
+ORD-00215,Picking Started,2026-02-05 13:18:00,West
+ORD-00215,Quality Check,2026-02-05 22:18:00,Central
+ORD-00215,Packed,2026-02-06 00:18:00,Central
+ORD-00216,Picking Started,2026-02-23 13:26:00,East
+ORD-00216,Quality Check,2026-02-23 19:26:00,Central
+ORD-00216,Packed,2026-02-23 23:26:00,Central
+ORD-00217,Picking Started,2026-02-03 04:52:00,East
+ORD-00217,Quality Check,2026-02-03 07:52:00,Central
+ORD-00217,Packed,2026-02-03 14:52:00,Central
+ORD-00218,Picking Started,2026-01-09 20:55:00,West
+ORD-00218,Quality Check,2026-01-10 03:55:00,Central
+ORD-00218,Packed,2026-01-10 12:55:00,Central
+ORD-00219,Picking Started,2026-01-16 18:30:00,East
+ORD-00219,Quality Check,2026-01-17 02:30:00,Central
+ORD-00219,Packed,2026-01-17 11:30:00,Central
+ORD-00220,Picking Started,2026-02-19 01:23:00,West
+ORD-00220,Quality Check,2026-02-19 06:23:00,Central
+ORD-00220,Packed,2026-02-19 13:23:00,Central
+ORD-00222,Picking Started,2026-01-07 18:34:00,East
+ORD-00222,Quality Check,2026-01-07 23:34:00,Central
+ORD-00222,Packed,2026-01-08 03:34:00,Central
+ORD-00223,Picking Started,2026-02-17 03:53:00,West
+ORD-00223,Quality Check,2026-02-17 08:53:00,Central
+ORD-00223,Packed,2026-02-17 10:53:00,Central
+ORD-00224,Picking Started,2026-01-27 13:08:00,East
+ORD-00224,Quality Check,2026-01-27 16:08:00,Central
+ORD-00224,Packed,2026-01-27 23:08:00,Central
+ORD-00225,Picking Started,2026-01-31 00:58:00,East
+ORD-00225,Quality Check,2026-01-31 07:58:00,Central
+ORD-00225,Packed,2026-01-31 10:58:00,Central
+ORD-00226,Picking Started,2026-01-23 08:48:00,West
+ORD-00226,Quality Check,2026-01-23 13:48:00,Central
+ORD-00226,Packed,2026-01-23 21:48:00,Central
+ORD-00227,Picking Started,2026-02-25 21:39:00,East
+ORD-00227,Quality Check,2026-02-26 02:39:00,Central
+ORD-00227,Packed,2026-02-26 05:39:00,Central
+ORD-00228,Picking Started,2026-01-23 15:44:00,West
+ORD-00228,Quality Check,2026-01-24 01:44:00,Central
+ORD-00228,Packed,2026-01-24 08:44:00,Central
+ORD-00229,Picking Started,2026-02-14 06:56:00,East
+ORD-00229,Quality Check,2026-02-14 10:56:00,Central
+ORD-00229,Packed,2026-02-14 17:56:00,Central
+ORD-00230,Picking Started,2026-02-15 09:34:00,West
+ORD-00230,Quality Check,2026-02-15 15:34:00,Central
+ORD-00230,Packed,2026-02-15 23:34:00,Central
+ORD-00231,Picking Started,2026-01-10 09:03:00,West
+ORD-00231,Quality Check,2026-01-10 14:03:00,Central
+ORD-00231,Packed,2026-01-10 21:03:00,Central
+ORD-00232,Picking Started,2026-01-06 13:14:00,West
+ORD-00232,Quality Check,2026-01-06 19:14:00,Central
+ORD-00232,Packed,2026-01-06 22:14:00,Central
+ORD-00233,Picking Started,2026-02-04 04:18:00,West
+ORD-00233,Quality Check,2026-02-04 13:18:00,Central
+ORD-00233,Packed,2026-02-04 19:18:00,Central
+ORD-00234,Picking Started,2026-02-12 09:14:00,East
+ORD-00234,Quality Check,2026-02-12 13:14:00,Central
+ORD-00234,Quality Check,2026-02-12 14:50:00,Central
+ORD-00234,Packed,2026-02-12 22:50:00,Central
+ORD-00235,Picking Started,2026-02-15 09:22:00,East
+ORD-00235,Quality Check,2026-02-15 15:22:00,Central
+ORD-00235,Packed,2026-02-15 21:22:00,Central
+ORD-00236,Picking Started,2026-02-23 08:53:00,West
+ORD-00236,Quality Check,2026-02-23 17:53:00,Central
+ORD-00236,Packed,2026-02-23 18:53:00,Central
+ORD-00237,Picking Started,2026-01-29 01:19:00,East
+ORD-00237,Quality Check,2026-01-29 11:19:00,Central
+ORD-00237,Packed,2026-01-29 13:19:00,Central
+ORD-00239,Picking Started,2026-01-12 04:38:00,West
+ORD-00239,Quality Check,2026-01-12 09:38:00,Central
+ORD-00239,Packed,2026-01-12 14:38:00,Central
+ORD-00240,Picking Started,2026-02-12 04:39:00,East
+ORD-00240,Quality Check,2026-02-12 06:39:00,Central
+ORD-00240,Packed,2026-02-12 11:39:00,Central
+ORD-00241,Picking Started,2026-02-12 18:41:00,West
+ORD-00241,Quality Check,2026-02-12 19:41:00,Central
+ORD-00241,Packed,2026-02-12 22:41:00,Central
+ORD-00242,Picking Started,2026-02-10 03:15:00,West
+ORD-00242,Quality Check,2026-02-10 12:15:00,Central
+ORD-00242,Packed,2026-02-10 18:15:00,Central
+ORD-00243,Picking Started,2026-01-11 06:43:00,West
+ORD-00243,Quality Check,2026-01-11 08:43:00,Central
+ORD-00243,Packed,2026-01-11 17:43:00,Central
+ORD-00244,Picking Started,2026-01-07 02:21:00,East
+ORD-00244,Quality Check,2026-01-07 07:21:00,Central
+ORD-00244,Packed,2026-01-07 08:21:00,Central
+ORD-00245,Picking Started,2026-01-21 10:44:00,West
+ORD-00245,Quality Check,2026-01-21 12:44:00,Central
+ORD-00245,Packed,2026-01-21 14:44:00,Central
+ORD-00246,Picking Started,2026-01-09 05:37:00,East
+ORD-00246,Quality Check,2026-01-09 08:37:00,Central
+ORD-00246,Packed,2026-01-09 12:37:00,Central
+ORD-00247,Picking Started,2026-02-20 17:26:00,East
+ORD-00247,Quality Check,2026-02-20 23:26:00,Central
+ORD-00247,Quality Check,2026-02-21 01:24:00,Central
+ORD-00247,Packed,2026-02-21 05:24:00,Central
+ORD-00248,Picking Started,2026-01-07 07:03:00,East
+ORD-00248,Quality Check,2026-01-07 12:03:00,Central
+ORD-00248,Packed,2026-01-07 21:03:00,Central
+ORD-00249,Picking Started,2026-02-15 08:48:00,West
+ORD-00249,Quality Check,2026-02-15 09:48:00,Central
+ORD-00249,Packed,2026-02-15 15:48:00,Central
+ORD-00250,Picking Started,2026-01-20 10:02:00,East
+ORD-00250,Quality Check,2026-01-20 18:02:00,Central
+ORD-00250,Packed,2026-01-21 00:02:00,Central
+ORD-00251,Picking Started,2026-02-16 19:01:00,East
+ORD-00251,Quality Check,2026-02-17 02:01:00,Central
+ORD-00251,Packed,2026-02-17 09:01:00,Central
+ORD-00252,Picking Started,2026-01-31 03:28:00,East
+ORD-00252,Quality Check,2026-01-31 11:28:00,Central
+ORD-00252,Packed,2026-01-31 16:28:00,Central
+ORD-00253,Picking Started,2026-02-25 10:49:00,East
+ORD-00253,Quality Check,2026-02-25 20:49:00,Central
+ORD-00253,Packed,2026-02-25 22:49:00,Central
+ORD-00254,Picking Started,2026-02-21 02:53:00,West
+ORD-00254,Quality Check,2026-02-21 04:53:00,Central
+ORD-00254,Packed,2026-02-21 05:53:00,Central
+ORD-00256,Picking Started,2026-01-16 09:08:00,West
+ORD-00256,Quality Check,2026-01-16 15:08:00,Central
+ORD-00256,Packed,2026-01-16 20:08:00,Central
+ORD-00257,Picking Started,2026-02-03 21:44:00,East
+ORD-00257,Quality Check,2026-02-04 07:44:00,Central
+ORD-00257,Packed,2026-02-04 11:44:00,Central
+ORD-00258,Picking Started,2026-02-22 06:59:00,West
+ORD-00258,Quality Check,2026-02-22 15:59:00,Central
+ORD-00258,Packed,2026-02-22 23:59:00,Central
+ORD-00259,Picking Started,2026-01-22 20:18:00,West
+ORD-00259,Quality Check,2026-01-22 22:18:00,Central
+ORD-00259,Packed,2026-01-23 00:18:00,Central
+ORD-00260,Picking Started,2026-02-28 05:24:00,West
+ORD-00260,Quality Check,2026-02-28 14:24:00,Central
+ORD-00260,Quality Check,2026-02-28 15:53:00,Central
+ORD-00260,Packed,2026-02-28 20:53:00,Central
+ORD-00261,Picking Started,2026-01-18 06:37:00,West
+ORD-00261,Quality Check,2026-01-18 10:37:00,Central
+ORD-00261,Packed,2026-01-18 15:37:00,Central
+ORD-00262,Picking Started,2026-01-11 23:18:00,West
+ORD-00262,Quality Check,2026-01-12 09:18:00,Central
+ORD-00262,Packed,2026-01-12 13:18:00,Central
+ORD-00263,Picking Started,2026-01-15 21:53:00,West
+ORD-00263,Quality Check,2026-01-16 00:53:00,Central
+ORD-00263,Packed,2026-01-16 01:53:00,Central
+ORD-00264,Picking Started,2026-02-13 01:46:00,East
+ORD-00264,Quality Check,2026-02-13 11:46:00,Central
+ORD-00264,Packed,2026-02-13 17:46:00,Central
+ORD-00265,Picking Started,2026-01-27 00:55:00,West
+ORD-00265,Quality Check,2026-01-27 01:55:00,Central
+ORD-00265,Packed,2026-01-27 03:55:00,Central
+ORD-00266,Picking Started,2026-02-06 19:30:00,East
+ORD-00266,Quality Check,2026-02-07 05:30:00,Central
+ORD-00266,Packed,2026-02-07 11:30:00,Central
+ORD-00267,Picking Started,2026-02-15 19:16:00,West
+ORD-00267,Quality Check,2026-02-16 02:16:00,Central
+ORD-00267,Packed,2026-02-16 03:16:00,Central
+ORD-00268,Picking Started,2026-02-20 02:29:00,West
+ORD-00268,Quality Check,2026-02-20 09:29:00,Central
+ORD-00268,Packed,2026-02-20 17:29:00,Central
+ORD-00269,Picking Started,2026-01-30 17:49:00,East
+ORD-00269,Quality Check,2026-01-31 00:49:00,Central
+ORD-00269,Packed,2026-01-31 07:49:00,Central
+ORD-00270,Picking Started,2026-02-16 13:45:00,East
+ORD-00270,Quality Check,2026-02-16 14:45:00,Central
+ORD-00270,Packed,2026-02-16 19:45:00,Central
+ORD-00271,Picking Started,2026-02-13 07:32:00,West
+ORD-00271,Quality Check,2026-02-13 14:32:00,Central
+ORD-00271,Packed,2026-02-13 22:32:00,Central
+ORD-00273,Picking Started,2026-01-08 19:12:00,West
+ORD-00273,Quality Check,2026-01-09 02:12:00,Central
+ORD-00273,Quality Check,2026-01-09 04:08:00,Central
+ORD-00273,Packed,2026-01-09 10:08:00,Central
+ORD-00274,Picking Started,2026-01-23 07:42:00,West
+ORD-00274,Quality Check,2026-01-23 14:42:00,Central
+ORD-00274,Packed,2026-01-23 22:42:00,Central
+ORD-00275,Picking Started,2026-03-01 17:16:00,East
+ORD-00275,Quality Check,2026-03-01 23:16:00,Central
+ORD-00275,Packed,2026-03-02 00:16:00,Central
+ORD-00276,Picking Started,2026-01-08 09:16:00,West
+ORD-00276,Quality Check,2026-01-08 15:16:00,Central
+ORD-00276,Packed,2026-01-08 16:16:00,Central
+ORD-00277,Picking Started,2026-01-21 12:43:00,West
+ORD-00277,Quality Check,2026-01-21 19:43:00,Central
+ORD-00277,Packed,2026-01-21 22:43:00,Central
+ORD-00278,Picking Started,2026-02-24 16:06:00,West
+ORD-00278,Quality Check,2026-02-24 17:06:00,Central
+ORD-00278,Packed,2026-02-24 20:06:00,Central
+ORD-00279,Picking Started,2026-01-08 14:58:00,West
+ORD-00279,Quality Check,2026-01-08 19:58:00,Central
+ORD-00279,Packed,2026-01-09 03:58:00,Central
+ORD-00280,Picking Started,2026-02-16 23:08:00,East
+ORD-00280,Quality Check,2026-02-17 03:08:00,Central
+ORD-00280,Packed,2026-02-17 05:08:00,Central
+ORD-00281,Picking Started,2026-02-12 19:25:00,West
+ORD-00281,Quality Check,2026-02-12 22:25:00,Central
+ORD-00281,Packed,2026-02-13 06:25:00,Central
+ORD-00282,Picking Started,2026-02-25 06:37:00,West
+ORD-00282,Quality Check,2026-02-25 07:37:00,Central
+ORD-00282,Packed,2026-02-25 16:37:00,Central
+ORD-00283,Picking Started,2026-01-16 11:46:00,East
+ORD-00283,Quality Check,2026-01-16 21:46:00,Central
+ORD-00283,Packed,2026-01-17 01:46:00,Central
+ORD-00284,Picking Started,2026-01-15 10:46:00,West
+ORD-00284,Quality Check,2026-01-15 18:46:00,Central
+ORD-00284,Packed,2026-01-15 20:46:00,Central
+ORD-00285,Picking Started,2026-01-05 22:19:00,East
+ORD-00285,Quality Check,2026-01-06 07:19:00,Central
+ORD-00285,Packed,2026-01-06 09:19:00,Central
+ORD-00286,Picking Started,2026-01-21 16:30:00,West
+ORD-00286,Quality Check,2026-01-21 18:30:00,Central
+ORD-00286,Quality Check,2026-01-21 20:23:00,Central
+ORD-00286,Packed,2026-01-21 21:23:00,Central
+ORD-00287,Picking Started,2026-02-08 16:36:00,East
+ORD-00287,Quality Check,2026-02-08 22:36:00,Central
+ORD-00287,Packed,2026-02-09 00:36:00,Central
+ORD-00288,Picking Started,2026-02-19 17:58:00,West
+ORD-00288,Quality Check,2026-02-20 03:58:00,Central
+ORD-00288,Packed,2026-02-20 11:58:00,Central
+ORD-00290,Picking Started,2026-02-06 14:04:00,East
+ORD-00290,Quality Check,2026-02-06 18:04:00,Central
+ORD-00290,Packed,2026-02-06 21:04:00,Central
+ORD-00291,Picking Started,2026-01-20 20:41:00,East
+ORD-00291,Quality Check,2026-01-20 23:41:00,Central
+ORD-00291,Packed,2026-01-21 03:41:00,Central
+ORD-00292,Picking Started,2026-02-18 19:43:00,West
+ORD-00292,Quality Check,2026-02-18 22:43:00,Central
+ORD-00292,Packed,2026-02-18 23:43:00,Central
+ORD-00293,Picking Started,2026-02-27 21:54:00,East
+ORD-00293,Quality Check,2026-02-28 07:54:00,Central
+ORD-00293,Packed,2026-02-28 11:54:00,Central
+ORD-00294,Picking Started,2026-01-28 21:46:00,West
+ORD-00294,Quality Check,2026-01-29 06:46:00,Central
+ORD-00294,Packed,2026-01-29 12:46:00,Central
+ORD-00295,Picking Started,2026-01-28 03:20:00,East
+ORD-00295,Quality Check,2026-01-28 08:20:00,Central
+ORD-00295,Packed,2026-01-28 12:20:00,Central
+ORD-00296,Picking Started,2026-02-08 15:45:00,East
+ORD-00296,Quality Check,2026-02-08 18:45:00,Central
+ORD-00296,Packed,2026-02-09 02:45:00,Central
+ORD-00297,Picking Started,2026-01-26 03:22:00,West
+ORD-00297,Quality Check,2026-01-26 12:22:00,Central
+ORD-00297,Packed,2026-01-26 20:22:00,Central
+ORD-00298,Picking Started,2026-02-01 16:14:00,East
+ORD-00298,Quality Check,2026-02-02 00:14:00,Central
+ORD-00298,Packed,2026-02-02 03:14:00,Central
+ORD-00299,Picking Started,2026-02-23 04:36:00,East
+ORD-00299,Quality Check,2026-02-23 07:36:00,Central
+ORD-00299,Quality Check,2026-02-23 08:25:00,Central
+ORD-00299,Packed,2026-02-23 15:25:00,Central
+ORD-00300,Picking Started,2026-01-24 19:07:00,East
+ORD-00300,Quality Check,2026-01-24 22:07:00,Central
+ORD-00300,Packed,2026-01-25 05:07:00,Central
+ORD-00301,Picking Started,2026-01-21 18:36:00,West
+ORD-00301,Quality Check,2026-01-21 23:36:00,Central
+ORD-00301,Packed,2026-01-22 06:36:00,Central
+ORD-00302,Picking Started,2026-02-21 07:15:00,West
+ORD-00302,Quality Check,2026-02-21 10:15:00,Central
+ORD-00302,Packed,2026-02-21 11:15:00,Central
+ORD-00303,Picking Started,2026-02-15 18:03:00,East
+ORD-00303,Quality Check,2026-02-15 22:03:00,Central
+ORD-00303,Packed,2026-02-16 07:03:00,Central
+ORD-00304,Picking Started,2026-02-04 23:48:00,West
+ORD-00304,Quality Check,2026-02-05 05:48:00,Central
+ORD-00304,Packed,2026-02-05 12:48:00,Central
+ORD-00305,Picking Started,2026-01-23 03:48:00,West
+ORD-00305,Quality Check,2026-01-23 07:48:00,Central
+ORD-00305,Packed,2026-01-23 13:48:00,Central
+ORD-00307,Picking Started,2026-01-13 18:20:00,West
+ORD-00307,Quality Check,2026-01-14 00:20:00,Central
+ORD-00307,Packed,2026-01-14 06:20:00,Central
+ORD-00308,Picking Started,2026-02-13 04:53:00,West
+ORD-00308,Quality Check,2026-02-13 14:53:00,Central
+ORD-00308,Packed,2026-02-13 22:53:00,Central
+ORD-00309,Picking Started,2026-02-04 07:46:00,East
+ORD-00309,Quality Check,2026-02-04 11:46:00,Central
+ORD-00309,Packed,2026-02-04 16:46:00,Central
+ORD-00310,Picking Started,2026-01-21 23:36:00,West
+ORD-00310,Quality Check,2026-01-22 00:36:00,Central
+ORD-00310,Packed,2026-01-22 06:36:00,Central
+ORD-00311,Picking Started,2026-01-28 22:39:00,East
+ORD-00311,Quality Check,2026-01-29 01:39:00,Central
+ORD-00311,Packed,2026-01-29 04:39:00,Central
+ORD-00312,Picking Started,2026-02-19 10:45:00,East
+ORD-00312,Quality Check,2026-02-19 18:45:00,Central
+ORD-00312,Quality Check,2026-02-19 19:51:00,Central
+ORD-00312,Packed,2026-02-20 00:51:00,Central
+ORD-00313,Picking Started,2026-01-25 15:59:00,East
+ORD-00313,Quality Check,2026-01-25 23:59:00,Central
+ORD-00313,Packed,2026-01-26 06:59:00,Central
+ORD-00314,Picking Started,2026-01-06 12:46:00,West
+ORD-00314,Quality Check,2026-01-06 16:46:00,Central
+ORD-00314,Packed,2026-01-06 17:46:00,Central
+ORD-00315,Picking Started,2026-02-10 14:19:00,West
+ORD-00315,Quality Check,2026-02-11 00:19:00,Central
+ORD-00315,Packed,2026-02-11 04:19:00,Central
+ORD-00316,Picking Started,2026-01-22 17:30:00,West
+ORD-00316,Quality Check,2026-01-22 23:30:00,Central
+ORD-00316,Packed,2026-01-23 06:30:00,Central
+ORD-00317,Picking Started,2026-02-27 18:47:00,East
+ORD-00317,Quality Check,2026-02-27 23:47:00,Central
+ORD-00317,Packed,2026-02-28 06:47:00,Central
+ORD-00318,Picking Started,2026-01-08 14:16:00,West
+ORD-00318,Quality Check,2026-01-09 00:16:00,Central
+ORD-00318,Packed,2026-01-09 01:16:00,Central
+ORD-00319,Picking Started,2026-01-11 18:20:00,West
+ORD-00319,Quality Check,2026-01-11 22:20:00,Central
+ORD-00319,Packed,2026-01-12 04:20:00,Central
+ORD-00320,Picking Started,2026-01-29 23:30:00,East
+ORD-00320,Quality Check,2026-01-30 03:30:00,Central
+ORD-00320,Packed,2026-01-30 08:30:00,Central
+ORD-00321,Picking Started,2026-02-18 05:56:00,East
+ORD-00321,Quality Check,2026-02-18 11:56:00,Central
+ORD-00321,Packed,2026-02-18 16:56:00,Central
+ORD-00322,Picking Started,2026-01-20 02:23:00,West
+ORD-00322,Quality Check,2026-01-20 06:23:00,Central
+ORD-00322,Packed,2026-01-20 10:23:00,Central
+ORD-00324,Picking Started,2026-01-17 10:10:00,East
+ORD-00324,Quality Check,2026-01-17 16:10:00,Central
+ORD-00324,Packed,2026-01-17 17:10:00,Central
+ORD-00325,Picking Started,2026-02-08 06:48:00,East
+ORD-00325,Quality Check,2026-02-08 11:48:00,Central
+ORD-00325,Quality Check,2026-02-08 12:37:00,Central
+ORD-00325,Packed,2026-02-08 20:37:00,Central
+ORD-00326,Picking Started,2026-01-15 10:45:00,East
+ORD-00326,Quality Check,2026-01-15 16:45:00,Central
+ORD-00326,Packed,2026-01-15 18:45:00,Central
+ORD-00327,Picking Started,2026-01-22 11:43:00,West
+ORD-00327,Quality Check,2026-01-22 12:43:00,Central
+ORD-00327,Packed,2026-01-22 14:43:00,Central
+ORD-00328,Picking Started,2026-02-02 23:56:00,West
+ORD-00328,Quality Check,2026-02-03 05:56:00,Central
+ORD-00328,Packed,2026-02-03 09:56:00,Central
+ORD-00329,Picking Started,2026-02-16 21:53:00,East
+ORD-00329,Quality Check,2026-02-17 02:53:00,Central
+ORD-00329,Packed,2026-02-17 04:53:00,Central
+ORD-00330,Picking Started,2026-02-06 05:39:00,East
+ORD-00330,Quality Check,2026-02-06 15:39:00,Central
+ORD-00330,Packed,2026-02-06 23:39:00,Central
+ORD-00331,Picking Started,2026-01-14 08:09:00,West
+ORD-00331,Quality Check,2026-01-14 18:09:00,Central
+ORD-00331,Packed,2026-01-14 19:09:00,Central
+ORD-00332,Picking Started,2026-02-04 20:15:00,East
+ORD-00332,Quality Check,2026-02-04 21:15:00,Central
+ORD-00332,Packed,2026-02-04 22:15:00,Central
+ORD-00333,Picking Started,2026-01-29 19:46:00,East
+ORD-00333,Quality Check,2026-01-29 20:46:00,Central
+ORD-00333,Packed,2026-01-30 01:46:00,Central
+ORD-00334,Picking Started,2026-01-14 03:03:00,West
+ORD-00334,Quality Check,2026-01-14 05:03:00,Central
+ORD-00334,Packed,2026-01-14 12:03:00,Central
+ORD-00335,Picking Started,2026-01-05 22:59:00,East
+ORD-00335,Quality Check,2026-01-06 06:59:00,Central
+ORD-00335,Packed,2026-01-06 15:59:00,Central
+ORD-00336,Picking Started,2026-02-20 06:17:00,East
+ORD-00336,Quality Check,2026-02-20 11:17:00,Central
+ORD-00336,Packed,2026-02-20 15:17:00,Central
+ORD-00337,Picking Started,2026-02-17 21:06:00,West
+ORD-00337,Quality Check,2026-02-18 00:06:00,Central
+ORD-00337,Packed,2026-02-18 07:06:00,Central
+ORD-00338,Picking Started,2026-02-17 00:10:00,East
+ORD-00338,Quality Check,2026-02-17 06:10:00,Central
+ORD-00338,Quality Check,2026-02-17 06:48:00,Central
+ORD-00338,Packed,2026-02-17 13:48:00,Central
+ORD-00339,Picking Started,2026-02-19 12:18:00,East
+ORD-00339,Quality Check,2026-02-19 15:18:00,Central
+ORD-00339,Packed,2026-02-19 23:18:00,Central
+ORD-00341,Picking Started,2026-01-18 17:34:00,East
+ORD-00341,Quality Check,2026-01-18 19:34:00,Central
+ORD-00341,Packed,2026-01-18 23:34:00,Central
+ORD-00342,Picking Started,2026-02-27 02:55:00,West
+ORD-00342,Quality Check,2026-02-27 03:55:00,Central
+ORD-00342,Packed,2026-02-27 11:55:00,Central
+ORD-00343,Picking Started,2026-01-29 01:16:00,West
+ORD-00343,Quality Check,2026-01-29 07:16:00,Central
+ORD-00343,Packed,2026-01-29 15:16:00,Central
+ORD-00344,Picking Started,2026-02-14 03:15:00,East
+ORD-00344,Quality Check,2026-02-14 11:15:00,Central
+ORD-00344,Packed,2026-02-14 19:15:00,Central
+ORD-00345,Picking Started,2026-01-26 17:06:00,East
+ORD-00345,Quality Check,2026-01-26 20:06:00,Central
+ORD-00345,Packed,2026-01-27 01:06:00,Central
+ORD-00346,Picking Started,2026-01-24 12:34:00,West
+ORD-00346,Quality Check,2026-01-24 14:34:00,Central
+ORD-00346,Packed,2026-01-24 19:34:00,Central
+ORD-00347,Picking Started,2026-02-24 04:22:00,East
+ORD-00347,Quality Check,2026-02-24 12:22:00,Central
+ORD-00347,Packed,2026-02-24 20:22:00,Central
+ORD-00348,Picking Started,2026-01-09 19:44:00,West
+ORD-00348,Quality Check,2026-01-09 22:44:00,Central
+ORD-00348,Packed,2026-01-10 06:44:00,Central
+ORD-00349,Picking Started,2026-02-09 18:00:00,West
+ORD-00349,Quality Check,2026-02-09 23:00:00,Central
+ORD-00349,Packed,2026-02-10 08:00:00,Central
+ORD-00350,Picking Started,2026-01-09 07:25:00,East
+ORD-00350,Quality Check,2026-01-09 12:25:00,Central
+ORD-00350,Packed,2026-01-09 21:25:00,Central
+ORD-00351,Picking Started,2026-02-22 05:14:00,West
+ORD-00351,Quality Check,2026-02-22 10:14:00,Central
+ORD-00351,Quality Check,2026-02-22 11:18:00,Central
+ORD-00351,Packed,2026-02-22 12:18:00,Central
+ORD-00352,Picking Started,2026-01-12 03:26:00,East
+ORD-00352,Quality Check,2026-01-12 10:26:00,Central
+ORD-00352,Packed,2026-01-12 17:26:00,Central
+ORD-00353,Picking Started,2026-01-30 07:53:00,West
+ORD-00353,Quality Check,2026-01-30 13:53:00,Central
+ORD-00353,Packed,2026-01-30 22:53:00,Central
+ORD-00354,Picking Started,2026-02-11 16:56:00,East
+ORD-00354,Quality Check,2026-02-11 17:56:00,Central
+ORD-00354,Packed,2026-02-12 02:56:00,Central
+ORD-00355,Picking Started,2026-02-02 03:54:00,West
+ORD-00355,Quality Check,2026-02-02 04:54:00,Central
+ORD-00355,Packed,2026-02-02 11:54:00,Central
+ORD-00356,Picking Started,2026-01-28 19:39:00,West
+ORD-00356,Quality Check,2026-01-29 04:39:00,Central
+ORD-00356,Packed,2026-01-29 09:39:00,Central
+ORD-00358,Picking Started,2026-02-01 17:34:00,East
+ORD-00358,Quality Check,2026-02-01 18:34:00,Central
+ORD-00358,Packed,2026-02-02 02:34:00,Central
+ORD-00359,Picking Started,2026-02-24 22:15:00,East
+ORD-00359,Quality Check,2026-02-25 08:15:00,Central
+ORD-00359,Packed,2026-02-25 15:15:00,Central
+ORD-00360,Picking Started,2026-01-23 19:06:00,West
+ORD-00360,Quality Check,2026-01-23 20:06:00,Central
+ORD-00360,Packed,2026-01-24 04:06:00,Central
+ORD-00361,Picking Started,2026-02-24 04:26:00,West
+ORD-00361,Quality Check,2026-02-24 08:26:00,Central
+ORD-00361,Packed,2026-02-24 12:26:00,Central
+ORD-00362,Picking Started,2026-02-01 04:45:00,West
+ORD-00362,Quality Check,2026-02-01 09:45:00,Central
+ORD-00362,Packed,2026-02-01 11:45:00,Central
+ORD-00363,Picking Started,2026-02-15 12:59:00,East
+ORD-00363,Quality Check,2026-02-15 14:59:00,Central
+ORD-00363,Packed,2026-02-15 19:59:00,Central
+ORD-00364,Picking Started,2026-01-07 14:41:00,West
+ORD-00364,Quality Check,2026-01-08 00:41:00,Central
+ORD-00364,Quality Check,2026-01-08 01:30:00,Central
+ORD-00364,Packed,2026-01-08 03:30:00,Central
+ORD-00365,Picking Started,2026-02-01 13:04:00,East
+ORD-00365,Quality Check,2026-02-01 23:04:00,Central
+ORD-00365,Packed,2026-02-02 04:04:00,Central
+ORD-00366,Picking Started,2026-02-13 06:10:00,West
+ORD-00366,Quality Check,2026-02-13 15:10:00,Central
+ORD-00366,Packed,2026-02-13 17:10:00,Central
+ORD-00367,Picking Started,2026-02-01 05:09:00,East
+ORD-00367,Quality Check,2026-02-01 08:09:00,Central
+ORD-00367,Packed,2026-02-01 12:09:00,Central
+ORD-00368,Picking Started,2026-02-08 17:58:00,East
+ORD-00368,Quality Check,2026-02-08 21:58:00,Central
+ORD-00368,Packed,2026-02-08 23:58:00,Central
+ORD-00369,Picking Started,2026-01-11 00:12:00,West
+ORD-00369,Quality Check,2026-01-11 03:12:00,Central
+ORD-00369,Packed,2026-01-11 06:12:00,Central
+ORD-00370,Picking Started,2026-02-04 20:49:00,East
+ORD-00370,Quality Check,2026-02-04 23:49:00,Central
+ORD-00370,Packed,2026-02-05 01:49:00,Central
+ORD-00371,Picking Started,2026-01-14 02:02:00,East
+ORD-00371,Quality Check,2026-01-14 03:02:00,Central
+ORD-00371,Packed,2026-01-14 07:02:00,Central
+ORD-00372,Picking Started,2026-02-14 11:03:00,East
+ORD-00372,Quality Check,2026-02-14 13:03:00,Central
+ORD-00372,Packed,2026-02-14 14:03:00,Central
+ORD-00373,Picking Started,2026-02-02 15:20:00,West
+ORD-00373,Quality Check,2026-02-02 21:20:00,Central
+ORD-00373,Packed,2026-02-03 04:20:00,Central
+ORD-00375,Picking Started,2026-01-15 10:26:00,West
+ORD-00375,Quality Check,2026-01-15 12:26:00,Central
+ORD-00375,Packed,2026-01-15 16:26:00,Central
+ORD-00376,Picking Started,2026-01-23 07:22:00,East
+ORD-00376,Quality Check,2026-01-23 11:22:00,Central
+ORD-00376,Packed,2026-01-23 16:22:00,Central
+ORD-00377,Picking Started,2026-02-28 23:19:00,West
+ORD-00377,Quality Check,2026-03-01 09:19:00,Central
+ORD-00377,Quality Check,2026-03-01 10:29:00,Central
+ORD-00377,Packed,2026-03-01 19:29:00,Central
+ORD-00378,Picking Started,2026-02-04 17:54:00,East
+ORD-00378,Quality Check,2026-02-05 00:54:00,Central
+ORD-00378,Packed,2026-02-05 03:54:00,Central
+ORD-00379,Picking Started,2026-02-26 14:22:00,West
+ORD-00379,Quality Check,2026-02-26 21:22:00,Central
+ORD-00379,Packed,2026-02-27 06:22:00,Central
+ORD-00380,Picking Started,2026-02-16 00:00:00,East
+ORD-00380,Quality Check,2026-02-16 01:00:00,Central
+ORD-00380,Packed,2026-02-16 03:00:00,Central
+ORD-00381,Picking Started,2026-01-21 00:05:00,East
+ORD-00381,Quality Check,2026-01-21 08:05:00,Central
+ORD-00381,Packed,2026-01-21 09:05:00,Central
+ORD-00382,Picking Started,2026-01-28 13:39:00,East
+ORD-00382,Quality Check,2026-01-28 20:39:00,Central
+ORD-00382,Packed,2026-01-29 04:39:00,Central
+ORD-00383,Picking Started,2026-01-18 15:05:00,West
+ORD-00383,Quality Check,2026-01-18 19:05:00,Central
+ORD-00383,Packed,2026-01-19 01:05:00,Central
+ORD-00384,Picking Started,2026-01-24 20:12:00,West
+ORD-00384,Quality Check,2026-01-25 03:12:00,Central
+ORD-00384,Packed,2026-01-25 08:12:00,Central
+ORD-00385,Picking Started,2026-01-18 23:22:00,East
+ORD-00385,Quality Check,2026-01-19 01:22:00,Central
+ORD-00385,Packed,2026-01-19 08:22:00,Central
+ORD-00386,Picking Started,2026-02-15 09:12:00,West
+ORD-00386,Quality Check,2026-02-15 11:12:00,Central
+ORD-00386,Packed,2026-02-15 18:12:00,Central
+ORD-00387,Picking Started,2026-01-10 09:05:00,West
+ORD-00387,Quality Check,2026-01-10 19:05:00,Central
+ORD-00387,Packed,2026-01-11 01:05:00,Central
+ORD-00388,Picking Started,2026-01-19 18:00:00,West
+ORD-00388,Quality Check,2026-01-19 19:00:00,Central
+ORD-00388,Packed,2026-01-20 03:00:00,Central
+ORD-00389,Picking Started,2026-01-23 04:53:00,West
+ORD-00389,Quality Check,2026-01-23 11:53:00,Central
+ORD-00389,Packed,2026-01-23 16:53:00,Central
+ORD-00390,Picking Started,2026-02-20 00:48:00,West
+ORD-00390,Quality Check,2026-02-20 04:48:00,Central
+ORD-00390,Quality Check,2026-02-20 06:08:00,Central
+ORD-00390,Packed,2026-02-20 14:08:00,Central
+ORD-00392,Picking Started,2026-02-04 04:39:00,West
+ORD-00392,Quality Check,2026-02-04 06:39:00,Central
+ORD-00392,Packed,2026-02-04 11:39:00,Central
+ORD-00393,Picking Started,2026-02-25 12:31:00,West
+ORD-00393,Quality Check,2026-02-25 16:31:00,Central
+ORD-00393,Packed,2026-02-25 21:31:00,Central
+ORD-00394,Picking Started,2026-02-11 21:31:00,West
+ORD-00394,Quality Check,2026-02-12 04:31:00,Central
+ORD-00394,Packed,2026-02-12 06:31:00,Central
+ORD-00395,Picking Started,2026-01-25 14:36:00,East
+ORD-00395,Quality Check,2026-01-25 18:36:00,Central
+ORD-00395,Packed,2026-01-26 01:36:00,Central
+ORD-00396,Picking Started,2026-02-05 22:13:00,West
+ORD-00396,Quality Check,2026-02-06 08:13:00,Central
+ORD-00396,Packed,2026-02-06 15:13:00,Central
+ORD-00397,Picking Started,2026-02-28 14:00:00,West
+ORD-00397,Quality Check,2026-02-28 15:00:00,Central
+ORD-00397,Packed,2026-02-28 18:00:00,Central
+ORD-00398,Picking Started,2026-01-21 04:15:00,East
+ORD-00398,Quality Check,2026-01-21 06:15:00,Central
+ORD-00398,Packed,2026-01-21 15:15:00,Central
+ORD-00399,Picking Started,2026-03-01 18:13:00,East
+ORD-00399,Quality Check,2026-03-01 21:13:00,Central
+ORD-00399,Packed,2026-03-02 00:13:00,Central
+ORD-00400,Picking Started,2026-01-27 09:57:00,East
+ORD-00400,Quality Check,2026-01-27 17:57:00,Central
+ORD-00400,Packed,2026-01-28 01:57:00,Central
+ORD-00401,Picking Started,2026-01-31 08:22:00,East
+ORD-00401,Quality Check,2026-01-31 11:22:00,Central
+ORD-00401,Packed,2026-01-31 18:22:00,Central
+ORD-00402,Picking Started,2026-02-01 07:38:00,West
+ORD-00402,Quality Check,2026-02-01 17:38:00,Central
+ORD-00402,Packed,2026-02-01 20:38:00,Central
+ORD-00403,Picking Started,2026-01-10 09:22:00,West
+ORD-00403,Quality Check,2026-01-10 18:22:00,Central
+ORD-00403,Quality Check,2026-01-10 19:32:00,Central
+ORD-00403,Packed,2026-01-10 20:32:00,Central
+ORD-00404,Picking Started,2026-02-13 22:28:00,West
+ORD-00404,Quality Check,2026-02-14 07:28:00,Central
+ORD-00404,Packed,2026-02-14 13:28:00,Central
+ORD-00405,Picking Started,2026-01-21 21:13:00,West
+ORD-00405,Quality Check,2026-01-22 03:13:00,Central
+ORD-00405,Packed,2026-01-22 12:13:00,Central
+ORD-00406,Picking Started,2026-02-17 18:57:00,East
+ORD-00406,Quality Check,2026-02-18 03:57:00,Central
+ORD-00406,Packed,2026-02-18 06:57:00,Central
+ORD-00407,Picking Started,2026-02-17 00:16:00,East
+ORD-00407,Quality Check,2026-02-17 09:16:00,Central
+ORD-00407,Packed,2026-02-17 16:16:00,Central
+ORD-00409,Picking Started,2026-01-08 22:24:00,East
+ORD-00409,Quality Check,2026-01-09 08:24:00,Central
+ORD-00409,Packed,2026-01-09 16:24:00,Central
+ORD-00410,Picking Started,2026-02-22 18:21:00,East
+ORD-00410,Quality Check,2026-02-22 20:21:00,Central
+ORD-00410,Packed,2026-02-23 02:21:00,Central
+ORD-00411,Picking Started,2026-02-01 01:57:00,West
+ORD-00411,Quality Check,2026-02-01 11:57:00,Central
+ORD-00411,Packed,2026-02-01 12:57:00,Central
+ORD-00412,Picking Started,2026-01-31 20:27:00,East
+ORD-00412,Quality Check,2026-01-31 23:27:00,Central
+ORD-00412,Packed,2026-02-01 05:27:00,Central
+ORD-00413,Picking Started,2026-02-16 06:18:00,West
+ORD-00413,Quality Check,2026-02-16 07:18:00,Central
+ORD-00413,Packed,2026-02-16 11:18:00,Central
+ORD-00414,Picking Started,2026-02-09 19:08:00,East
+ORD-00414,Quality Check,2026-02-09 20:08:00,Central
+ORD-00414,Packed,2026-02-09 23:08:00,Central
+ORD-00415,Picking Started,2026-01-29 21:48:00,West
+ORD-00415,Quality Check,2026-01-30 06:48:00,Central
+ORD-00415,Packed,2026-01-30 12:48:00,Central
+ORD-00416,Picking Started,2026-02-17 08:52:00,East
+ORD-00416,Quality Check,2026-02-17 15:52:00,Central
+ORD-00416,Quality Check,2026-02-17 16:44:00,Central
+ORD-00416,Packed,2026-02-17 17:44:00,Central
+ORD-00417,Picking Started,2026-02-18 19:05:00,East
+ORD-00417,Quality Check,2026-02-19 02:05:00,Central
+ORD-00417,Packed,2026-02-19 06:05:00,Central
+ORD-00418,Picking Started,2026-01-09 08:11:00,West
+ORD-00418,Quality Check,2026-01-09 10:11:00,Central
+ORD-00418,Packed,2026-01-09 17:11:00,Central
+ORD-00419,Picking Started,2026-02-28 04:37:00,West
+ORD-00419,Quality Check,2026-02-28 14:37:00,Central
+ORD-00419,Packed,2026-02-28 19:37:00,Central
+ORD-00420,Picking Started,2026-02-16 20:43:00,East
+ORD-00420,Quality Check,2026-02-17 05:43:00,Central
+ORD-00420,Packed,2026-02-17 10:43:00,Central
+ORD-00421,Picking Started,2026-02-13 20:56:00,East
+ORD-00421,Quality Check,2026-02-14 05:56:00,Central
+ORD-00421,Packed,2026-02-14 10:56:00,Central
+ORD-00422,Picking Started,2026-02-12 09:43:00,East
+ORD-00422,Quality Check,2026-02-12 10:43:00,Central
+ORD-00422,Packed,2026-02-12 11:43:00,Central
+ORD-00423,Picking Started,2026-02-16 00:20:00,East
+ORD-00423,Quality Check,2026-02-16 03:20:00,Central
+ORD-00423,Packed,2026-02-16 08:20:00,Central
+ORD-00424,Picking Started,2026-01-25 15:35:00,East
+ORD-00424,Quality Check,2026-01-26 01:35:00,Central
+ORD-00424,Packed,2026-01-26 10:35:00,Central
+ORD-00426,Picking Started,2026-01-29 10:55:00,East
+ORD-00426,Quality Check,2026-01-29 11:55:00,Central
+ORD-00426,Packed,2026-01-29 13:55:00,Central
+ORD-00427,Picking Started,2026-01-07 13:15:00,West
+ORD-00427,Quality Check,2026-01-07 20:15:00,Central
+ORD-00427,Packed,2026-01-08 02:15:00,Central
+ORD-00428,Picking Started,2026-02-20 02:42:00,West
+ORD-00428,Quality Check,2026-02-20 07:42:00,Central
+ORD-00428,Packed,2026-02-20 16:42:00,Central
+ORD-00429,Picking Started,2026-02-26 22:27:00,West
+ORD-00429,Quality Check,2026-02-27 01:27:00,Central
+ORD-00429,Quality Check,2026-02-27 02:45:00,Central
+ORD-00429,Packed,2026-02-27 10:45:00,Central
+ORD-00430,Picking Started,2026-02-01 03:38:00,West
+ORD-00430,Quality Check,2026-02-01 06:38:00,Central
+ORD-00430,Packed,2026-02-01 12:38:00,Central
+ORD-00431,Picking Started,2026-01-26 11:49:00,East
+ORD-00431,Quality Check,2026-01-26 19:49:00,Central
+ORD-00431,Packed,2026-01-27 03:49:00,Central
+ORD-00432,Picking Started,2026-02-18 07:18:00,East
+ORD-00432,Quality Check,2026-02-18 12:18:00,Central
+ORD-00432,Packed,2026-02-18 14:18:00,Central
+ORD-00433,Picking Started,2026-01-14 03:37:00,East
+ORD-00433,Quality Check,2026-01-14 05:37:00,Central
+ORD-00433,Packed,2026-01-14 11:37:00,Central
+ORD-00434,Picking Started,2026-01-25 09:49:00,East
+ORD-00434,Quality Check,2026-01-25 11:49:00,Central
+ORD-00434,Packed,2026-01-25 14:49:00,Central
+ORD-00435,Picking Started,2026-02-16 01:26:00,East
+ORD-00435,Quality Check,2026-02-16 04:26:00,Central
+ORD-00435,Packed,2026-02-16 07:26:00,Central
+ORD-00436,Picking Started,2026-01-22 06:26:00,West
+ORD-00436,Quality Check,2026-01-22 15:26:00,Central
+ORD-00436,Packed,2026-01-22 16:26:00,Central
+ORD-00437,Picking Started,2026-01-25 11:55:00,East
+ORD-00437,Quality Check,2026-01-25 18:55:00,Central
+ORD-00437,Packed,2026-01-26 02:55:00,Central
+ORD-00438,Picking Started,2026-01-05 23:18:00,West
+ORD-00438,Quality Check,2026-01-06 08:18:00,Central
+ORD-00438,Packed,2026-01-06 09:18:00,Central
+ORD-00439,Picking Started,2026-01-20 01:28:00,West
+ORD-00439,Quality Check,2026-01-20 10:28:00,Central
+ORD-00439,Packed,2026-01-20 15:28:00,Central
+ORD-00440,Picking Started,2026-02-10 22:02:00,West
+ORD-00440,Quality Check,2026-02-11 01:02:00,Central
+ORD-00440,Packed,2026-02-11 09:02:00,Central
+ORD-00441,Picking Started,2026-02-02 19:18:00,West
+ORD-00441,Quality Check,2026-02-02 23:18:00,Central
+ORD-00441,Packed,2026-02-03 01:18:00,Central
+ORD-00443,Picking Started,2026-01-27 03:13:00,East
+ORD-00443,Quality Check,2026-01-27 12:13:00,Central
+ORD-00443,Packed,2026-01-27 17:13:00,Central
+ORD-00444,Picking Started,2026-01-10 02:13:00,West
+ORD-00444,Quality Check,2026-01-10 04:13:00,Central
+ORD-00444,Packed,2026-01-10 08:13:00,Central
+ORD-00445,Picking Started,2026-02-13 10:59:00,East
+ORD-00445,Quality Check,2026-02-13 20:59:00,Central
+ORD-00445,Packed,2026-02-13 23:59:00,Central
+ORD-00446,Picking Started,2026-02-16 21:47:00,West
+ORD-00446,Quality Check,2026-02-17 03:47:00,Central
+ORD-00446,Packed,2026-02-17 10:47:00,Central
+ORD-00447,Picking Started,2026-02-10 17:06:00,West
+ORD-00447,Quality Check,2026-02-11 00:06:00,Central
+ORD-00447,Packed,2026-02-11 09:06:00,Central
+ORD-00448,Picking Started,2026-01-14 18:43:00,East
+ORD-00448,Quality Check,2026-01-14 22:43:00,Central
+ORD-00448,Packed,2026-01-15 02:43:00,Central
+ORD-00449,Picking Started,2026-02-27 19:47:00,West
+ORD-00449,Quality Check,2026-02-28 04:47:00,Central
+ORD-00449,Packed,2026-02-28 06:47:00,Central
+ORD-00450,Picking Started,2026-01-31 19:03:00,East
+ORD-00450,Quality Check,2026-02-01 04:03:00,Central
+ORD-00450,Packed,2026-02-01 12:03:00,Central
+ORD-00451,Picking Started,2026-02-04 12:06:00,East
+ORD-00451,Quality Check,2026-02-04 18:06:00,Central
+ORD-00451,Packed,2026-02-05 03:06:00,Central
+ORD-00452,Picking Started,2026-02-03 06:14:00,West
+ORD-00452,Quality Check,2026-02-03 15:14:00,Central
+ORD-00452,Packed,2026-02-03 20:14:00,Central
+ORD-00453,Picking Started,2026-02-14 08:37:00,West
+ORD-00453,Quality Check,2026-02-14 13:37:00,Central
+ORD-00453,Packed,2026-02-14 16:37:00,Central
+ORD-00454,Picking Started,2026-02-06 06:43:00,West
+ORD-00454,Quality Check,2026-02-06 13:43:00,Central
+ORD-00454,Packed,2026-02-06 21:43:00,Central
+ORD-00455,Picking Started,2026-02-12 12:14:00,East
+ORD-00455,Quality Check,2026-02-12 20:14:00,Central
+ORD-00455,Quality Check,2026-02-12 20:34:00,Central
+ORD-00455,Packed,2026-02-13 01:34:00,Central
+ORD-00456,Picking Started,2026-02-27 04:38:00,West
+ORD-00456,Quality Check,2026-02-27 07:38:00,Central
+ORD-00456,Packed,2026-02-27 10:38:00,Central
+ORD-00457,Picking Started,2026-02-25 13:02:00,East
+ORD-00457,Quality Check,2026-02-25 22:02:00,Central
+ORD-00457,Packed,2026-02-26 04:02:00,Central
+ORD-00458,Picking Started,2026-02-12 20:55:00,West
+ORD-00458,Quality Check,2026-02-12 21:55:00,Central
+ORD-00458,Packed,2026-02-13 00:55:00,Central
+ORD-00460,Picking Started,2026-01-20 22:39:00,East
+ORD-00460,Quality Check,2026-01-21 01:39:00,Central
+ORD-00460,Packed,2026-01-21 02:39:00,Central
+ORD-00461,Picking Started,2026-01-23 15:00:00,West
+ORD-00461,Quality Check,2026-01-23 18:00:00,Central
+ORD-00461,Packed,2026-01-23 19:00:00,Central
+ORD-00462,Picking Started,2026-02-22 14:32:00,East
+ORD-00462,Quality Check,2026-02-22 20:32:00,Central
+ORD-00462,Packed,2026-02-23 00:32:00,Central
+ORD-00463,Picking Started,2026-01-22 01:49:00,East
+ORD-00463,Quality Check,2026-01-22 03:49:00,Central
+ORD-00463,Packed,2026-01-22 06:49:00,Central
+ORD-00464,Picking Started,2026-02-03 15:03:00,East
+ORD-00464,Quality Check,2026-02-03 18:03:00,Central
+ORD-00464,Packed,2026-02-04 03:03:00,Central
+ORD-00465,Picking Started,2026-01-28 21:31:00,West
+ORD-00465,Quality Check,2026-01-28 22:31:00,Central
+ORD-00465,Packed,2026-01-29 04:31:00,Central
+ORD-00466,Picking Started,2026-01-30 21:22:00,West
+ORD-00466,Quality Check,2026-01-31 05:22:00,Central
+ORD-00466,Packed,2026-01-31 14:22:00,Central
+ORD-00467,Picking Started,2026-02-14 02:54:00,West
+ORD-00467,Quality Check,2026-02-14 07:54:00,Central
+ORD-00467,Packed,2026-02-14 09:54:00,Central
+ORD-00468,Picking Started,2026-02-06 21:16:00,West
+ORD-00468,Quality Check,2026-02-06 23:16:00,Central
+ORD-00468,Quality Check,2026-02-07 00:16:00,Central
+ORD-00468,Packed,2026-02-07 06:16:00,Central
+ORD-00469,Picking Started,2026-01-30 05:45:00,East
+ORD-00469,Quality Check,2026-01-30 13:45:00,Central
+ORD-00469,Packed,2026-01-30 20:45:00,Central
+ORD-00470,Picking Started,2026-02-04 18:07:00,West
+ORD-00470,Quality Check,2026-02-04 22:07:00,Central
+ORD-00470,Packed,2026-02-05 03:07:00,Central
+ORD-00471,Picking Started,2026-02-09 11:10:00,West
+ORD-00471,Quality Check,2026-02-09 17:10:00,Central
+ORD-00471,Packed,2026-02-09 20:10:00,Central
+ORD-00472,Picking Started,2026-02-26 19:28:00,West
+ORD-00472,Quality Check,2026-02-26 20:28:00,Central
+ORD-00472,Packed,2026-02-27 05:28:00,Central
+ORD-00473,Picking Started,2026-01-31 08:14:00,West
+ORD-00473,Quality Check,2026-01-31 12:14:00,Central
+ORD-00473,Packed,2026-01-31 14:14:00,Central
+ORD-00474,Picking Started,2026-01-08 06:05:00,East
+ORD-00474,Quality Check,2026-01-08 13:05:00,Central
+ORD-00474,Packed,2026-01-08 22:05:00,Central
+ORD-00475,Picking Started,2026-01-13 10:45:00,West
+ORD-00475,Quality Check,2026-01-13 20:45:00,Central
+ORD-00475,Packed,2026-01-13 22:45:00,Central
+ORD-00477,Picking Started,2026-02-05 18:54:00,West
+ORD-00477,Quality Check,2026-02-05 23:54:00,Central
+ORD-00477,Packed,2026-02-06 07:54:00,Central
+ORD-00478,Picking Started,2026-01-25 16:33:00,East
+ORD-00478,Quality Check,2026-01-25 21:33:00,Central
+ORD-00478,Packed,2026-01-26 04:33:00,Central
+ORD-00479,Picking Started,2026-01-13 01:36:00,East
+ORD-00479,Quality Check,2026-01-13 07:36:00,Central
+ORD-00479,Packed,2026-01-13 16:36:00,Central
+ORD-00480,Picking Started,2026-01-09 13:07:00,East
+ORD-00480,Quality Check,2026-01-09 17:07:00,Central
+ORD-00480,Packed,2026-01-09 22:07:00,Central
+ORD-00481,Picking Started,2026-02-17 02:44:00,West
+ORD-00481,Quality Check,2026-02-17 06:44:00,Central
+ORD-00481,Quality Check,2026-02-17 07:17:00,Central
+ORD-00481,Packed,2026-02-17 16:17:00,Central
+ORD-00482,Picking Started,2026-02-07 23:19:00,East
+ORD-00482,Quality Check,2026-02-08 07:19:00,Central
+ORD-00482,Packed,2026-02-08 11:19:00,Central
+ORD-00483,Picking Started,2026-02-18 09:11:00,West
+ORD-00483,Quality Check,2026-02-18 10:11:00,Central
+ORD-00483,Packed,2026-02-18 13:11:00,Central
+ORD-00484,Picking Started,2026-01-14 11:40:00,West
+ORD-00484,Quality Check,2026-01-14 14:40:00,Central
+ORD-00484,Packed,2026-01-14 23:40:00,Central
+ORD-00485,Picking Started,2026-01-23 03:37:00,East
+ORD-00485,Quality Check,2026-01-23 10:37:00,Central
+ORD-00485,Packed,2026-01-23 11:37:00,Central
+ORD-00486,Picking Started,2026-01-30 16:17:00,West
+ORD-00486,Quality Check,2026-01-31 02:17:00,Central
+ORD-00486,Packed,2026-01-31 10:17:00,Central
+ORD-00487,Picking Started,2026-01-31 20:03:00,West
+ORD-00487,Quality Check,2026-02-01 02:03:00,Central
+ORD-00487,Packed,2026-02-01 04:03:00,Central
+ORD-00488,Picking Started,2026-01-24 00:14:00,East
+ORD-00488,Quality Check,2026-01-24 05:14:00,Central
+ORD-00488,Packed,2026-01-24 07:14:00,Central
+ORD-00489,Picking Started,2026-01-19 08:20:00,West
+ORD-00489,Quality Check,2026-01-19 16:20:00,Central
+ORD-00489,Packed,2026-01-19 20:20:00,Central
+ORD-00490,Picking Started,2026-03-01 14:54:00,West
+ORD-00490,Quality Check,2026-03-01 21:54:00,Central
+ORD-00490,Packed,2026-03-02 02:54:00,Central
+ORD-00491,Picking Started,2026-02-10 00:35:00,West
+ORD-00491,Quality Check,2026-02-10 03:35:00,Central
+ORD-00491,Packed,2026-02-10 09:35:00,Central
+ORD-00492,Picking Started,2026-01-06 20:18:00,West
+ORD-00492,Quality Check,2026-01-06 22:18:00,Central
+ORD-00492,Packed,2026-01-07 01:18:00,Central
+ORD-00494,Picking Started,2026-01-06 10:37:00,West
+ORD-00494,Quality Check,2026-01-06 17:37:00,Central
+ORD-00494,Quality Check,2026-01-06 19:34:00,Central
+ORD-00494,Packed,2026-01-07 01:34:00,Central
+ORD-00495,Picking Started,2026-01-16 00:08:00,West
+ORD-00495,Quality Check,2026-01-16 10:08:00,Central
+ORD-00495,Packed,2026-01-16 17:08:00,Central
+ORD-00496,Picking Started,2026-02-23 08:22:00,West
+ORD-00496,Quality Check,2026-02-23 15:22:00,Central
+ORD-00496,Packed,2026-02-23 21:22:00,Central
+ORD-00497,Picking Started,2026-02-03 00:56:00,West
+ORD-00497,Quality Check,2026-02-03 08:56:00,Central
+ORD-00497,Packed,2026-02-03 14:56:00,Central
+ORD-00498,Picking Started,2026-01-24 07:23:00,West
+ORD-00498,Quality Check,2026-01-24 17:23:00,Central
+ORD-00498,Packed,2026-01-24 18:23:00,Central
+ORD-00499,Picking Started,2026-02-17 02:47:00,East
+ORD-00499,Quality Check,2026-02-17 04:47:00,Central
+ORD-00499,Packed,2026-02-17 06:47:00,Central
+ORD-00500,Picking Started,2026-02-10 22:57:00,West
+ORD-00500,Quality Check,2026-02-11 04:57:00,Central
+ORD-00500,Packed,2026-02-11 07:57:00,Central
+ORD-00501,Picking Started,2026-01-13 17:38:00,West
+ORD-00501,Quality Check,2026-01-14 00:38:00,Central
+ORD-00501,Packed,2026-01-14 09:38:00,Central
+ORD-00502,Picking Started,2026-01-22 18:17:00,East
+ORD-00502,Quality Check,2026-01-22 20:17:00,Central
+ORD-00502,Packed,2026-01-23 01:17:00,Central
+ORD-00503,Picking Started,2026-01-27 03:42:00,West
+ORD-00503,Quality Check,2026-01-27 12:42:00,Central
+ORD-00503,Packed,2026-01-27 15:42:00,Central
+ORD-00504,Picking Started,2026-01-22 10:38:00,West
+ORD-00504,Quality Check,2026-01-22 12:38:00,Central
+ORD-00504,Packed,2026-01-22 17:38:00,Central
+ORD-00505,Picking Started,2026-02-09 14:24:00,West
+ORD-00505,Quality Check,2026-02-09 18:24:00,Central
+ORD-00505,Packed,2026-02-10 01:24:00,Central
+ORD-00506,Picking Started,2026-01-19 15:19:00,East
+ORD-00506,Quality Check,2026-01-19 22:19:00,Central
+ORD-00506,Packed,2026-01-20 00:19:00,Central
+ORD-00507,Picking Started,2026-01-10 07:20:00,East
+ORD-00507,Quality Check,2026-01-10 11:20:00,Central
+ORD-00507,Quality Check,2026-01-10 12:00:00,Central
+ORD-00507,Packed,2026-01-10 21:00:00,Central
+ORD-00508,Picking Started,2026-01-13 09:02:00,East
+ORD-00508,Quality Check,2026-01-13 14:02:00,Central
+ORD-00508,Packed,2026-01-13 20:02:00,Central
+ORD-00509,Picking Started,2026-02-05 15:41:00,East
+ORD-00509,Quality Check,2026-02-05 18:41:00,Central
+ORD-00509,Packed,2026-02-05 19:41:00,Central
+ORD-00511,Picking Started,2026-02-03 05:39:00,West
+ORD-00511,Quality Check,2026-02-03 07:39:00,Central
+ORD-00511,Packed,2026-02-03 08:39:00,Central
+ORD-00512,Picking Started,2026-02-20 15:34:00,West
+ORD-00512,Quality Check,2026-02-20 18:34:00,Central
+ORD-00512,Packed,2026-02-21 03:34:00,Central
+ORD-00513,Picking Started,2026-02-15 12:52:00,East
+ORD-00513,Quality Check,2026-02-15 18:52:00,Central
+ORD-00513,Packed,2026-02-15 20:52:00,Central
+ORD-00514,Picking Started,2026-01-11 14:26:00,West
+ORD-00514,Quality Check,2026-01-11 15:26:00,Central
+ORD-00514,Packed,2026-01-11 21:26:00,Central
+ORD-00515,Picking Started,2026-02-21 12:14:00,East
+ORD-00515,Quality Check,2026-02-21 20:14:00,Central
+ORD-00515,Packed,2026-02-22 01:14:00,Central
+ORD-00516,Picking Started,2026-02-02 11:22:00,East
+ORD-00516,Quality Check,2026-02-02 21:22:00,Central
+ORD-00516,Packed,2026-02-03 05:22:00,Central
+ORD-00517,Picking Started,2026-02-21 23:56:00,West
+ORD-00517,Quality Check,2026-02-22 04:56:00,Central
+ORD-00517,Packed,2026-02-22 08:56:00,Central
+ORD-00518,Picking Started,2026-02-22 10:03:00,West
+ORD-00518,Quality Check,2026-02-22 11:03:00,Central
+ORD-00518,Packed,2026-02-22 13:03:00,Central
+ORD-00519,Picking Started,2026-02-09 21:02:00,East
+ORD-00519,Quality Check,2026-02-10 07:02:00,Central
+ORD-00519,Packed,2026-02-10 08:02:00,Central
+ORD-00520,Picking Started,2026-01-09 14:03:00,East
+ORD-00520,Quality Check,2026-01-09 23:03:00,Central
+ORD-00520,Quality Check,2026-01-10 00:31:00,Central
+ORD-00520,Packed,2026-01-10 09:31:00,Central
+ORD-00521,Picking Started,2026-01-13 01:08:00,East
+ORD-00521,Quality Check,2026-01-13 05:08:00,Central
+ORD-00521,Packed,2026-01-13 12:08:00,Central
+ORD-00522,Picking Started,2026-02-14 16:32:00,East
+ORD-00522,Quality Check,2026-02-14 18:32:00,Central
+ORD-00522,Packed,2026-02-15 02:32:00,Central
+ORD-00523,Picking Started,2026-01-10 05:36:00,East
+ORD-00523,Quality Check,2026-01-10 06:36:00,Central
+ORD-00523,Packed,2026-01-10 12:36:00,Central
+ORD-00524,Picking Started,2026-02-25 14:50:00,West
+ORD-00524,Quality Check,2026-02-25 19:50:00,Central
+ORD-00524,Packed,2026-02-25 22:50:00,Central
+ORD-00525,Picking Started,2026-01-24 11:26:00,East
+ORD-00525,Quality Check,2026-01-24 14:26:00,Central
+ORD-00525,Packed,2026-01-24 21:26:00,Central
+ORD-00526,Picking Started,2026-02-23 02:18:00,East
+ORD-00526,Quality Check,2026-02-23 06:18:00,Central
+ORD-00526,Packed,2026-02-23 09:18:00,Central
+ORD-00528,Picking Started,2026-01-28 07:58:00,West
+ORD-00528,Quality Check,2026-01-28 14:58:00,Central
+ORD-00528,Packed,2026-01-28 19:58:00,Central
+ORD-00529,Picking Started,2026-02-24 11:58:00,West
+ORD-00529,Quality Check,2026-02-24 14:58:00,Central
+ORD-00529,Packed,2026-02-24 18:58:00,Central
+ORD-00530,Picking Started,2026-02-28 20:06:00,West
+ORD-00530,Quality Check,2026-03-01 02:06:00,Central
+ORD-00530,Packed,2026-03-01 10:06:00,Central
+ORD-00531,Picking Started,2026-02-14 16:09:00,East
+ORD-00531,Quality Check,2026-02-15 00:09:00,Central
+ORD-00531,Packed,2026-02-15 04:09:00,Central
+ORD-00532,Picking Started,2026-01-09 00:50:00,West
+ORD-00532,Quality Check,2026-01-09 07:50:00,Central
+ORD-00532,Packed,2026-01-09 09:50:00,Central
+ORD-00533,Picking Started,2026-02-02 03:27:00,West
+ORD-00533,Quality Check,2026-02-02 05:27:00,Central
+ORD-00533,Quality Check,2026-02-02 06:19:00,Central
+ORD-00533,Packed,2026-02-02 10:19:00,Central
+ORD-00534,Picking Started,2026-01-07 18:58:00,West
+ORD-00534,Quality Check,2026-01-07 23:58:00,Central
+ORD-00534,Packed,2026-01-08 03:58:00,Central
+ORD-00535,Picking Started,2026-01-19 10:25:00,West
+ORD-00535,Quality Check,2026-01-19 18:25:00,Central
+ORD-00535,Packed,2026-01-20 01:25:00,Central
+ORD-00536,Picking Started,2026-02-10 01:06:00,West
+ORD-00536,Quality Check,2026-02-10 05:06:00,Central
+ORD-00536,Packed,2026-02-10 08:06:00,Central
+ORD-00537,Picking Started,2026-02-02 02:46:00,West
+ORD-00537,Quality Check,2026-02-02 10:46:00,Central
+ORD-00537,Packed,2026-02-02 12:46:00,Central
+ORD-00538,Picking Started,2026-02-14 09:38:00,West
+ORD-00538,Quality Check,2026-02-14 18:38:00,Central
+ORD-00538,Packed,2026-02-15 02:38:00,Central
+ORD-00539,Picking Started,2026-01-23 17:50:00,West
+ORD-00539,Quality Check,2026-01-24 03:50:00,Central
+ORD-00539,Packed,2026-01-24 05:50:00,Central
+ORD-00540,Picking Started,2026-01-20 08:50:00,East
+ORD-00540,Quality Check,2026-01-20 17:50:00,Central
+ORD-00540,Packed,2026-01-20 18:50:00,Central
+ORD-00541,Picking Started,2026-02-15 21:58:00,East
+ORD-00541,Quality Check,2026-02-15 22:58:00,Central
+ORD-00541,Packed,2026-02-16 04:58:00,Central
+ORD-00542,Picking Started,2026-01-21 03:29:00,West
+ORD-00542,Quality Check,2026-01-21 04:29:00,Central
+ORD-00542,Packed,2026-01-21 13:29:00,Central
+ORD-00543,Picking Started,2026-01-17 02:20:00,East
+ORD-00543,Quality Check,2026-01-17 09:20:00,Central
+ORD-00543,Packed,2026-01-17 15:20:00,Central
+ORD-00545,Picking Started,2026-01-14 10:08:00,East
+ORD-00545,Quality Check,2026-01-14 18:08:00,Central
+ORD-00545,Packed,2026-01-15 03:08:00,Central
+ORD-00546,Picking Started,2026-01-09 22:44:00,West
+ORD-00546,Quality Check,2026-01-10 02:44:00,Central
+ORD-00546,Quality Check,2026-01-10 03:05:00,Central
+ORD-00546,Packed,2026-01-10 07:05:00,Central
+ORD-00547,Picking Started,2026-01-30 12:46:00,West
+ORD-00547,Quality Check,2026-01-30 16:46:00,Central
+ORD-00547,Packed,2026-01-31 01:46:00,Central
+ORD-00548,Picking Started,2026-02-02 15:33:00,East
+ORD-00548,Quality Check,2026-02-03 01:33:00,Central
+ORD-00548,Packed,2026-02-03 05:33:00,Central
+ORD-00549,Picking Started,2026-02-18 12:27:00,West
+ORD-00549,Quality Check,2026-02-18 13:27:00,Central
+ORD-00549,Packed,2026-02-18 22:27:00,Central
+ORD-00550,Picking Started,2026-02-18 20:53:00,West
+ORD-00550,Quality Check,2026-02-19 01:53:00,Central
+ORD-00550,Packed,2026-02-19 02:53:00,Central
+ORD-00551,Picking Started,2026-01-22 23:33:00,East
+ORD-00551,Quality Check,2026-01-23 01:33:00,Central
+ORD-00551,Packed,2026-01-23 07:33:00,Central
+ORD-00552,Picking Started,2026-02-17 01:52:00,East
+ORD-00552,Quality Check,2026-02-17 11:52:00,Central
+ORD-00552,Packed,2026-02-17 12:52:00,Central
+ORD-00553,Picking Started,2026-01-17 08:44:00,East
+ORD-00553,Quality Check,2026-01-17 11:44:00,Central
+ORD-00553,Packed,2026-01-17 18:44:00,Central
+ORD-00554,Picking Started,2026-02-24 21:06:00,West
+ORD-00554,Quality Check,2026-02-25 06:06:00,Central
+ORD-00554,Packed,2026-02-25 15:06:00,Central
+ORD-00555,Picking Started,2026-01-20 09:10:00,West
+ORD-00555,Quality Check,2026-01-20 16:10:00,Central
+ORD-00555,Packed,2026-01-20 20:10:00,Central
+ORD-00556,Picking Started,2026-02-06 21:50:00,West
+ORD-00556,Quality Check,2026-02-07 03:50:00,Central
+ORD-00556,Packed,2026-02-07 10:50:00,Central
+ORD-00557,Picking Started,2026-02-04 11:47:00,East
+ORD-00557,Quality Check,2026-02-04 12:47:00,Central
+ORD-00557,Packed,2026-02-04 19:47:00,Central
+ORD-00558,Picking Started,2026-02-17 10:46:00,East
+ORD-00558,Quality Check,2026-02-17 17:46:00,Central
+ORD-00558,Packed,2026-02-17 19:46:00,Central
+ORD-00559,Picking Started,2026-01-12 20:46:00,East
+ORD-00559,Quality Check,2026-01-13 02:46:00,Central
+ORD-00559,Quality Check,2026-01-13 03:15:00,Central
+ORD-00559,Packed,2026-01-13 07:15:00,Central
+ORD-00560,Picking Started,2026-02-15 20:54:00,West
+ORD-00560,Quality Check,2026-02-15 23:54:00,Central
+ORD-00560,Packed,2026-02-16 04:54:00,Central
+ORD-00562,Picking Started,2026-03-01 07:15:00,East
+ORD-00562,Quality Check,2026-03-01 15:15:00,Central
+ORD-00562,Packed,2026-03-01 16:15:00,Central
+ORD-00563,Picking Started,2026-01-13 16:02:00,East
+ORD-00563,Quality Check,2026-01-13 17:02:00,Central
+ORD-00563,Packed,2026-01-13 18:02:00,Central
+ORD-00564,Picking Started,2026-02-16 04:15:00,West
+ORD-00564,Quality Check,2026-02-16 05:15:00,Central
+ORD-00564,Packed,2026-02-16 06:15:00,Central
+ORD-00565,Picking Started,2026-01-26 17:04:00,West
+ORD-00565,Quality Check,2026-01-26 19:04:00,Central
+ORD-00565,Packed,2026-01-26 22:04:00,Central
+ORD-00566,Picking Started,2026-01-22 13:06:00,West
+ORD-00566,Quality Check,2026-01-22 15:06:00,Central
+ORD-00566,Packed,2026-01-22 23:06:00,Central
+ORD-00567,Picking Started,2026-01-28 03:21:00,West
+ORD-00567,Quality Check,2026-01-28 08:21:00,Central
+ORD-00567,Packed,2026-01-28 15:21:00,Central
+ORD-00568,Picking Started,2026-02-25 10:24:00,West
+ORD-00568,Quality Check,2026-02-25 11:24:00,Central
+ORD-00568,Packed,2026-02-25 12:24:00,Central
+ORD-00569,Picking Started,2026-02-16 04:37:00,East
+ORD-00569,Quality Check,2026-02-16 07:37:00,Central
+ORD-00569,Packed,2026-02-16 12:37:00,Central
+ORD-00570,Picking Started,2026-02-14 02:57:00,East
+ORD-00570,Quality Check,2026-02-14 08:57:00,Central
+ORD-00570,Packed,2026-02-14 10:57:00,Central
+ORD-00571,Picking Started,2026-02-09 07:48:00,West
+ORD-00571,Quality Check,2026-02-09 11:48:00,Central
+ORD-00571,Packed,2026-02-09 13:48:00,Central
+ORD-00572,Picking Started,2026-02-08 14:40:00,East
+ORD-00572,Quality Check,2026-02-08 17:40:00,Central
+ORD-00572,Quality Check,2026-02-08 18:48:00,Central
+ORD-00572,Packed,2026-02-08 22:48:00,Central
+ORD-00573,Picking Started,2026-02-19 00:25:00,East
+ORD-00573,Quality Check,2026-02-19 09:25:00,Central
+ORD-00573,Packed,2026-02-19 17:25:00,Central
+ORD-00574,Picking Started,2026-02-16 03:43:00,West
+ORD-00574,Quality Check,2026-02-16 08:43:00,Central
+ORD-00574,Packed,2026-02-16 15:43:00,Central
+ORD-00575,Picking Started,2026-02-01 22:52:00,East
+ORD-00575,Quality Check,2026-02-02 03:52:00,Central
+ORD-00575,Packed,2026-02-02 07:52:00,Central
+ORD-00576,Picking Started,2026-01-29 16:41:00,West
+ORD-00576,Quality Check,2026-01-30 01:41:00,Central
+ORD-00576,Packed,2026-01-30 07:41:00,Central
+ORD-00577,Picking Started,2026-02-10 01:18:00,East
+ORD-00577,Quality Check,2026-02-10 03:18:00,Central
+ORD-00577,Packed,2026-02-10 11:18:00,Central
+ORD-00579,Picking Started,2026-01-05 18:13:00,West
+ORD-00579,Quality Check,2026-01-06 04:13:00,Central
+ORD-00579,Packed,2026-01-06 07:13:00,Central
+ORD-00580,Picking Started,2026-01-20 19:50:00,East
+ORD-00580,Quality Check,2026-01-21 01:50:00,Central
+ORD-00580,Packed,2026-01-21 09:50:00,Central
+ORD-00581,Picking Started,2026-02-11 20:04:00,East
+ORD-00581,Quality Check,2026-02-11 23:04:00,Central
+ORD-00581,Packed,2026-02-12 04:04:00,Central
+ORD-00582,Picking Started,2026-01-27 22:41:00,West
+ORD-00582,Quality Check,2026-01-28 06:41:00,Central
+ORD-00582,Packed,2026-01-28 12:41:00,Central
+ORD-00583,Picking Started,2026-01-26 12:35:00,East
+ORD-00583,Quality Check,2026-01-26 22:35:00,Central
+ORD-00583,Packed,2026-01-27 06:35:00,Central
+ORD-00584,Picking Started,2026-02-05 02:42:00,West
+ORD-00584,Quality Check,2026-02-05 11:42:00,Central
+ORD-00584,Packed,2026-02-05 15:42:00,Central
+ORD-00585,Picking Started,2026-01-30 06:16:00,East
+ORD-00585,Quality Check,2026-01-30 11:16:00,Central
+ORD-00585,Quality Check,2026-01-30 12:25:00,Central
+ORD-00585,Packed,2026-01-30 21:25:00,Central
+ORD-00586,Picking Started,2026-02-27 21:08:00,East
+ORD-00586,Quality Check,2026-02-28 04:08:00,Central
+ORD-00586,Packed,2026-02-28 11:08:00,Central
+ORD-00587,Picking Started,2026-01-26 05:21:00,East
+ORD-00587,Quality Check,2026-01-26 14:21:00,Central
+ORD-00587,Packed,2026-01-26 17:21:00,Central
+ORD-00588,Picking Started,2026-02-03 22:15:00,West
+ORD-00588,Quality Check,2026-02-04 07:15:00,Central
+ORD-00588,Packed,2026-02-04 12:15:00,Central
+ORD-00589,Picking Started,2026-02-18 03:38:00,East
+ORD-00589,Quality Check,2026-02-18 09:38:00,Central
+ORD-00589,Packed,2026-02-18 17:38:00,Central
+ORD-00590,Picking Started,2026-01-11 18:55:00,West
+ORD-00590,Quality Check,2026-01-12 04:55:00,Central
+ORD-00590,Packed,2026-01-12 07:55:00,Central
+ORD-00591,Picking Started,2026-01-27 05:45:00,West
+ORD-00591,Quality Check,2026-01-27 10:45:00,Central
+ORD-00591,Packed,2026-01-27 12:45:00,Central
+ORD-00592,Picking Started,2026-02-26 17:07:00,East
+ORD-00592,Quality Check,2026-02-27 03:07:00,Central
+ORD-00592,Packed,2026-02-27 12:07:00,Central
+ORD-00593,Picking Started,2026-01-21 21:40:00,East
+ORD-00593,Quality Check,2026-01-22 00:40:00,Central
+ORD-00593,Packed,2026-01-22 09:40:00,Central
+ORD-00594,Picking Started,2026-02-07 00:39:00,West
+ORD-00594,Quality Check,2026-02-07 01:39:00,Central
+ORD-00594,Packed,2026-02-07 05:39:00,Central
+ORD-00596,Picking Started,2026-03-01 00:41:00,West
+ORD-00596,Quality Check,2026-03-01 08:41:00,Central
+ORD-00596,Packed,2026-03-01 10:41:00,Central
+ORD-00597,Picking Started,2026-01-14 11:04:00,East
+ORD-00597,Quality Check,2026-01-14 14:04:00,Central
+ORD-00597,Packed,2026-01-14 22:04:00,Central
+ORD-00598,Picking Started,2026-02-28 08:38:00,East
+ORD-00598,Quality Check,2026-02-28 15:38:00,Central
+ORD-00598,Quality Check,2026-02-28 16:09:00,Central
+ORD-00598,Packed,2026-02-28 19:09:00,Central
+ORD-00599,Picking Started,2026-01-28 03:24:00,East
+ORD-00599,Quality Check,2026-01-28 07:24:00,Central
+ORD-00599,Packed,2026-01-28 11:24:00,Central
+ORD-00600,Picking Started,2026-01-09 16:12:00,East
+ORD-00600,Quality Check,2026-01-09 21:12:00,Central
+ORD-00600,Packed,2026-01-10 01:12:00,Central
+ORD-00601,Picking Started,2026-01-08 08:56:00,East
+ORD-00601,Quality Check,2026-01-08 18:56:00,Central
+ORD-00601,Packed,2026-01-08 20:56:00,Central
+ORD-00602,Picking Started,2026-02-01 21:38:00,East
+ORD-00602,Quality Check,2026-02-02 00:38:00,Central
+ORD-00602,Packed,2026-02-02 04:38:00,Central
+ORD-00603,Picking Started,2026-02-03 08:33:00,West
+ORD-00603,Quality Check,2026-02-03 10:33:00,Central
+ORD-00603,Packed,2026-02-03 17:33:00,Central
+ORD-00604,Picking Started,2026-02-20 21:18:00,East
+ORD-00604,Quality Check,2026-02-20 22:18:00,Central
+ORD-00604,Packed,2026-02-21 04:18:00,Central
+ORD-00605,Picking Started,2026-02-03 19:51:00,East
+ORD-00605,Quality Check,2026-02-03 21:51:00,Central
+ORD-00605,Packed,2026-02-04 01:51:00,Central
+ORD-00606,Picking Started,2026-01-26 02:41:00,East
+ORD-00606,Quality Check,2026-01-26 07:41:00,Central
+ORD-00606,Packed,2026-01-26 15:41:00,Central
+ORD-00607,Picking Started,2026-02-23 16:07:00,West
+ORD-00607,Quality Check,2026-02-23 22:07:00,Central
+ORD-00607,Packed,2026-02-24 02:07:00,Central
+ORD-00608,Picking Started,2026-02-24 13:42:00,West
+ORD-00608,Quality Check,2026-02-24 23:42:00,Central
+ORD-00608,Packed,2026-02-25 00:42:00,Central
+ORD-00609,Picking Started,2026-01-31 16:56:00,West
+ORD-00609,Quality Check,2026-01-31 17:56:00,Central
+ORD-00609,Packed,2026-02-01 01:56:00,Central
+ORD-00610,Picking Started,2026-02-07 20:26:00,East
+ORD-00610,Quality Check,2026-02-07 22:26:00,Central
+ORD-00610,Packed,2026-02-08 07:26:00,Central
+ORD-00611,Picking Started,2026-01-27 13:40:00,East
+ORD-00611,Quality Check,2026-01-27 20:40:00,Central
+ORD-00611,Quality Check,2026-01-27 22:40:00,Central
+ORD-00611,Packed,2026-01-28 04:40:00,Central
+ORD-00613,Picking Started,2026-01-29 12:46:00,East
+ORD-00613,Quality Check,2026-01-29 13:46:00,Central
+ORD-00613,Packed,2026-01-29 20:46:00,Central
+ORD-00614,Picking Started,2026-02-10 18:54:00,East
+ORD-00614,Quality Check,2026-02-11 04:54:00,Central
+ORD-00614,Packed,2026-02-11 11:54:00,Central
+ORD-00615,Picking Started,2026-01-27 13:29:00,East
+ORD-00615,Quality Check,2026-01-27 22:29:00,Central
+ORD-00615,Packed,2026-01-28 07:29:00,Central
+ORD-00616,Picking Started,2026-02-26 17:25:00,East
+ORD-00616,Quality Check,2026-02-26 22:25:00,Central
+ORD-00616,Packed,2026-02-27 02:25:00,Central
+ORD-00617,Picking Started,2026-02-23 06:03:00,East
+ORD-00617,Quality Check,2026-02-23 07:03:00,Central
+ORD-00617,Packed,2026-02-23 11:03:00,Central
+ORD-00618,Picking Started,2026-01-10 08:12:00,West
+ORD-00618,Quality Check,2026-01-10 14:12:00,Central
+ORD-00618,Packed,2026-01-10 23:12:00,Central
+ORD-00619,Picking Started,2026-02-15 22:10:00,East
+ORD-00619,Quality Check,2026-02-16 06:10:00,Central
+ORD-00619,Packed,2026-02-16 15:10:00,Central
+ORD-00620,Picking Started,2026-01-20 17:07:00,West
+ORD-00620,Quality Check,2026-01-20 23:07:00,Central
+ORD-00620,Packed,2026-01-21 08:07:00,Central
+ORD-00621,Picking Started,2026-01-11 16:04:00,East
+ORD-00621,Quality Check,2026-01-12 02:04:00,Central
+ORD-00621,Packed,2026-01-12 10:04:00,Central
+ORD-00622,Picking Started,2026-01-18 08:56:00,West
+ORD-00622,Quality Check,2026-01-18 13:56:00,Central
+ORD-00622,Packed,2026-01-18 18:56:00,Central
+ORD-00623,Picking Started,2026-02-09 11:30:00,East
+ORD-00623,Quality Check,2026-02-09 15:30:00,Central
+ORD-00623,Packed,2026-02-09 18:30:00,Central
+ORD-00624,Picking Started,2026-01-06 03:23:00,East
+ORD-00624,Quality Check,2026-01-06 11:23:00,Central
+ORD-00624,Quality Check,2026-01-06 12:03:00,Central
+ORD-00624,Packed,2026-01-06 16:03:00,Central
+ORD-00625,Picking Started,2026-02-27 01:33:00,West
+ORD-00625,Quality Check,2026-02-27 03:33:00,Central
+ORD-00625,Packed,2026-02-27 05:33:00,Central
+ORD-00626,Picking Started,2026-01-06 00:52:00,East
+ORD-00626,Quality Check,2026-01-06 02:52:00,Central
+ORD-00626,Packed,2026-01-06 07:52:00,Central
+ORD-00627,Picking Started,2026-01-29 21:28:00,East
+ORD-00627,Quality Check,2026-01-30 01:28:00,Central
+ORD-00627,Packed,2026-01-30 06:28:00,Central
+ORD-00628,Picking Started,2026-01-25 00:08:00,West
+ORD-00628,Quality Check,2026-01-25 10:08:00,Central
+ORD-00628,Packed,2026-01-25 13:08:00,Central
+ORD-00630,Picking Started,2026-02-20 09:46:00,East
+ORD-00630,Quality Check,2026-02-20 10:46:00,Central
+ORD-00630,Packed,2026-02-20 13:46:00,Central
+ORD-00631,Picking Started,2026-02-25 22:16:00,West
+ORD-00631,Quality Check,2026-02-26 06:16:00,Central
+ORD-00631,Packed,2026-02-26 10:16:00,Central
+ORD-00632,Picking Started,2026-01-14 11:07:00,East
+ORD-00632,Quality Check,2026-01-14 16:07:00,Central
+ORD-00632,Packed,2026-01-14 23:07:00,Central
+ORD-00633,Picking Started,2026-01-10 06:33:00,West
+ORD-00633,Quality Check,2026-01-10 11:33:00,Central
+ORD-00633,Packed,2026-01-10 15:33:00,Central
+ORD-00634,Picking Started,2026-01-22 10:43:00,East
+ORD-00634,Quality Check,2026-01-22 12:43:00,Central
+ORD-00634,Packed,2026-01-22 20:43:00,Central
+ORD-00635,Picking Started,2026-01-19 08:46:00,West
+ORD-00635,Quality Check,2026-01-19 13:46:00,Central
+ORD-00635,Packed,2026-01-19 19:46:00,Central
+ORD-00636,Picking Started,2026-01-13 20:03:00,East
+ORD-00636,Quality Check,2026-01-14 01:03:00,Central
+ORD-00636,Packed,2026-01-14 09:03:00,Central
+ORD-00637,Picking Started,2026-02-02 02:13:00,West
+ORD-00637,Quality Check,2026-02-02 05:13:00,Central
+ORD-00637,Quality Check,2026-02-02 06:14:00,Central
+ORD-00637,Packed,2026-02-02 11:14:00,Central
+ORD-00638,Picking Started,2026-02-24 04:09:00,West
+ORD-00638,Quality Check,2026-02-24 05:09:00,Central
+ORD-00638,Packed,2026-02-24 12:09:00,Central
+ORD-00639,Picking Started,2026-02-06 10:41:00,West
+ORD-00639,Quality Check,2026-02-06 12:41:00,Central
+ORD-00639,Packed,2026-02-06 16:41:00,Central
+ORD-00640,Picking Started,2026-02-21 13:27:00,West
+ORD-00640,Quality Check,2026-02-21 16:27:00,Central
+ORD-00640,Packed,2026-02-21 19:27:00,Central
+ORD-00641,Picking Started,2026-02-04 22:50:00,East
+ORD-00641,Quality Check,2026-02-05 00:50:00,Central
+ORD-00641,Packed,2026-02-05 01:50:00,Central
+ORD-00642,Picking Started,2026-02-04 15:15:00,East
+ORD-00642,Quality Check,2026-02-04 20:15:00,Central
+ORD-00642,Packed,2026-02-04 22:15:00,Central
+ORD-00643,Picking Started,2026-01-16 23:55:00,East
+ORD-00643,Quality Check,2026-01-17 06:55:00,Central
+ORD-00643,Packed,2026-01-17 09:55:00,Central
+ORD-00644,Picking Started,2026-02-18 12:32:00,West
+ORD-00644,Quality Check,2026-02-18 17:32:00,Central
+ORD-00644,Packed,2026-02-18 19:32:00,Central
+ORD-00645,Picking Started,2026-02-10 11:46:00,West
+ORD-00645,Quality Check,2026-02-10 19:46:00,Central
+ORD-00645,Packed,2026-02-10 23:46:00,Central
+ORD-00647,Picking Started,2026-01-24 05:05:00,East
+ORD-00647,Quality Check,2026-01-24 14:05:00,Central
+ORD-00647,Packed,2026-01-24 21:05:00,Central
+ORD-00648,Picking Started,2026-02-27 15:17:00,East
+ORD-00648,Quality Check,2026-02-27 23:17:00,Central
+ORD-00648,Packed,2026-02-28 04:17:00,Central
+ORD-00649,Picking Started,2026-02-10 01:48:00,West
+ORD-00649,Quality Check,2026-02-10 10:48:00,Central
+ORD-00649,Packed,2026-02-10 11:48:00,Central
+ORD-00650,Picking Started,2026-02-14 16:07:00,East
+ORD-00650,Quality Check,2026-02-14 23:07:00,Central
+ORD-00650,Quality Check,2026-02-15 00:43:00,Central
+ORD-00650,Packed,2026-02-15 04:43:00,Central
+ORD-00651,Picking Started,2026-02-02 14:01:00,West
+ORD-00651,Quality Check,2026-02-02 15:01:00,Central
+ORD-00651,Packed,2026-02-02 16:01:00,Central
+ORD-00652,Picking Started,2026-02-25 12:01:00,East
+ORD-00652,Quality Check,2026-02-25 15:01:00,Central
+ORD-00652,Packed,2026-02-25 18:01:00,Central
+ORD-00653,Picking Started,2026-01-11 00:58:00,West
+ORD-00653,Quality Check,2026-01-11 09:58:00,Central
+ORD-00653,Packed,2026-01-11 13:58:00,Central
+ORD-00654,Picking Started,2026-02-26 12:17:00,East
+ORD-00654,Quality Check,2026-02-26 14:17:00,Central
+ORD-00654,Packed,2026-02-26 23:17:00,Central
+ORD-00655,Picking Started,2026-01-24 05:49:00,West
+ORD-00655,Quality Check,2026-01-24 09:49:00,Central
+ORD-00655,Packed,2026-01-24 12:49:00,Central
+ORD-00656,Picking Started,2026-02-04 18:14:00,West
+ORD-00656,Quality Check,2026-02-05 04:14:00,Central
+ORD-00656,Packed,2026-02-05 11:14:00,Central
+ORD-00657,Picking Started,2026-01-24 06:54:00,East
+ORD-00657,Quality Check,2026-01-24 08:54:00,Central
+ORD-00657,Packed,2026-01-24 13:54:00,Central
+ORD-00658,Picking Started,2026-02-17 06:27:00,East
+ORD-00658,Quality Check,2026-02-17 08:27:00,Central
+ORD-00658,Packed,2026-02-17 16:27:00,Central
+ORD-00659,Picking Started,2026-02-24 01:47:00,West
+ORD-00659,Quality Check,2026-02-24 10:47:00,Central
+ORD-00659,Packed,2026-02-24 17:47:00,Central
+ORD-00660,Picking Started,2026-02-22 20:03:00,East
+ORD-00660,Quality Check,2026-02-23 00:03:00,Central
+ORD-00660,Packed,2026-02-23 01:03:00,Central
+ORD-00661,Picking Started,2026-01-19 19:53:00,West
+ORD-00661,Quality Check,2026-01-19 22:53:00,Central
+ORD-00661,Packed,2026-01-20 03:53:00,Central
+ORD-00662,Picking Started,2026-02-24 14:54:00,West
+ORD-00662,Quality Check,2026-02-24 18:54:00,Central
+ORD-00662,Packed,2026-02-24 20:54:00,Central
+ORD-00664,Picking Started,2026-02-06 11:34:00,West
+ORD-00664,Quality Check,2026-02-06 17:34:00,Central
+ORD-00664,Packed,2026-02-06 20:34:00,Central
+ORD-00665,Picking Started,2026-02-19 01:56:00,East
+ORD-00665,Quality Check,2026-02-19 09:56:00,Central
+ORD-00665,Packed,2026-02-19 15:56:00,Central
+ORD-00666,Picking Started,2026-01-15 22:08:00,West
+ORD-00666,Quality Check,2026-01-16 05:08:00,Central
+ORD-00666,Packed,2026-01-16 12:08:00,Central
+ORD-00667,Picking Started,2026-02-25 19:20:00,East
+ORD-00667,Quality Check,2026-02-26 05:20:00,Central
+ORD-00667,Packed,2026-02-26 14:20:00,Central
+ORD-00668,Picking Started,2026-02-13 07:56:00,West
+ORD-00668,Quality Check,2026-02-13 12:56:00,Central
+ORD-00668,Packed,2026-02-13 13:56:00,Central
+ORD-00669,Picking Started,2026-02-20 00:30:00,West
+ORD-00669,Quality Check,2026-02-20 09:30:00,Central
+ORD-00669,Packed,2026-02-20 16:30:00,Central
+ORD-00670,Picking Started,2026-02-22 17:46:00,East
+ORD-00670,Quality Check,2026-02-23 02:46:00,Central
+ORD-00670,Packed,2026-02-23 07:46:00,Central
+ORD-00671,Picking Started,2026-02-21 03:54:00,East
+ORD-00671,Quality Check,2026-02-21 13:54:00,Central
+ORD-00671,Packed,2026-02-21 22:54:00,Central
+ORD-00672,Picking Started,2026-02-05 11:26:00,West
+ORD-00672,Quality Check,2026-02-05 14:26:00,Central
+ORD-00672,Packed,2026-02-05 22:26:00,Central
+ORD-00673,Picking Started,2026-02-04 17:42:00,West
+ORD-00673,Quality Check,2026-02-04 19:42:00,Central
+ORD-00673,Packed,2026-02-05 03:42:00,Central
+ORD-00674,Picking Started,2026-02-24 05:48:00,West
+ORD-00674,Quality Check,2026-02-24 06:48:00,Central
+ORD-00674,Packed,2026-02-24 08:48:00,Central
+ORD-00675,Picking Started,2026-01-16 15:13:00,West
+ORD-00675,Quality Check,2026-01-16 16:13:00,Central
+ORD-00675,Packed,2026-01-16 18:13:00,Central
+ORD-00676,Picking Started,2026-03-01 07:43:00,East
+ORD-00676,Quality Check,2026-03-01 15:43:00,Central
+ORD-00676,Quality Check,2026-03-01 16:33:00,Central
+ORD-00676,Packed,2026-03-01 20:33:00,Central
+ORD-00677,Picking Started,2026-01-26 01:00:00,West
+ORD-00677,Quality Check,2026-01-26 04:00:00,Central
+ORD-00677,Packed,2026-01-26 11:00:00,Central
+ORD-00678,Picking Started,2026-02-11 20:34:00,East
+ORD-00678,Quality Check,2026-02-12 05:34:00,Central
+ORD-00678,Packed,2026-02-12 11:34:00,Central
+ORD-00679,Picking Started,2026-02-03 04:13:00,East
+ORD-00679,Quality Check,2026-02-03 06:13:00,Central
+ORD-00679,Packed,2026-02-03 14:13:00,Central
+ORD-00681,Picking Started,2026-01-17 07:03:00,West
+ORD-00681,Quality Check,2026-01-17 08:03:00,Central
+ORD-00681,Packed,2026-01-17 15:03:00,Central
+ORD-00682,Picking Started,2026-02-21 13:06:00,East
+ORD-00682,Quality Check,2026-02-21 19:06:00,Central
+ORD-00682,Packed,2026-02-21 21:06:00,Central
+ORD-00683,Picking Started,2026-02-25 06:22:00,West
+ORD-00683,Quality Check,2026-02-25 13:22:00,Central
+ORD-00683,Packed,2026-02-25 22:22:00,Central
+ORD-00684,Picking Started,2026-02-19 06:48:00,West
+ORD-00684,Quality Check,2026-02-19 08:48:00,Central
+ORD-00684,Packed,2026-02-19 09:48:00,Central
+ORD-00685,Picking Started,2026-02-15 19:33:00,East
+ORD-00685,Quality Check,2026-02-16 05:33:00,Central
+ORD-00685,Packed,2026-02-16 08:33:00,Central
+ORD-00686,Picking Started,2026-01-14 12:24:00,East
+ORD-00686,Quality Check,2026-01-14 17:24:00,Central
+ORD-00686,Packed,2026-01-14 23:24:00,Central
+ORD-00687,Picking Started,2026-03-01 05:59:00,West
+ORD-00687,Quality Check,2026-03-01 06:59:00,Central
+ORD-00687,Packed,2026-03-01 15:59:00,Central
+ORD-00688,Picking Started,2026-01-09 16:52:00,East
+ORD-00688,Quality Check,2026-01-09 22:52:00,Central
+ORD-00688,Packed,2026-01-10 05:52:00,Central
+ORD-00689,Picking Started,2026-02-14 22:13:00,West
+ORD-00689,Quality Check,2026-02-15 02:13:00,Central
+ORD-00689,Quality Check,2026-02-15 04:03:00,Central
+ORD-00689,Packed,2026-02-15 07:03:00,Central
+ORD-00690,Picking Started,2026-01-21 03:06:00,East
+ORD-00690,Quality Check,2026-01-21 12:06:00,Central
+ORD-00690,Packed,2026-01-21 16:06:00,Central
+ORD-00691,Picking Started,2026-02-15 07:01:00,West
+ORD-00691,Quality Check,2026-02-15 10:01:00,Central
+ORD-00691,Packed,2026-02-15 18:01:00,Central
+ORD-00692,Picking Started,2026-02-12 12:15:00,West
+ORD-00692,Quality Check,2026-02-12 21:15:00,Central
+ORD-00692,Packed,2026-02-12 22:15:00,Central
+ORD-00693,Picking Started,2026-02-07 15:07:00,East
+ORD-00693,Quality Check,2026-02-07 22:07:00,Central
+ORD-00693,Packed,2026-02-08 00:07:00,Central
+ORD-00694,Picking Started,2026-02-13 00:49:00,East
+ORD-00694,Quality Check,2026-02-13 05:49:00,Central
+ORD-00694,Packed,2026-02-13 10:49:00,Central
+ORD-00695,Picking Started,2026-02-07 15:42:00,West
+ORD-00695,Quality Check,2026-02-07 22:42:00,Central
+ORD-00695,Packed,2026-02-08 05:42:00,Central
+ORD-00696,Picking Started,2026-02-05 12:54:00,West
+ORD-00696,Quality Check,2026-02-05 16:54:00,Central
+ORD-00696,Packed,2026-02-05 18:54:00,Central
+ORD-00698,Picking Started,2026-02-01 10:17:00,East
+ORD-00698,Quality Check,2026-02-01 17:17:00,Central
+ORD-00698,Packed,2026-02-01 22:17:00,Central
+ORD-00699,Picking Started,2026-01-10 03:34:00,West
+ORD-00699,Quality Check,2026-01-10 06:34:00,Central
+ORD-00699,Packed,2026-01-10 10:34:00,Central
+ORD-00700,Picking Started,2026-02-02 07:04:00,East
+ORD-00700,Quality Check,2026-02-02 13:04:00,Central
+ORD-00700,Packed,2026-02-02 16:04:00,Central
+ORD-00701,Picking Started,2026-02-14 23:31:00,East
+ORD-00701,Quality Check,2026-02-15 08:31:00,Central
+ORD-00701,Packed,2026-02-15 17:31:00,Central
+ORD-00702,Picking Started,2026-02-25 09:13:00,West
+ORD-00702,Quality Check,2026-02-25 11:13:00,Central
+ORD-00702,Quality Check,2026-02-25 13:10:00,Central
+ORD-00702,Packed,2026-02-25 22:10:00,Central
+ORD-00703,Picking Started,2026-02-04 22:18:00,West
+ORD-00703,Quality Check,2026-02-05 08:18:00,Central
+ORD-00703,Packed,2026-02-05 13:18:00,Central
+ORD-00704,Picking Started,2026-02-02 05:36:00,East
+ORD-00704,Quality Check,2026-02-02 07:36:00,Central
+ORD-00704,Packed,2026-02-02 11:36:00,Central
+ORD-00705,Picking Started,2026-02-15 22:42:00,East
+ORD-00705,Quality Check,2026-02-16 07:42:00,Central
+ORD-00705,Packed,2026-02-16 16:42:00,Central
+ORD-00706,Picking Started,2026-02-27 04:07:00,East
+ORD-00706,Quality Check,2026-02-27 08:07:00,Central
+ORD-00706,Packed,2026-02-27 16:07:00,Central
+ORD-00707,Picking Started,2026-02-11 12:38:00,West
+ORD-00707,Quality Check,2026-02-11 18:38:00,Central
+ORD-00707,Packed,2026-02-11 21:38:00,Central
+ORD-00708,Picking Started,2026-01-21 19:45:00,East
+ORD-00708,Quality Check,2026-01-21 22:45:00,Central
+ORD-00708,Packed,2026-01-22 03:45:00,Central
+ORD-00709,Picking Started,2026-02-28 07:02:00,West
+ORD-00709,Quality Check,2026-02-28 17:02:00,Central
+ORD-00709,Packed,2026-02-28 19:02:00,Central
+ORD-00710,Picking Started,2026-01-16 00:26:00,West
+ORD-00710,Quality Check,2026-01-16 06:26:00,Central
+ORD-00710,Packed,2026-01-16 13:26:00,Central
+ORD-00711,Picking Started,2026-02-28 16:37:00,East
+ORD-00711,Quality Check,2026-03-01 02:37:00,Central
+ORD-00711,Packed,2026-03-01 09:37:00,Central
+ORD-00712,Picking Started,2026-02-15 14:00:00,West
+ORD-00712,Quality Check,2026-02-15 17:00:00,Central
+ORD-00712,Packed,2026-02-16 01:00:00,Central
+ORD-00713,Picking Started,2026-02-17 21:40:00,East
+ORD-00713,Quality Check,2026-02-18 02:40:00,Central
+ORD-00713,Packed,2026-02-18 11:40:00,Central
+ORD-00715,Picking Started,2026-01-25 11:32:00,West
+ORD-00715,Quality Check,2026-01-25 14:32:00,Central
+ORD-00715,Quality Check,2026-01-25 14:54:00,Central
+ORD-00715,Packed,2026-01-25 23:54:00,Central
+ORD-00716,Picking Started,2026-02-20 06:43:00,West
+ORD-00716,Quality Check,2026-02-20 12:43:00,Central
+ORD-00716,Packed,2026-02-20 16:43:00,Central
+ORD-00717,Picking Started,2026-02-03 00:26:00,East
+ORD-00717,Quality Check,2026-02-03 05:26:00,Central
+ORD-00717,Packed,2026-02-03 09:26:00,Central
+ORD-00718,Picking Started,2026-02-17 12:11:00,West
+ORD-00718,Quality Check,2026-02-17 21:11:00,Central
+ORD-00718,Packed,2026-02-18 05:11:00,Central
+ORD-00719,Picking Started,2026-02-11 14:22:00,West
+ORD-00719,Quality Check,2026-02-11 16:22:00,Central
+ORD-00719,Packed,2026-02-12 00:22:00,Central
+ORD-00720,Picking Started,2026-02-24 02:38:00,West
+ORD-00720,Quality Check,2026-02-24 07:38:00,Central
+ORD-00720,Packed,2026-02-24 09:38:00,Central
+ORD-00721,Picking Started,2026-01-24 01:00:00,West
+ORD-00721,Quality Check,2026-01-24 06:00:00,Central
+ORD-00721,Packed,2026-01-24 08:00:00,Central
+ORD-00722,Picking Started,2026-01-21 23:57:00,East
+ORD-00722,Quality Check,2026-01-22 06:57:00,Central
+ORD-00722,Packed,2026-01-22 14:57:00,Central
+ORD-00723,Picking Started,2026-02-13 19:41:00,East
+ORD-00723,Quality Check,2026-02-13 22:41:00,Central
+ORD-00723,Packed,2026-02-14 06:41:00,Central
+ORD-00724,Picking Started,2026-01-13 19:19:00,West
+ORD-00724,Quality Check,2026-01-14 00:19:00,Central
+ORD-00724,Packed,2026-01-14 06:19:00,Central
+ORD-00725,Picking Started,2026-01-29 23:29:00,East
+ORD-00725,Quality Check,2026-01-30 06:29:00,Central
+ORD-00725,Packed,2026-01-30 07:29:00,Central
+ORD-00726,Picking Started,2026-01-23 04:33:00,East
+ORD-00726,Quality Check,2026-01-23 07:33:00,Central
+ORD-00726,Packed,2026-01-23 11:33:00,Central
+ORD-00727,Picking Started,2026-01-22 13:28:00,West
+ORD-00727,Quality Check,2026-01-22 17:28:00,Central
+ORD-00727,Packed,2026-01-22 22:28:00,Central
+ORD-00728,Picking Started,2026-02-17 12:08:00,East
+ORD-00728,Quality Check,2026-02-17 19:08:00,Central
+ORD-00728,Quality Check,2026-02-17 19:51:00,Central
+ORD-00728,Packed,2026-02-18 02:51:00,Central
+ORD-00729,Picking Started,2026-01-20 01:31:00,East
+ORD-00729,Quality Check,2026-01-20 05:31:00,Central
+ORD-00729,Packed,2026-01-20 06:31:00,Central
+ORD-00730,Picking Started,2026-01-09 13:50:00,East
+ORD-00730,Quality Check,2026-01-09 23:50:00,Central
+ORD-00730,Packed,2026-01-10 07:50:00,Central
+ORD-00732,Picking Started,2026-01-09 21:46:00,West
+ORD-00732,Quality Check,2026-01-10 07:46:00,Central
+ORD-00732,Packed,2026-01-10 08:46:00,Central
+ORD-00733,Picking Started,2026-01-20 13:09:00,West
+ORD-00733,Quality Check,2026-01-20 15:09:00,Central
+ORD-00733,Packed,2026-01-21 00:09:00,Central
+ORD-00734,Picking Started,2026-01-14 18:09:00,West
+ORD-00734,Quality Check,2026-01-15 00:09:00,Central
+ORD-00734,Packed,2026-01-15 04:09:00,Central
+ORD-00735,Picking Started,2026-01-06 20:51:00,West
+ORD-00735,Quality Check,2026-01-07 03:51:00,Central
+ORD-00735,Packed,2026-01-07 12:51:00,Central
+ORD-00736,Picking Started,2026-01-28 23:33:00,West
+ORD-00736,Quality Check,2026-01-29 01:33:00,Central
+ORD-00736,Packed,2026-01-29 09:33:00,Central
+ORD-00737,Picking Started,2026-01-26 20:41:00,East
+ORD-00737,Quality Check,2026-01-27 03:41:00,Central
+ORD-00737,Packed,2026-01-27 05:41:00,Central
+ORD-00738,Picking Started,2026-02-06 01:01:00,East
+ORD-00738,Quality Check,2026-02-06 03:01:00,Central
+ORD-00738,Packed,2026-02-06 05:01:00,Central
+ORD-00739,Picking Started,2026-01-26 02:52:00,West
+ORD-00739,Quality Check,2026-01-26 11:52:00,Central
+ORD-00739,Packed,2026-01-26 14:52:00,Central
+ORD-00740,Picking Started,2026-02-13 09:04:00,East
+ORD-00740,Quality Check,2026-02-13 17:04:00,Central
+ORD-00740,Packed,2026-02-13 22:04:00,Central
+ORD-00741,Picking Started,2026-01-06 11:13:00,West
+ORD-00741,Quality Check,2026-01-06 16:13:00,Central
+ORD-00741,Quality Check,2026-01-06 17:42:00,Central
+ORD-00741,Packed,2026-01-07 01:42:00,Central
+ORD-00742,Picking Started,2026-02-11 13:42:00,East
+ORD-00742,Quality Check,2026-02-11 18:42:00,Central
+ORD-00742,Packed,2026-02-12 01:42:00,Central
+ORD-00743,Picking Started,2026-02-01 16:58:00,West
+ORD-00743,Quality Check,2026-02-01 19:58:00,Central
+ORD-00743,Packed,2026-02-01 20:58:00,Central
+ORD-00744,Picking Started,2026-01-07 19:34:00,West
+ORD-00744,Quality Check,2026-01-08 02:34:00,Central
+ORD-00744,Packed,2026-01-08 07:34:00,Central
+ORD-00745,Picking Started,2026-02-12 14:39:00,East
+ORD-00745,Quality Check,2026-02-12 20:39:00,Central
+ORD-00745,Packed,2026-02-13 01:39:00,Central
+ORD-00746,Picking Started,2026-01-19 15:22:00,East
+ORD-00746,Quality Check,2026-01-19 21:22:00,Central
+ORD-00746,Packed,2026-01-19 23:22:00,Central
+ORD-00747,Picking Started,2026-02-07 05:45:00,West
+ORD-00747,Quality Check,2026-02-07 11:45:00,Central
+ORD-00747,Packed,2026-02-07 19:45:00,Central
+ORD-00749,Picking Started,2026-01-25 10:49:00,West
+ORD-00749,Quality Check,2026-01-25 11:49:00,Central
+ORD-00749,Packed,2026-01-25 12:49:00,Central
+ORD-00750,Picking Started,2026-02-20 14:39:00,East
+ORD-00750,Quality Check,2026-02-20 19:39:00,Central
+ORD-00750,Packed,2026-02-21 00:39:00,Central
+ORD-00751,Picking Started,2026-01-07 09:40:00,West
+ORD-00751,Quality Check,2026-01-07 11:40:00,Central
+ORD-00751,Packed,2026-01-07 18:40:00,Central
+ORD-00752,Picking Started,2026-01-28 23:30:00,East
+ORD-00752,Quality Check,2026-01-29 07:30:00,Central
+ORD-00752,Packed,2026-01-29 13:30:00,Central
+ORD-00753,Picking Started,2026-02-11 03:37:00,West
+ORD-00753,Quality Check,2026-02-11 06:37:00,Central
+ORD-00753,Packed,2026-02-11 13:37:00,Central
+ORD-00754,Picking Started,2026-01-18 00:45:00,East
+ORD-00754,Quality Check,2026-01-18 09:45:00,Central
+ORD-00754,Quality Check,2026-01-18 11:14:00,Central
+ORD-00754,Packed,2026-01-18 19:14:00,Central
+ORD-00755,Picking Started,2026-01-21 20:45:00,West
+ORD-00755,Quality Check,2026-01-22 05:45:00,Central
+ORD-00755,Packed,2026-01-22 10:45:00,Central
+ORD-00756,Picking Started,2026-01-26 12:57:00,East
+ORD-00756,Quality Check,2026-01-26 18:57:00,Central
+ORD-00756,Packed,2026-01-26 19:57:00,Central
+ORD-00757,Picking Started,2026-02-20 03:59:00,East
+ORD-00757,Quality Check,2026-02-20 12:59:00,Central
+ORD-00757,Packed,2026-02-20 19:59:00,Central
+ORD-00758,Picking Started,2026-02-28 22:01:00,West
+ORD-00758,Quality Check,2026-03-01 07:01:00,Central
+ORD-00758,Packed,2026-03-01 08:01:00,Central
+ORD-00759,Picking Started,2026-02-21 04:28:00,East
+ORD-00759,Quality Check,2026-02-21 09:28:00,Central
+ORD-00759,Packed,2026-02-21 18:28:00,Central
+ORD-00760,Picking Started,2026-01-31 16:16:00,West
+ORD-00760,Quality Check,2026-01-31 21:16:00,Central
+ORD-00760,Packed,2026-02-01 04:16:00,Central
+ORD-00761,Picking Started,2026-02-20 20:17:00,East
+ORD-00761,Quality Check,2026-02-20 22:17:00,Central
+ORD-00761,Packed,2026-02-21 04:17:00,Central
+ORD-00762,Picking Started,2026-02-04 04:14:00,West
+ORD-00762,Quality Check,2026-02-04 06:14:00,Central
+ORD-00762,Packed,2026-02-04 13:14:00,Central
+ORD-00763,Picking Started,2026-01-23 14:22:00,East
+ORD-00763,Quality Check,2026-01-23 15:22:00,Central
+ORD-00763,Packed,2026-01-23 18:22:00,Central
+ORD-00764,Picking Started,2026-02-10 22:12:00,West
+ORD-00764,Quality Check,2026-02-11 06:12:00,Central
+ORD-00764,Packed,2026-02-11 10:12:00,Central
+ORD-00766,Picking Started,2026-02-07 05:32:00,East
+ORD-00766,Quality Check,2026-02-07 11:32:00,Central
+ORD-00766,Packed,2026-02-07 13:32:00,Central
+ORD-00767,Picking Started,2026-01-25 16:59:00,East
+ORD-00767,Quality Check,2026-01-26 00:59:00,Central
+ORD-00767,Quality Check,2026-01-26 01:31:00,Central
+ORD-00767,Packed,2026-01-26 06:31:00,Central
+ORD-00768,Picking Started,2026-01-27 12:55:00,East
+ORD-00768,Quality Check,2026-01-27 20:55:00,Central
+ORD-00768,Packed,2026-01-28 03:55:00,Central
+ORD-00769,Picking Started,2026-01-25 17:44:00,West
+ORD-00769,Quality Check,2026-01-25 19:44:00,Central
+ORD-00769,Packed,2026-01-26 02:44:00,Central
+ORD-00770,Picking Started,2026-02-20 08:13:00,West
+ORD-00770,Quality Check,2026-02-20 12:13:00,Central
+ORD-00770,Packed,2026-02-20 15:13:00,Central
+ORD-00771,Picking Started,2026-01-09 08:49:00,West
+ORD-00771,Quality Check,2026-01-09 14:49:00,Central
+ORD-00771,Packed,2026-01-09 20:49:00,Central
+ORD-00772,Picking Started,2026-02-16 11:48:00,West
+ORD-00772,Quality Check,2026-02-16 13:48:00,Central
+ORD-00772,Packed,2026-02-16 17:48:00,Central
+ORD-00773,Picking Started,2026-01-05 22:40:00,East
+ORD-00773,Quality Check,2026-01-06 04:40:00,Central
+ORD-00773,Packed,2026-01-06 13:40:00,Central
+ORD-00774,Picking Started,2026-01-14 20:37:00,East
+ORD-00774,Quality Check,2026-01-15 06:37:00,Central
+ORD-00774,Packed,2026-01-15 07:37:00,Central
+ORD-00775,Picking Started,2026-02-20 19:22:00,East
+ORD-00775,Quality Check,2026-02-20 21:22:00,Central
+ORD-00775,Packed,2026-02-21 02:22:00,Central
+ORD-00776,Picking Started,2026-01-28 20:35:00,West
+ORD-00776,Quality Check,2026-01-29 05:35:00,Central
+ORD-00776,Packed,2026-01-29 12:35:00,Central
+ORD-00777,Picking Started,2026-01-18 22:45:00,West
+ORD-00777,Quality Check,2026-01-19 00:45:00,Central
+ORD-00777,Packed,2026-01-19 05:45:00,Central
+ORD-00778,Picking Started,2026-01-17 20:43:00,East
+ORD-00778,Quality Check,2026-01-18 00:43:00,Central
+ORD-00778,Packed,2026-01-18 06:43:00,Central
+ORD-00779,Picking Started,2026-02-25 04:56:00,West
+ORD-00779,Quality Check,2026-02-25 11:56:00,Central
+ORD-00779,Packed,2026-02-25 16:56:00,Central
+ORD-00780,Picking Started,2026-02-24 18:52:00,East
+ORD-00780,Quality Check,2026-02-24 19:52:00,Central
+ORD-00780,Quality Check,2026-02-24 20:35:00,Central
+ORD-00780,Packed,2026-02-25 05:35:00,Central
+ORD-00781,Picking Started,2026-02-06 10:48:00,East
+ORD-00781,Quality Check,2026-02-06 12:48:00,Central
+ORD-00781,Packed,2026-02-06 13:48:00,Central
+ORD-00783,Picking Started,2026-01-12 08:25:00,West
+ORD-00783,Quality Check,2026-01-12 11:25:00,Central
+ORD-00783,Packed,2026-01-12 19:25:00,Central
+ORD-00784,Picking Started,2026-02-04 03:20:00,East
+ORD-00784,Quality Check,2026-02-04 04:20:00,Central
+ORD-00784,Packed,2026-02-04 12:20:00,Central
+ORD-00785,Picking Started,2026-02-14 00:58:00,East
+ORD-00785,Quality Check,2026-02-14 06:58:00,Central
+ORD-00785,Packed,2026-02-14 12:58:00,Central
+ORD-00786,Picking Started,2026-01-29 14:23:00,East
+ORD-00786,Quality Check,2026-01-29 23:23:00,Central
+ORD-00786,Packed,2026-01-30 07:23:00,Central
+ORD-00787,Picking Started,2026-01-21 17:34:00,West
+ORD-00787,Quality Check,2026-01-21 21:34:00,Central
+ORD-00787,Packed,2026-01-22 01:34:00,Central
+ORD-00788,Picking Started,2026-01-21 06:57:00,East
+ORD-00788,Quality Check,2026-01-21 10:57:00,Central
+ORD-00788,Packed,2026-01-21 19:57:00,Central
+ORD-00789,Picking Started,2026-02-23 15:47:00,East
+ORD-00789,Quality Check,2026-02-23 22:47:00,Central
+ORD-00789,Packed,2026-02-23 23:47:00,Central
+ORD-00790,Picking Started,2026-02-10 10:03:00,West
+ORD-00790,Quality Check,2026-02-10 20:03:00,Central
+ORD-00790,Packed,2026-02-11 03:03:00,Central
+ORD-00791,Picking Started,2026-01-23 14:57:00,East
+ORD-00791,Quality Check,2026-01-23 23:57:00,Central
+ORD-00791,Packed,2026-01-24 00:57:00,Central
+ORD-00792,Picking Started,2026-01-21 09:33:00,East
+ORD-00792,Quality Check,2026-01-21 13:33:00,Central
+ORD-00792,Packed,2026-01-21 20:33:00,Central
+ORD-00793,Picking Started,2026-01-11 00:31:00,West
+ORD-00793,Quality Check,2026-01-11 02:31:00,Central
+ORD-00793,Quality Check,2026-01-11 04:06:00,Central
+ORD-00793,Packed,2026-01-11 13:06:00,Central
+ORD-00794,Picking Started,2026-02-24 21:00:00,West
+ORD-00794,Quality Check,2026-02-25 05:00:00,Central
+ORD-00794,Packed,2026-02-25 08:00:00,Central
+ORD-00795,Picking Started,2026-01-11 19:11:00,East
+ORD-00795,Quality Check,2026-01-11 22:11:00,Central
+ORD-00795,Packed,2026-01-12 06:11:00,Central
+ORD-00796,Picking Started,2026-02-26 06:13:00,East
+ORD-00796,Quality Check,2026-02-26 07:13:00,Central
+ORD-00796,Packed,2026-02-26 12:13:00,Central
+ORD-00797,Picking Started,2026-02-21 23:32:00,East
+ORD-00797,Quality Check,2026-02-22 07:32:00,Central
+ORD-00797,Packed,2026-02-22 09:32:00,Central
+ORD-00798,Picking Started,2026-01-24 09:36:00,East
+ORD-00798,Quality Check,2026-01-24 12:36:00,Central
+ORD-00798,Packed,2026-01-24 21:36:00,Central
+ORD-00800,Picking Started,2026-02-03 18:28:00,West
+ORD-00800,Quality Check,2026-02-04 01:28:00,Central
+ORD-00800,Packed,2026-02-04 04:28:00,Central
+ORD-00801,Picking Started,2026-02-24 05:53:00,East
+ORD-00801,Quality Check,2026-02-24 07:53:00,Central
+ORD-00801,Packed,2026-02-24 09:53:00,Central
+ORD-00802,Picking Started,2026-02-21 16:18:00,West
+ORD-00802,Quality Check,2026-02-21 23:18:00,Central
+ORD-00802,Packed,2026-02-22 00:18:00,Central
+ORD-00803,Picking Started,2026-01-27 01:23:00,East
+ORD-00803,Quality Check,2026-01-27 03:23:00,Central
+ORD-00803,Packed,2026-01-27 12:23:00,Central
+ORD-00804,Picking Started,2026-01-08 09:04:00,West
+ORD-00804,Quality Check,2026-01-08 17:04:00,Central
+ORD-00804,Packed,2026-01-08 21:04:00,Central
+ORD-00805,Picking Started,2026-01-07 14:38:00,West
+ORD-00805,Quality Check,2026-01-07 19:38:00,Central
+ORD-00805,Packed,2026-01-07 20:38:00,Central
+ORD-00806,Picking Started,2026-01-28 10:09:00,East
+ORD-00806,Quality Check,2026-01-28 16:09:00,Central
+ORD-00806,Quality Check,2026-01-28 16:32:00,Central
+ORD-00806,Packed,2026-01-28 19:32:00,Central
+ORD-00807,Picking Started,2026-02-13 06:34:00,East
+ORD-00807,Quality Check,2026-02-13 13:34:00,Central
+ORD-00807,Packed,2026-02-13 14:34:00,Central
+ORD-00808,Picking Started,2026-01-18 03:20:00,West
+ORD-00808,Quality Check,2026-01-18 09:20:00,Central
+ORD-00808,Packed,2026-01-18 14:20:00,Central
+ORD-00809,Picking Started,2026-01-14 15:55:00,East
+ORD-00809,Quality Check,2026-01-14 23:55:00,Central
+ORD-00809,Packed,2026-01-15 02:55:00,Central
+ORD-00810,Picking Started,2026-02-04 22:44:00,West
+ORD-00810,Quality Check,2026-02-05 04:44:00,Central
+ORD-00810,Packed,2026-02-05 11:44:00,Central
+ORD-00811,Picking Started,2026-02-23 12:42:00,East
+ORD-00811,Quality Check,2026-02-23 15:42:00,Central
+ORD-00811,Packed,2026-02-23 18:42:00,Central
+ORD-00812,Picking Started,2026-02-12 16:55:00,West
+ORD-00812,Quality Check,2026-02-12 17:55:00,Central
+ORD-00812,Packed,2026-02-13 01:55:00,Central
+ORD-00813,Picking Started,2026-01-24 03:35:00,East
+ORD-00813,Quality Check,2026-01-24 05:35:00,Central
+ORD-00813,Packed,2026-01-24 09:35:00,Central
+ORD-00814,Picking Started,2026-02-08 11:21:00,West
+ORD-00814,Quality Check,2026-02-08 20:21:00,Central
+ORD-00814,Packed,2026-02-09 00:21:00,Central
+ORD-00815,Picking Started,2026-01-30 15:29:00,East
+ORD-00815,Quality Check,2026-01-30 18:29:00,Central
+ORD-00815,Packed,2026-01-31 01:29:00,Central
+ORD-00817,Picking Started,2026-02-02 21:56:00,East
+ORD-00817,Quality Check,2026-02-03 00:56:00,Central
+ORD-00817,Packed,2026-02-03 09:56:00,Central
+ORD-00818,Picking Started,2026-01-10 13:08:00,West
+ORD-00818,Quality Check,2026-01-10 14:08:00,Central
+ORD-00818,Packed,2026-01-10 16:08:00,Central
+ORD-00819,Picking Started,2026-01-14 09:16:00,East
+ORD-00819,Quality Check,2026-01-14 19:16:00,Central
+ORD-00819,Quality Check,2026-01-14 20:16:00,Central
+ORD-00819,Packed,2026-01-14 22:16:00,Central
+ORD-00820,Picking Started,2026-02-04 14:51:00,West
+ORD-00820,Quality Check,2026-02-04 16:51:00,Central
+ORD-00820,Packed,2026-02-05 00:51:00,Central
+ORD-00821,Picking Started,2026-01-31 22:38:00,East
+ORD-00821,Quality Check,2026-02-01 02:38:00,Central
+ORD-00821,Packed,2026-02-01 11:38:00,Central
+ORD-00822,Picking Started,2026-01-27 06:11:00,East
+ORD-00822,Quality Check,2026-01-27 09:11:00,Central
+ORD-00822,Packed,2026-01-27 12:11:00,Central
+ORD-00823,Picking Started,2026-01-08 16:47:00,East
+ORD-00823,Quality Check,2026-01-08 23:47:00,Central
+ORD-00823,Packed,2026-01-09 03:47:00,Central
+ORD-00824,Picking Started,2026-02-15 05:26:00,West
+ORD-00824,Quality Check,2026-02-15 14:26:00,Central
+ORD-00824,Packed,2026-02-15 19:26:00,Central
+ORD-00825,Picking Started,2026-02-25 22:36:00,East
+ORD-00825,Quality Check,2026-02-26 06:36:00,Central
+ORD-00825,Packed,2026-02-26 12:36:00,Central
+ORD-00826,Picking Started,2026-01-23 15:39:00,East
+ORD-00826,Quality Check,2026-01-23 20:39:00,Central
+ORD-00826,Packed,2026-01-24 03:39:00,Central
+ORD-00827,Picking Started,2026-02-15 05:24:00,East
+ORD-00827,Quality Check,2026-02-15 09:24:00,Central
+ORD-00827,Packed,2026-02-15 18:24:00,Central
+ORD-00828,Picking Started,2026-01-14 20:44:00,West
+ORD-00828,Quality Check,2026-01-15 00:44:00,Central
+ORD-00828,Packed,2026-01-15 05:44:00,Central
+ORD-00829,Picking Started,2026-02-26 18:16:00,East
+ORD-00829,Quality Check,2026-02-26 20:16:00,Central
+ORD-00829,Packed,2026-02-26 23:16:00,Central
+ORD-00830,Picking Started,2026-01-28 16:55:00,West
+ORD-00830,Quality Check,2026-01-28 18:55:00,Central
+ORD-00830,Packed,2026-01-29 01:55:00,Central
+ORD-00831,Picking Started,2026-01-28 04:12:00,East
+ORD-00831,Quality Check,2026-01-28 08:12:00,Central
+ORD-00831,Packed,2026-01-28 09:12:00,Central
+ORD-00832,Picking Started,2026-02-23 09:10:00,West
+ORD-00832,Quality Check,2026-02-23 13:10:00,Central
+ORD-00832,Quality Check,2026-02-23 14:14:00,Central
+ORD-00832,Packed,2026-02-23 17:14:00,Central
+ORD-00834,Picking Started,2026-02-14 16:08:00,East
+ORD-00834,Quality Check,2026-02-14 21:08:00,Central
+ORD-00834,Packed,2026-02-14 23:08:00,Central
+ORD-00835,Picking Started,2026-02-22 16:46:00,East
+ORD-00835,Quality Check,2026-02-22 18:46:00,Central
+ORD-00835,Packed,2026-02-22 22:46:00,Central
+ORD-00836,Picking Started,2026-01-07 16:58:00,East
+ORD-00836,Quality Check,2026-01-08 00:58:00,Central
+ORD-00836,Packed,2026-01-08 08:58:00,Central
+ORD-00837,Picking Started,2026-01-21 05:22:00,West
+ORD-00837,Quality Check,2026-01-21 10:22:00,Central
+ORD-00837,Packed,2026-01-21 11:22:00,Central
+ORD-00838,Picking Started,2026-01-18 09:14:00,West
+ORD-00838,Quality Check,2026-01-18 10:14:00,Central
+ORD-00838,Packed,2026-01-18 12:14:00,Central
+ORD-00839,Picking Started,2026-01-20 19:32:00,East
+ORD-00839,Quality Check,2026-01-21 00:32:00,Central
+ORD-00839,Packed,2026-01-21 02:32:00,Central
+ORD-00840,Picking Started,2026-01-31 13:59:00,East
+ORD-00840,Quality Check,2026-01-31 14:59:00,Central
+ORD-00840,Packed,2026-01-31 18:59:00,Central
+ORD-00841,Picking Started,2026-02-08 09:09:00,West
+ORD-00841,Quality Check,2026-02-08 14:09:00,Central
+ORD-00841,Packed,2026-02-08 20:09:00,Central
+ORD-00842,Picking Started,2026-02-07 03:46:00,West
+ORD-00842,Quality Check,2026-02-07 11:46:00,Central
+ORD-00842,Packed,2026-02-07 20:46:00,Central
+ORD-00843,Picking Started,2026-02-23 02:46:00,East
+ORD-00843,Quality Check,2026-02-23 09:46:00,Central
+ORD-00843,Packed,2026-02-23 14:46:00,Central
+ORD-00844,Picking Started,2026-02-17 02:31:00,West
+ORD-00844,Quality Check,2026-02-17 04:31:00,Central
+ORD-00844,Packed,2026-02-17 07:31:00,Central
+ORD-00845,Picking Started,2026-02-10 11:04:00,East
+ORD-00845,Quality Check,2026-02-10 12:04:00,Central
+ORD-00845,Quality Check,2026-02-10 13:50:00,Central
+ORD-00845,Packed,2026-02-10 19:50:00,Central
+ORD-00846,Picking Started,2026-01-13 00:17:00,East
+ORD-00846,Quality Check,2026-01-13 09:17:00,Central
+ORD-00846,Packed,2026-01-13 18:17:00,Central
+ORD-00847,Picking Started,2026-01-20 16:32:00,West
+ORD-00847,Quality Check,2026-01-20 22:32:00,Central
+ORD-00847,Packed,2026-01-21 05:32:00,Central
+ORD-00848,Picking Started,2026-02-04 09:59:00,West
+ORD-00848,Quality Check,2026-02-04 15:59:00,Central
+ORD-00848,Packed,2026-02-04 23:59:00,Central
+ORD-00849,Picking Started,2026-02-18 07:14:00,East
+ORD-00849,Quality Check,2026-02-18 16:14:00,Central
+ORD-00849,Packed,2026-02-18 20:14:00,Central
+ORD-00851,Picking Started,2026-02-20 10:37:00,East
+ORD-00851,Quality Check,2026-02-20 17:37:00,Central
+ORD-00851,Packed,2026-02-21 01:37:00,Central
+ORD-00852,Picking Started,2026-02-24 10:39:00,West
+ORD-00852,Quality Check,2026-02-24 17:39:00,Central
+ORD-00852,Packed,2026-02-24 19:39:00,Central
+ORD-00853,Picking Started,2026-02-03 19:22:00,West
+ORD-00853,Quality Check,2026-02-03 22:22:00,Central
+ORD-00853,Packed,2026-02-04 03:22:00,Central
+ORD-00854,Picking Started,2026-02-16 05:10:00,East
+ORD-00854,Quality Check,2026-02-16 13:10:00,Central
+ORD-00854,Packed,2026-02-16 18:10:00,Central
+ORD-00855,Picking Started,2026-01-29 01:54:00,West
+ORD-00855,Quality Check,2026-01-29 11:54:00,Central
+ORD-00855,Packed,2026-01-29 16:54:00,Central
+ORD-00856,Picking Started,2026-01-12 10:29:00,West
+ORD-00856,Quality Check,2026-01-12 11:29:00,Central
+ORD-00856,Packed,2026-01-12 17:29:00,Central
+ORD-00857,Picking Started,2026-01-06 09:30:00,West
+ORD-00857,Quality Check,2026-01-06 11:30:00,Central
+ORD-00857,Packed,2026-01-06 12:30:00,Central
+ORD-00858,Picking Started,2026-01-11 06:44:00,East
+ORD-00858,Quality Check,2026-01-11 10:44:00,Central
+ORD-00858,Quality Check,2026-01-11 12:11:00,Central
+ORD-00858,Packed,2026-01-11 14:11:00,Central
+ORD-00859,Picking Started,2026-01-10 03:17:00,East
+ORD-00859,Quality Check,2026-01-10 10:17:00,Central
+ORD-00859,Packed,2026-01-10 12:17:00,Central
+ORD-00860,Picking Started,2026-02-10 05:18:00,East
+ORD-00860,Quality Check,2026-02-10 06:18:00,Central
+ORD-00860,Packed,2026-02-10 14:18:00,Central
+ORD-00861,Picking Started,2026-01-27 19:55:00,West
+ORD-00861,Quality Check,2026-01-28 01:55:00,Central
+ORD-00861,Packed,2026-01-28 08:55:00,Central
+ORD-00862,Picking Started,2026-01-19 03:18:00,East
+ORD-00862,Quality Check,2026-01-19 07:18:00,Central
+ORD-00862,Packed,2026-01-19 16:18:00,Central
+ORD-00863,Picking Started,2026-02-15 03:10:00,East
+ORD-00863,Quality Check,2026-02-15 05:10:00,Central
+ORD-00863,Packed,2026-02-15 06:10:00,Central
+ORD-00864,Picking Started,2026-02-04 17:26:00,West
+ORD-00864,Quality Check,2026-02-05 00:26:00,Central
+ORD-00864,Packed,2026-02-05 03:26:00,Central
+ORD-00865,Picking Started,2026-01-17 13:14:00,East
+ORD-00865,Quality Check,2026-01-17 16:14:00,Central
+ORD-00865,Packed,2026-01-17 21:14:00,Central
+ORD-00866,Picking Started,2026-02-02 21:24:00,West
+ORD-00866,Quality Check,2026-02-03 06:24:00,Central
+ORD-00866,Packed,2026-02-03 12:24:00,Central
+ORD-00868,Picking Started,2026-01-18 22:04:00,East
+ORD-00868,Quality Check,2026-01-19 05:04:00,Central
+ORD-00868,Packed,2026-01-19 14:04:00,Central
+ORD-00869,Picking Started,2026-01-11 19:21:00,West
+ORD-00869,Quality Check,2026-01-12 05:21:00,Central
+ORD-00869,Packed,2026-01-12 11:21:00,Central
+ORD-00870,Picking Started,2026-01-21 08:48:00,West
+ORD-00870,Quality Check,2026-01-21 16:48:00,Central
+ORD-00870,Packed,2026-01-21 17:48:00,Central
+ORD-00871,Picking Started,2026-02-06 21:19:00,East
+ORD-00871,Quality Check,2026-02-07 05:19:00,Central
+ORD-00871,Quality Check,2026-02-07 06:54:00,Central
+ORD-00871,Packed,2026-02-07 07:54:00,Central
+ORD-00872,Picking Started,2026-02-08 01:23:00,West
+ORD-00872,Quality Check,2026-02-08 05:23:00,Central
+ORD-00872,Packed,2026-02-08 13:23:00,Central
+ORD-00873,Picking Started,2026-02-25 15:05:00,West
+ORD-00873,Quality Check,2026-02-26 01:05:00,Central
+ORD-00873,Packed,2026-02-26 04:05:00,Central
+ORD-00874,Picking Started,2026-02-21 08:43:00,West
+ORD-00874,Quality Check,2026-02-21 16:43:00,Central
+ORD-00874,Packed,2026-02-21 20:43:00,Central
+ORD-00875,Picking Started,2026-02-05 19:52:00,East
+ORD-00875,Quality Check,2026-02-05 21:52:00,Central
+ORD-00875,Packed,2026-02-06 04:52:00,Central
+ORD-00876,Picking Started,2026-01-24 19:20:00,East
+ORD-00876,Quality Check,2026-01-25 01:20:00,Central
+ORD-00876,Packed,2026-01-25 09:20:00,Central
+ORD-00877,Picking Started,2026-02-03 19:08:00,East
+ORD-00877,Quality Check,2026-02-04 02:08:00,Central
+ORD-00877,Packed,2026-02-04 05:08:00,Central
+ORD-00878,Picking Started,2026-02-16 04:53:00,East
+ORD-00878,Quality Check,2026-02-16 09:53:00,Central
+ORD-00878,Packed,2026-02-16 17:53:00,Central
+ORD-00879,Picking Started,2026-02-04 10:38:00,East
+ORD-00879,Quality Check,2026-02-04 15:38:00,Central
+ORD-00879,Packed,2026-02-04 18:38:00,Central
+ORD-00880,Picking Started,2026-02-23 00:50:00,East
+ORD-00880,Quality Check,2026-02-23 01:50:00,Central
+ORD-00880,Packed,2026-02-23 09:50:00,Central
+ORD-00881,Picking Started,2026-01-23 16:02:00,West
+ORD-00881,Quality Check,2026-01-23 22:02:00,Central
+ORD-00881,Packed,2026-01-24 02:02:00,Central
+ORD-00882,Picking Started,2026-01-18 17:26:00,East
+ORD-00882,Quality Check,2026-01-18 23:26:00,Central
+ORD-00882,Packed,2026-01-19 02:26:00,Central
+ORD-00883,Picking Started,2026-02-05 12:01:00,West
+ORD-00883,Quality Check,2026-02-05 18:01:00,Central
+ORD-00883,Packed,2026-02-05 23:01:00,Central
+ORD-00885,Picking Started,2026-02-17 00:31:00,East
+ORD-00885,Quality Check,2026-02-17 04:31:00,Central
+ORD-00885,Packed,2026-02-17 07:31:00,Central
+ORD-00886,Picking Started,2026-02-08 07:22:00,East
+ORD-00886,Quality Check,2026-02-08 16:22:00,Central
+ORD-00886,Packed,2026-02-08 23:22:00,Central
+ORD-00887,Picking Started,2026-01-13 10:41:00,West
+ORD-00887,Quality Check,2026-01-13 13:41:00,Central
+ORD-00887,Packed,2026-01-13 20:41:00,Central
+ORD-00888,Picking Started,2026-01-17 11:57:00,East
+ORD-00888,Quality Check,2026-01-17 13:57:00,Central
+ORD-00888,Packed,2026-01-17 19:57:00,Central
+ORD-00889,Picking Started,2026-02-09 15:33:00,East
+ORD-00889,Quality Check,2026-02-09 17:33:00,Central
+ORD-00889,Packed,2026-02-09 21:33:00,Central
+ORD-00890,Picking Started,2026-01-17 16:24:00,West
+ORD-00890,Quality Check,2026-01-17 21:24:00,Central
+ORD-00890,Packed,2026-01-18 02:24:00,Central
+ORD-00891,Picking Started,2026-02-25 20:03:00,East
+ORD-00891,Quality Check,2026-02-26 06:03:00,Central
+ORD-00891,Packed,2026-02-26 15:03:00,Central
+ORD-00892,Picking Started,2026-02-23 12:21:00,West
+ORD-00892,Quality Check,2026-02-23 18:21:00,Central
+ORD-00892,Packed,2026-02-23 19:21:00,Central
+ORD-00893,Picking Started,2026-02-08 04:18:00,East
+ORD-00893,Quality Check,2026-02-08 14:18:00,Central
+ORD-00893,Packed,2026-02-08 18:18:00,Central
+ORD-00894,Picking Started,2026-01-17 10:43:00,East
+ORD-00894,Quality Check,2026-01-17 12:43:00,Central
+ORD-00894,Packed,2026-01-17 16:43:00,Central
+ORD-00895,Picking Started,2026-02-18 13:05:00,West
+ORD-00895,Quality Check,2026-02-18 23:05:00,Central
+ORD-00895,Packed,2026-02-19 00:05:00,Central
+ORD-00896,Picking Started,2026-01-18 19:59:00,West
+ORD-00896,Quality Check,2026-01-19 02:59:00,Central
+ORD-00896,Packed,2026-01-19 10:59:00,Central
+ORD-00897,Picking Started,2026-02-25 22:33:00,East
+ORD-00897,Quality Check,2026-02-26 00:33:00,Central
+ORD-00897,Quality Check,2026-02-26 00:55:00,Central
+ORD-00897,Packed,2026-02-26 04:55:00,Central
+ORD-00898,Picking Started,2026-02-11 02:02:00,East
+ORD-00898,Quality Check,2026-02-11 05:02:00,Central
+ORD-00898,Packed,2026-02-11 13:02:00,Central
+ORD-00899,Picking Started,2026-02-11 08:11:00,West
+ORD-00899,Quality Check,2026-02-11 17:11:00,Central
+ORD-00899,Packed,2026-02-11 18:11:00,Central
+ORD-00900,Picking Started,2026-02-14 03:57:00,East
+ORD-00900,Quality Check,2026-02-14 04:57:00,Central
+ORD-00900,Packed,2026-02-14 09:57:00,Central
+ORD-00902,Picking Started,2026-02-17 16:35:00,West
+ORD-00902,Quality Check,2026-02-17 21:35:00,Central
+ORD-00902,Packed,2026-02-17 23:35:00,Central
+ORD-00903,Picking Started,2026-02-02 01:21:00,West
+ORD-00903,Quality Check,2026-02-02 06:21:00,Central
+ORD-00903,Packed,2026-02-02 10:21:00,Central
+ORD-00904,Picking Started,2026-02-21 13:54:00,West
+ORD-00904,Quality Check,2026-02-21 18:54:00,Central
+ORD-00904,Packed,2026-02-22 03:54:00,Central
+ORD-00905,Picking Started,2026-01-27 12:08:00,West
+ORD-00905,Quality Check,2026-01-27 18:08:00,Central
+ORD-00905,Packed,2026-01-28 01:08:00,Central
+ORD-00906,Picking Started,2026-01-20 14:23:00,West
+ORD-00906,Quality Check,2026-01-20 23:23:00,Central
+ORD-00906,Packed,2026-01-21 04:23:00,Central
+ORD-00907,Picking Started,2026-01-05 17:31:00,East
+ORD-00907,Quality Check,2026-01-06 01:31:00,Central
+ORD-00907,Packed,2026-01-06 03:31:00,Central
+ORD-00908,Picking Started,2026-01-26 22:40:00,West
+ORD-00908,Quality Check,2026-01-27 03:40:00,Central
+ORD-00908,Packed,2026-01-27 07:40:00,Central
+ORD-00909,Picking Started,2026-02-15 13:12:00,West
+ORD-00909,Quality Check,2026-02-15 22:12:00,Central
+ORD-00909,Packed,2026-02-16 03:12:00,Central
+ORD-00910,Picking Started,2026-01-24 02:06:00,East
+ORD-00910,Quality Check,2026-01-24 05:06:00,Central
+ORD-00910,Quality Check,2026-01-24 06:38:00,Central
+ORD-00910,Packed,2026-01-24 11:38:00,Central
+ORD-00911,Picking Started,2026-02-05 17:45:00,West
+ORD-00911,Quality Check,2026-02-06 01:45:00,Central
+ORD-00911,Packed,2026-02-06 03:45:00,Central
+ORD-00912,Picking Started,2026-02-07 17:42:00,West
+ORD-00912,Quality Check,2026-02-08 03:42:00,Central
+ORD-00912,Packed,2026-02-08 04:42:00,Central
+ORD-00913,Picking Started,2026-02-21 10:24:00,East
+ORD-00913,Quality Check,2026-02-21 12:24:00,Central
+ORD-00913,Packed,2026-02-21 14:24:00,Central
+ORD-00914,Picking Started,2026-01-31 23:13:00,West
+ORD-00914,Quality Check,2026-02-01 03:13:00,Central
+ORD-00914,Packed,2026-02-01 06:13:00,Central
+ORD-00915,Picking Started,2026-02-02 17:07:00,East
+ORD-00915,Quality Check,2026-02-02 18:07:00,Central
+ORD-00915,Packed,2026-02-02 19:07:00,Central
+ORD-00916,Picking Started,2026-01-11 23:58:00,West
+ORD-00916,Quality Check,2026-01-12 07:58:00,Central
+ORD-00916,Packed,2026-01-12 14:58:00,Central
+ORD-00917,Picking Started,2026-02-15 23:32:00,East
+ORD-00917,Quality Check,2026-02-16 00:32:00,Central
+ORD-00917,Packed,2026-02-16 03:32:00,Central
+ORD-00919,Picking Started,2026-02-21 00:21:00,West
+ORD-00919,Quality Check,2026-02-21 06:21:00,Central
+ORD-00919,Packed,2026-02-21 11:21:00,Central
+ORD-00920,Picking Started,2026-02-05 08:14:00,West
+ORD-00920,Quality Check,2026-02-05 17:14:00,Central
+ORD-00920,Packed,2026-02-05 22:14:00,Central
+ORD-00921,Picking Started,2026-02-23 18:10:00,East
+ORD-00921,Quality Check,2026-02-24 01:10:00,Central
+ORD-00921,Packed,2026-02-24 04:10:00,Central
+ORD-00922,Picking Started,2026-01-10 09:59:00,West
+ORD-00922,Quality Check,2026-01-10 15:59:00,Central
+ORD-00922,Packed,2026-01-10 16:59:00,Central
+ORD-00923,Picking Started,2026-01-18 07:49:00,West
+ORD-00923,Quality Check,2026-01-18 14:49:00,Central
+ORD-00923,Quality Check,2026-01-18 16:18:00,Central
+ORD-00923,Packed,2026-01-18 18:18:00,Central
+ORD-00924,Picking Started,2026-02-27 10:08:00,West
+ORD-00924,Quality Check,2026-02-27 15:08:00,Central
+ORD-00924,Packed,2026-02-27 16:08:00,Central
+ORD-00925,Picking Started,2026-01-19 18:21:00,East
+ORD-00925,Quality Check,2026-01-19 23:21:00,Central
+ORD-00925,Packed,2026-01-20 01:21:00,Central
+ORD-00926,Picking Started,2026-02-18 05:31:00,West
+ORD-00926,Quality Check,2026-02-18 14:31:00,Central
+ORD-00926,Packed,2026-02-18 18:31:00,Central
+ORD-00927,Picking Started,2026-02-23 09:08:00,East
+ORD-00927,Quality Check,2026-02-23 14:08:00,Central
+ORD-00927,Packed,2026-02-23 23:08:00,Central
+ORD-00928,Picking Started,2026-01-26 10:43:00,West
+ORD-00928,Quality Check,2026-01-26 16:43:00,Central
+ORD-00928,Packed,2026-01-26 19:43:00,Central
+ORD-00929,Picking Started,2026-01-21 13:12:00,West
+ORD-00929,Quality Check,2026-01-21 23:12:00,Central
+ORD-00929,Packed,2026-01-22 07:12:00,Central
+ORD-00930,Picking Started,2026-01-07 17:48:00,West
+ORD-00930,Quality Check,2026-01-08 03:48:00,Central
+ORD-00930,Packed,2026-01-08 11:48:00,Central
+ORD-00931,Picking Started,2026-01-08 20:56:00,West
+ORD-00931,Quality Check,2026-01-08 21:56:00,Central
+ORD-00931,Packed,2026-01-09 00:56:00,Central
+ORD-00932,Picking Started,2026-01-18 15:28:00,West
+ORD-00932,Quality Check,2026-01-18 18:28:00,Central
+ORD-00932,Packed,2026-01-18 22:28:00,Central
+ORD-00933,Picking Started,2026-01-13 02:46:00,West
+ORD-00933,Quality Check,2026-01-13 09:46:00,Central
+ORD-00933,Packed,2026-01-13 12:46:00,Central
+ORD-00934,Picking Started,2026-02-03 15:51:00,East
+ORD-00934,Quality Check,2026-02-03 22:51:00,Central
+ORD-00934,Packed,2026-02-04 03:51:00,Central
+ORD-00936,Picking Started,2026-01-07 23:16:00,East
+ORD-00936,Quality Check,2026-01-08 08:16:00,Central
+ORD-00936,Quality Check,2026-01-08 09:54:00,Central
+ORD-00936,Packed,2026-01-08 13:54:00,Central
+ORD-00937,Picking Started,2026-01-21 13:59:00,West
+ORD-00937,Quality Check,2026-01-21 15:59:00,Central
+ORD-00937,Packed,2026-01-22 00:59:00,Central
+ORD-00938,Picking Started,2026-01-07 04:43:00,West
+ORD-00938,Quality Check,2026-01-07 09:43:00,Central
+ORD-00938,Packed,2026-01-07 11:43:00,Central
+ORD-00939,Picking Started,2026-02-23 02:10:00,East
+ORD-00939,Quality Check,2026-02-23 08:10:00,Central
+ORD-00939,Packed,2026-02-23 13:10:00,Central
+ORD-00940,Picking Started,2026-02-21 15:38:00,West
+ORD-00940,Quality Check,2026-02-21 17:38:00,Central
+ORD-00940,Packed,2026-02-22 02:38:00,Central
+ORD-00941,Picking Started,2026-01-24 07:49:00,East
+ORD-00941,Quality Check,2026-01-24 17:49:00,Central
+ORD-00941,Packed,2026-01-25 01:49:00,Central
+ORD-00942,Picking Started,2026-02-26 22:41:00,East
+ORD-00942,Quality Check,2026-02-27 06:41:00,Central
+ORD-00942,Packed,2026-02-27 15:41:00,Central
+ORD-00943,Picking Started,2026-01-27 08:48:00,East
+ORD-00943,Quality Check,2026-01-27 18:48:00,Central
+ORD-00943,Packed,2026-01-27 19:48:00,Central
+ORD-00944,Picking Started,2026-01-15 02:15:00,West
+ORD-00944,Quality Check,2026-01-15 04:15:00,Central
+ORD-00944,Packed,2026-01-15 13:15:00,Central
+ORD-00945,Picking Started,2026-02-06 16:53:00,East
+ORD-00945,Quality Check,2026-02-06 20:53:00,Central
+ORD-00945,Packed,2026-02-07 05:53:00,Central
+ORD-00946,Picking Started,2026-01-22 06:52:00,West
+ORD-00946,Quality Check,2026-01-22 07:52:00,Central
+ORD-00946,Packed,2026-01-22 16:52:00,Central
+ORD-00947,Picking Started,2026-01-19 04:07:00,West
+ORD-00947,Quality Check,2026-01-19 12:07:00,Central
+ORD-00947,Packed,2026-01-19 18:07:00,Central
+ORD-00948,Picking Started,2026-01-18 20:12:00,East
+ORD-00948,Quality Check,2026-01-19 06:12:00,Central
+ORD-00948,Packed,2026-01-19 15:12:00,Central
+ORD-00949,Picking Started,2026-01-24 23:53:00,West
+ORD-00949,Quality Check,2026-01-25 09:53:00,Central
+ORD-00949,Quality Check,2026-01-25 11:01:00,Central
+ORD-00949,Packed,2026-01-25 18:01:00,Central
+ORD-00950,Picking Started,2026-01-13 11:34:00,East
+ORD-00950,Quality Check,2026-01-13 12:34:00,Central
+ORD-00950,Packed,2026-01-13 19:34:00,Central
+ORD-00951,Picking Started,2026-01-25 21:50:00,East
+ORD-00951,Quality Check,2026-01-26 05:50:00,Central
+ORD-00951,Packed,2026-01-26 09:50:00,Central
+ORD-00953,Picking Started,2026-02-05 17:30:00,West
+ORD-00953,Quality Check,2026-02-06 01:30:00,Central
+ORD-00953,Packed,2026-02-06 10:30:00,Central
+ORD-00954,Picking Started,2026-02-15 22:46:00,East
+ORD-00954,Quality Check,2026-02-16 06:46:00,Central
+ORD-00954,Packed,2026-02-16 10:46:00,Central
+ORD-00955,Picking Started,2026-01-10 22:41:00,West
+ORD-00955,Quality Check,2026-01-10 23:41:00,Central
+ORD-00955,Packed,2026-01-11 03:41:00,Central
+ORD-00956,Picking Started,2026-02-12 08:04:00,West
+ORD-00956,Quality Check,2026-02-12 15:04:00,Central
+ORD-00956,Packed,2026-02-12 20:04:00,Central
+ORD-00957,Picking Started,2026-01-15 05:22:00,East
+ORD-00957,Quality Check,2026-01-15 08:22:00,Central
+ORD-00957,Packed,2026-01-15 13:22:00,Central
+ORD-00958,Picking Started,2026-01-25 14:09:00,West
+ORD-00958,Quality Check,2026-01-25 20:09:00,Central
+ORD-00958,Packed,2026-01-25 21:09:00,Central
+ORD-00959,Picking Started,2026-01-29 15:46:00,East
+ORD-00959,Quality Check,2026-01-29 21:46:00,Central
+ORD-00959,Packed,2026-01-30 05:46:00,Central
+ORD-00960,Picking Started,2026-02-26 06:10:00,East
+ORD-00960,Quality Check,2026-02-26 08:10:00,Central
+ORD-00960,Packed,2026-02-26 17:10:00,Central
+ORD-00961,Picking Started,2026-01-27 12:25:00,East
+ORD-00961,Quality Check,2026-01-27 22:25:00,Central
+ORD-00961,Packed,2026-01-28 05:25:00,Central
+ORD-00962,Picking Started,2026-02-09 17:25:00,East
+ORD-00962,Quality Check,2026-02-10 01:25:00,Central
+ORD-00962,Quality Check,2026-02-10 02:58:00,Central
+ORD-00962,Packed,2026-02-10 04:58:00,Central
+ORD-00963,Picking Started,2026-02-16 05:57:00,East
+ORD-00963,Quality Check,2026-02-16 10:57:00,Central
+ORD-00963,Packed,2026-02-16 13:57:00,Central
+ORD-00964,Picking Started,2026-02-21 23:46:00,East
+ORD-00964,Quality Check,2026-02-22 04:46:00,Central
+ORD-00964,Packed,2026-02-22 13:46:00,Central
+ORD-00965,Picking Started,2026-02-02 13:07:00,West
+ORD-00965,Quality Check,2026-02-02 15:07:00,Central
+ORD-00965,Packed,2026-02-02 18:07:00,Central
+ORD-00966,Picking Started,2026-02-19 17:56:00,East
+ORD-00966,Quality Check,2026-02-19 23:56:00,Central
+ORD-00966,Packed,2026-02-20 02:56:00,Central
+ORD-00967,Picking Started,2026-02-11 03:35:00,West
+ORD-00967,Quality Check,2026-02-11 13:35:00,Central
+ORD-00967,Packed,2026-02-11 21:35:00,Central
+ORD-00968,Picking Started,2026-02-01 14:56:00,West
+ORD-00968,Quality Check,2026-02-02 00:56:00,Central
+ORD-00968,Packed,2026-02-02 02:56:00,Central
+ORD-00970,Picking Started,2026-01-27 07:33:00,East
+ORD-00970,Quality Check,2026-01-27 10:33:00,Central
+ORD-00970,Packed,2026-01-27 19:33:00,Central
+ORD-00971,Picking Started,2026-02-03 22:42:00,East
+ORD-00971,Quality Check,2026-02-04 05:42:00,Central
+ORD-00971,Packed,2026-02-04 06:42:00,Central
+ORD-00972,Picking Started,2026-02-26 07:56:00,East
+ORD-00972,Quality Check,2026-02-26 10:56:00,Central
+ORD-00972,Packed,2026-02-26 18:56:00,Central
+ORD-00973,Picking Started,2026-02-02 10:41:00,East
+ORD-00973,Quality Check,2026-02-02 11:41:00,Central
+ORD-00973,Packed,2026-02-02 16:41:00,Central
+ORD-00974,Picking Started,2026-01-19 05:01:00,East
+ORD-00974,Quality Check,2026-01-19 12:01:00,Central
+ORD-00974,Packed,2026-01-19 21:01:00,Central
+ORD-00975,Picking Started,2026-01-17 08:30:00,West
+ORD-00975,Quality Check,2026-01-17 18:30:00,Central
+ORD-00975,Quality Check,2026-01-17 19:01:00,Central
+ORD-00975,Packed,2026-01-18 03:01:00,Central
+ORD-00976,Picking Started,2026-01-18 04:08:00,West
+ORD-00976,Quality Check,2026-01-18 06:08:00,Central
+ORD-00976,Packed,2026-01-18 07:08:00,Central
+ORD-00977,Picking Started,2026-01-31 00:54:00,East
+ORD-00977,Quality Check,2026-01-31 09:54:00,Central
+ORD-00977,Packed,2026-01-31 14:54:00,Central
+ORD-00978,Picking Started,2026-02-18 16:25:00,West
+ORD-00978,Quality Check,2026-02-19 01:25:00,Central
+ORD-00978,Packed,2026-02-19 09:25:00,Central
+ORD-00979,Picking Started,2026-02-05 01:22:00,East
+ORD-00979,Quality Check,2026-02-05 03:22:00,Central
+ORD-00979,Packed,2026-02-05 04:22:00,Central
+ORD-00980,Picking Started,2026-02-27 05:13:00,East
+ORD-00980,Quality Check,2026-02-27 09:13:00,Central
+ORD-00980,Packed,2026-02-27 15:13:00,Central
+ORD-00981,Picking Started,2026-02-26 22:22:00,East
+ORD-00981,Quality Check,2026-02-27 07:22:00,Central
+ORD-00981,Packed,2026-02-27 16:22:00,Central
+ORD-00982,Picking Started,2026-01-07 05:01:00,West
+ORD-00982,Quality Check,2026-01-07 06:01:00,Central
+ORD-00982,Packed,2026-01-07 07:01:00,Central
+ORD-00983,Picking Started,2026-01-28 17:43:00,West
+ORD-00983,Quality Check,2026-01-28 22:43:00,Central
+ORD-00983,Packed,2026-01-29 05:43:00,Central
+ORD-00984,Picking Started,2026-01-19 23:42:00,West
+ORD-00984,Quality Check,2026-01-20 05:42:00,Central
+ORD-00984,Packed,2026-01-20 14:42:00,Central
+ORD-00985,Picking Started,2026-01-30 18:33:00,West
+ORD-00985,Quality Check,2026-01-30 23:33:00,Central
+ORD-00985,Packed,2026-01-31 08:33:00,Central
+ORD-00987,Picking Started,2026-02-24 05:47:00,East
+ORD-00987,Quality Check,2026-02-24 09:47:00,Central
+ORD-00987,Packed,2026-02-24 18:47:00,Central
+ORD-00988,Picking Started,2026-02-19 21:24:00,East
+ORD-00988,Quality Check,2026-02-20 05:24:00,Central
+ORD-00988,Quality Check,2026-02-20 07:11:00,Central
+ORD-00988,Packed,2026-02-20 16:11:00,Central
+ORD-00989,Picking Started,2026-02-03 22:56:00,East
+ORD-00989,Quality Check,2026-02-03 23:56:00,Central
+ORD-00989,Packed,2026-02-04 04:56:00,Central
+ORD-00990,Picking Started,2026-02-09 21:42:00,West
+ORD-00990,Quality Check,2026-02-10 02:42:00,Central
+ORD-00990,Packed,2026-02-10 10:42:00,Central
+ORD-00991,Picking Started,2026-02-25 23:04:00,West
+ORD-00991,Quality Check,2026-02-26 02:04:00,Central
+ORD-00991,Packed,2026-02-26 10:04:00,Central
+ORD-00992,Picking Started,2026-01-29 16:11:00,East
+ORD-00992,Quality Check,2026-01-29 20:11:00,Central
+ORD-00992,Packed,2026-01-29 21:11:00,Central
+ORD-00993,Picking Started,2026-02-15 17:49:00,East
+ORD-00993,Quality Check,2026-02-16 00:49:00,Central
+ORD-00993,Packed,2026-02-16 09:49:00,Central
+ORD-00994,Picking Started,2026-02-25 01:57:00,West
+ORD-00994,Quality Check,2026-02-25 10:57:00,Central
+ORD-00994,Packed,2026-02-25 12:57:00,Central
+ORD-00995,Picking Started,2026-01-24 23:04:00,East
+ORD-00995,Quality Check,2026-01-25 06:04:00,Central
+ORD-00995,Packed,2026-01-25 15:04:00,Central
+ORD-00996,Picking Started,2026-01-14 16:43:00,East
+ORD-00996,Quality Check,2026-01-15 02:43:00,Central
+ORD-00996,Packed,2026-01-15 08:43:00,Central
+ORD-00997,Picking Started,2026-02-24 11:11:00,West
+ORD-00997,Quality Check,2026-02-24 14:11:00,Central
+ORD-00997,Packed,2026-02-24 22:11:00,Central
+ORD-00998,Picking Started,2026-01-30 12:44:00,East
+ORD-00998,Quality Check,2026-01-30 20:44:00,Central
+ORD-00998,Packed,2026-01-30 22:44:00,Central
+ORD-00999,Picking Started,2026-01-26 07:52:00,West
+ORD-00999,Quality Check,2026-01-26 17:52:00,Central
+ORD-00999,Packed,2026-01-26 20:52:00,Central
+ORD-01000,Picking Started,2026-01-26 08:09:00,West
+ORD-01000,Quality Check,2026-01-26 11:09:00,Central
+ORD-01000,Packed,2026-01-26 13:09:00,Central

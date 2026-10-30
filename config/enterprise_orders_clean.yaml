@@ -1,0 +1,46 @@
+project:
+  name: fictional_enterprise_order_fulfillment
+  version: 1.4.2
+paths:
+  identity_vault: secure_local/enterprise_orders_clean
+  output: output/enterprise_orders_clean
+privacy:
+  review_required_for_all_columns: true
+  identity_fields:
+    Order ID:
+      class: case_identifier
+      action: pseudonymize
+      namespace: enterprise_order
+      prefix: CASE_
+      target_column: Case_ID
+sources:
+  - name: orders
+    path: examples/enterprise_orders/orders.csv
+    event_rules:
+      - name: order_status
+        activity_from: Status
+        timestamp_from: Event Time
+        attributes: [Channel, Priority]
+  - name: payments
+    path: examples/enterprise_orders/payments.csv
+    event_rules:
+      - name: payment_status
+        activity_from: Payment Status
+        timestamp_from: Payment Time
+        attributes: [Payment Method]
+  - name: warehouse
+    path: examples/enterprise_orders/warehouse.csv
+    event_rules:
+      - name: warehouse_activity
+        activity_from: Warehouse Activity
+        timestamp_from: Warehouse Time
+        attributes: [Facility]
+  - name: shipping
+    path: examples/enterprise_orders/shipping.csv
+    event_rules:
+      - name: shipping_status
+        activity_from: Shipping Status
+        timestamp_from: Shipping Time
+        attributes: [Carrier]
+integration:
+  duplicate_policy: flag

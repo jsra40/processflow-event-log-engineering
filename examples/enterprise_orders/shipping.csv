@@ -1,0 +1,2729 @@
+Order ID,Shipping Status,Shipping Time,Carrier
+ORD-00001,Shipped,2026-02-13 01:46:00,SwiftShip
+ORD-00001,Out for Delivery,2026-02-13 13:46:00,ParcelCo
+ORD-00001,Delivered,2026-02-13 16:46:00,ParcelCo
+ORD-00002,Shipped,2026-01-20 00:57:00,ParcelCo
+ORD-00002,Out for Delivery,2026-01-20 09:57:00,ParcelCo
+ORD-00002,Delivered,2026-01-20 17:57:00,ParcelCo
+ORD-00003,Shipped,2026-02-20 09:01:00,ParcelCo
+ORD-00003,Out for Delivery,2026-02-21 07:01:00,ParcelCo
+ORD-00003,Delivered,2026-02-21 09:01:00,ParcelCo
+ORD-00004,Shipped,2026-02-27 09:59:00,ParcelCo
+ORD-00004,Out for Delivery,2026-02-28 18:59:00,ParcelCo
+ORD-00004,Delivered,2026-03-01 02:59:00,ParcelCo
+ORD-00005,Shipped,2026-01-19 20:36:00,ParcelCo
+ORD-00005,Out for Delivery,2026-01-20 17:36:00,ParcelCo
+ORD-00005,Delivered,2026-01-21 03:36:00,ParcelCo
+ORD-00006,Shipped,2026-02-04 07:06:00,ParcelCo
+ORD-00006,Out for Delivery,2026-02-04 23:06:00,ParcelCo
+ORD-00006,Delivered,2026-02-05 05:06:00,ParcelCo
+ORD-00007,Shipped,2026-01-13 13:16:00,ParcelCo
+ORD-00007,Out for Delivery,2026-01-14 09:16:00,ParcelCo
+ORD-00007,Delivered,2026-01-14 14:16:00,ParcelCo
+ORD-00008,Shipped,2026-02-14 09:41:00,ParcelCo
+ORD-00008,Out for Delivery,2026-02-15 13:41:00,ParcelCo
+ORD-00008,Delivered,2026-02-15 15:41:00,ParcelCo
+ORD-00009,Shipped,2026-02-03 05:53:00,SwiftShip
+ORD-00009,Out for Delivery,2026-02-06 09:53:00,ParcelCo
+ORD-00009,Delivered,2026-02-06 14:53:00,ParcelCo
+ORD-00010,Shipped,2026-01-10 01:39:00,SwiftShip
+ORD-00010,Out for Delivery,2026-01-10 13:39:00,ParcelCo
+ORD-00010,Delivered,2026-01-10 18:39:00,ParcelCo
+ORD-00011,Shipped,2026-01-09 09:47:00,ParcelCo
+ORD-00011,Out for Delivery,2026-01-09 19:47:00,ParcelCo
+ORD-00011,Delivered,2026-01-09 21:47:00,ParcelCo
+ORD-00012,Shipped,2026-01-18 22:57:00,ParcelCo
+ORD-00012,Out for Delivery,2026-01-20 05:57:00,ParcelCo
+ORD-00012,Delivered,2026-01-20 14:57:00,ParcelCo
+ORD-00013,Shipped,2026-01-08 12:27:00,SwiftShip
+ORD-00013,Out for Delivery,2026-01-09 12:27:00,ParcelCo
+ORD-00013,Delivered,2026-01-09 16:27:00,ParcelCo
+ORD-00014,Shipped,2026-02-17 23:34:00,SwiftShip
+ORD-00014,Out for Delivery,2026-02-19 04:34:00,ParcelCo
+ORD-00014,Delivered,2026-02-19 14:34:00,ParcelCo
+ORD-00015,Shipped,2026-02-12 21:18:00,ParcelCo
+ORD-00015,Out for Delivery,2026-02-13 13:18:00,ParcelCo
+ORD-00015,Delivered,2026-02-13 14:18:00,ParcelCo
+ORD-00016,Shipped,2026-01-14 04:28:00,SwiftShip
+ORD-00016,Out for Delivery,2026-01-14 23:28:00,ParcelCo
+ORD-00016,Delivered,2026-01-15 09:28:00,ParcelCo
+ORD-00018,Shipped,2026-01-16 01:33:00,ParcelCo
+ORD-00018,Out for Delivery,2026-01-18 15:33:00,ParcelCo
+ORD-00018,Delivered,2026-01-19 01:33:00,ParcelCo
+ORD-00019,Shipped,2026-02-18 11:27:00,ParcelCo
+ORD-00020,Shipped,2026-01-27 20:38:00,ParcelCo
+ORD-00020,Out for Delivery,2026-01-28 17:38:00,ParcelCo
+ORD-00020,Delivered,2026-01-28 19:38:00,ParcelCo
+ORD-00021,Shipped,2026-02-11 20:47:00,SwiftShip
+ORD-00021,Out for Delivery,2026-02-12 10:47:00,ParcelCo
+ORD-00021,Delivered,2026-02-12 20:47:00,ParcelCo
+ORD-00022,Shipped,2026-02-28 10:21:00,SwiftShip
+ORD-00022,Out for Delivery,2026-02-28 20:21:00,ParcelCo
+ORD-00022,Delivered,2026-02-28 23:21:00,ParcelCo
+ORD-00023,Shipped,2026-02-10 16:50:00,SwiftShip
+ORD-00023,Out for Delivery,2026-02-11 14:50:00,ParcelCo
+ORD-00023,Delivered,2026-02-11 18:50:00,ParcelCo
+ORD-00024,Shipped,2026-01-08 21:40:00,ParcelCo
+ORD-00024,Out for Delivery,2026-01-09 09:40:00,ParcelCo
+ORD-00024,Delivered,2026-01-09 18:40:00,ParcelCo
+ORD-00025,Shipped,2026-02-24 23:35:00,ParcelCo
+ORD-00025,Out for Delivery,2026-02-26 07:35:00,ParcelCo
+ORD-00025,Delivered,2026-02-26 17:35:00,ParcelCo
+ORD-00026,Shipped,2026-01-07 04:35:00,ParcelCo
+ORD-00026,Out for Delivery,2026-01-07 12:35:00,ParcelCo
+ORD-00026,Delivered,2026-01-07 22:35:00,ParcelCo
+ORD-00027,Shipped,2026-01-21 00:41:00,SwiftShip
+ORD-00027,Out for Delivery,2026-01-24 03:41:00,ParcelCo
+ORD-00027,Delivered,2026-01-24 07:41:00,ParcelCo
+ORD-00028,Shipped,2026-02-22 23:24:00,ParcelCo
+ORD-00028,Out for Delivery,2026-02-24 02:24:00,ParcelCo
+ORD-00028,Delivered,2026-02-24 05:24:00,ParcelCo
+ORD-00029,Shipped,2026-01-26 12:28:00,SwiftShip
+ORD-00029,Out for Delivery,2026-01-27 03:28:00,ParcelCo
+ORD-00029,Delivered,2026-01-27 10:28:00,ParcelCo
+ORD-00030,Shipped,2026-02-26 06:49:00,ParcelCo
+ORD-00030,Out for Delivery,2026-02-27 02:49:00,ParcelCo
+ORD-00030,Delivered,2026-02-27 11:49:00,ParcelCo
+ORD-00031,Shipped,2026-01-07 10:58:00,SwiftShip
+ORD-00031,Out for Delivery,2026-01-08 01:58:00,ParcelCo
+ORD-00031,Delivered,2026-01-08 09:58:00,ParcelCo
+ORD-00032,Shipped,2026-02-19 03:32:00,SwiftShip
+ORD-00032,Out for Delivery,2026-02-20 03:32:00,ParcelCo
+ORD-00032,Delivered,2026-02-20 10:32:00,ParcelCo
+ORD-00033,Shipped,2026-01-30 07:57:00,SwiftShip
+ORD-00033,Out for Delivery,2026-01-30 19:57:00,ParcelCo
+ORD-00033,Delivered,2026-01-31 00:57:00,ParcelCo
+ORD-00035,Shipped,2026-02-06 04:42:00,ParcelCo
+ORD-00035,Out for Delivery,2026-02-06 20:42:00,ParcelCo
+ORD-00035,Delivered,2026-02-06 23:42:00,ParcelCo
+ORD-00036,Shipped,2026-01-31 03:37:00,SwiftShip
+ORD-00036,Out for Delivery,2026-02-02 06:37:00,ParcelCo
+ORD-00036,Delivered,2026-02-02 15:37:00,ParcelCo
+ORD-00037,Shipped,2026-01-29 19:30:00,ParcelCo
+ORD-00037,Out for Delivery,2026-01-30 22:30:00,ParcelCo
+ORD-00037,Delivered,2026-01-31 01:30:00,ParcelCo
+ORD-00038,Shipped,2026-01-29 14:56:00,ParcelCo
+ORD-00039,Shipped,2026-02-12 23:30:00,SwiftShip
+ORD-00039,Out for Delivery,2026-02-13 17:30:00,ParcelCo
+ORD-00039,Delivered,2026-02-13 21:30:00,ParcelCo
+ORD-00040,Shipped,2026-02-27 07:48:00,SwiftShip
+ORD-00040,Out for Delivery,2026-02-28 09:48:00,ParcelCo
+ORD-00040,Delivered,2026-02-28 19:48:00,ParcelCo
+ORD-00041,Shipped,2026-01-15 23:24:00,ParcelCo
+ORD-00041,Out for Delivery,2026-01-16 12:24:00,ParcelCo
+ORD-00041,Delivered,2026-01-16 19:24:00,ParcelCo
+ORD-00042,Shipped,2026-01-31 03:55:00,SwiftShip
+ORD-00042,Out for Delivery,2026-02-01 14:55:00,ParcelCo
+ORD-00042,Delivered,2026-02-01 23:55:00,ParcelCo
+ORD-00043,Shipped,2026-02-25 01:27:00,SwiftShip
+ORD-00043,Out for Delivery,2026-02-26 01:27:00,ParcelCo
+ORD-00043,Delivered,2026-02-26 03:27:00,ParcelCo
+ORD-00044,Shipped,2026-01-23 22:23:00,ParcelCo
+ORD-00044,Out for Delivery,2026-01-24 17:23:00,ParcelCo
+ORD-00044,Delivered,2026-01-24 21:23:00,ParcelCo
+ORD-00045,Shipped,2026-02-13 12:57:00,ParcelCo
+ORD-00045,Out for Delivery,2026-02-15 15:57:00,ParcelCo
+ORD-00045,Delivered,2026-02-15 17:57:00,ParcelCo
+ORD-00046,Shipped,2026-01-09 13:03:00,SwiftShip
+ORD-00046,Out for Delivery,2026-01-10 03:03:00,ParcelCo
+ORD-00046,Delivered,2026-01-10 13:03:00,ParcelCo
+ORD-00047,Shipped,2026-02-03 23:42:00,ParcelCo
+ORD-00047,Out for Delivery,2026-02-05 04:42:00,ParcelCo
+ORD-00047,Delivered,2026-02-05 07:42:00,ParcelCo
+ORD-00048,Shipped,2026-01-10 06:31:00,SwiftShip
+ORD-00048,Out for Delivery,2026-01-11 00:31:00,ParcelCo
+ORD-00048,Delivered,2026-01-11 08:31:00,ParcelCo
+ORD-00049,Shipped,2026-01-30 15:18:00,ParcelCo
+ORD-00049,Out for Delivery,2026-01-30 23:18:00,ParcelCo
+ORD-00049,Delivered,2026-01-31 03:18:00,ParcelCo
+ORD-00050,Shipped,2026-02-20 21:48:00,ParcelCo
+ORD-00050,Out for Delivery,2026-02-22 07:48:00,ParcelCo
+ORD-00050,Delivered,2026-02-22 13:48:00,ParcelCo
+ORD-00052,Shipped,2026-01-12 17:31:00,ParcelCo
+ORD-00052,Out for Delivery,2026-01-13 23:31:00,ParcelCo
+ORD-00052,Delivered,2026-01-14 02:31:00,ParcelCo
+ORD-00053,Shipped,2026-01-31 19:11:00,SwiftShip
+ORD-00053,Out for Delivery,2026-02-01 05:11:00,ParcelCo
+ORD-00053,Delivered,2026-02-01 11:11:00,ParcelCo
+ORD-00054,Shipped,2026-02-18 07:08:00,ParcelCo
+ORD-00054,Out for Delivery,2026-02-21 17:08:00,ParcelCo
+ORD-00054,Delivered,2026-02-21 20:08:00,ParcelCo
+ORD-00055,Shipped,2026-01-25 17:42:00,SwiftShip
+ORD-00055,Out for Delivery,2026-01-26 22:42:00,ParcelCo
+ORD-00055,Delivered,2026-01-27 02:42:00,ParcelCo
+ORD-00056,Shipped,2026-01-27 04:01:00,ParcelCo
+ORD-00056,Out for Delivery,2026-01-28 06:01:00,ParcelCo
+ORD-00056,Delivered,2026-01-28 10:01:00,ParcelCo
+ORD-00057,Shipped,2026-03-02 04:18:00,SwiftShip
+ORD-00058,Shipped,2026-02-22 08:32:00,ParcelCo
+ORD-00058,Out for Delivery,2026-02-22 22:32:00,ParcelCo
+ORD-00058,Delivered,2026-02-23 08:32:00,ParcelCo
+ORD-00059,Shipped,2026-02-07 14:44:00,SwiftShip
+ORD-00059,Out for Delivery,2026-02-08 05:44:00,ParcelCo
+ORD-00059,Delivered,2026-02-08 10:44:00,ParcelCo
+ORD-00060,Shipped,2026-01-25 21:39:00,SwiftShip
+ORD-00060,Out for Delivery,2026-01-26 15:39:00,ParcelCo
+ORD-00060,Delivered,2026-01-26 23:39:00,ParcelCo
+ORD-00061,Shipped,2026-01-13 10:15:00,ParcelCo
+ORD-00061,Out for Delivery,2026-01-13 19:15:00,ParcelCo
+ORD-00061,Delivered,2026-01-13 23:15:00,ParcelCo
+ORD-00062,Shipped,2026-01-08 09:51:00,SwiftShip
+ORD-00062,Out for Delivery,2026-01-08 20:51:00,ParcelCo
+ORD-00062,Delivered,2026-01-08 23:51:00,ParcelCo
+ORD-00063,Shipped,2026-02-08 19:14:00,SwiftShip
+ORD-00063,Out for Delivery,2026-02-12 22:14:00,ParcelCo
+ORD-00063,Delivered,2026-02-13 02:14:00,ParcelCo
+ORD-00064,Shipped,2026-01-10 13:31:00,ParcelCo
+ORD-00064,Out for Delivery,2026-01-11 21:31:00,ParcelCo
+ORD-00064,Delivered,2026-01-12 00:31:00,ParcelCo
+ORD-00065,Shipped,2026-01-18 15:13:00,ParcelCo
+ORD-00065,Out for Delivery,2026-01-19 01:13:00,ParcelCo
+ORD-00065,Delivered,2026-01-19 11:13:00,ParcelCo
+ORD-00066,Shipped,2026-01-09 05:46:00,SwiftShip
+ORD-00066,Out for Delivery,2026-01-09 15:46:00,ParcelCo
+ORD-00066,Delivered,2026-01-09 19:46:00,ParcelCo
+ORD-00067,Shipped,2026-02-05 19:32:00,ParcelCo
+ORD-00067,Out for Delivery,2026-02-06 06:32:00,ParcelCo
+ORD-00067,Delivered,2026-02-06 09:32:00,ParcelCo
+ORD-00069,Shipped,2026-02-19 03:50:00,ParcelCo
+ORD-00069,Out for Delivery,2026-02-20 13:50:00,ParcelCo
+ORD-00069,Delivered,2026-02-20 22:50:00,ParcelCo
+ORD-00070,Shipped,2026-02-12 18:34:00,SwiftShip
+ORD-00070,Out for Delivery,2026-02-13 23:34:00,ParcelCo
+ORD-00070,Delivered,2026-02-14 09:34:00,ParcelCo
+ORD-00071,Shipped,2026-02-21 20:03:00,ParcelCo
+ORD-00071,Out for Delivery,2026-02-23 01:03:00,ParcelCo
+ORD-00071,Delivered,2026-02-23 05:03:00,ParcelCo
+ORD-00072,Shipped,2026-02-27 03:02:00,ParcelCo
+ORD-00072,Out for Delivery,2026-03-02 18:02:00,ParcelCo
+ORD-00072,Delivered,2026-03-02 20:02:00,ParcelCo
+ORD-00073,Shipped,2026-02-20 03:19:00,ParcelCo
+ORD-00073,Out for Delivery,2026-02-21 03:19:00,ParcelCo
+ORD-00073,Delivered,2026-02-21 12:19:00,ParcelCo
+ORD-00074,Shipped,2026-01-28 06:20:00,ParcelCo
+ORD-00074,Out for Delivery,2026-01-29 09:20:00,ParcelCo
+ORD-00074,Delivered,2026-01-29 13:20:00,ParcelCo
+ORD-00075,Shipped,2026-02-20 15:56:00,ParcelCo
+ORD-00075,Out for Delivery,2026-02-22 00:56:00,ParcelCo
+ORD-00075,Delivered,2026-02-22 08:56:00,ParcelCo
+ORD-00076,Shipped,2026-01-24 15:46:00,ParcelCo
+ORD-00077,Shipped,2026-01-17 11:31:00,ParcelCo
+ORD-00077,Out for Delivery,2026-01-17 23:31:00,ParcelCo
+ORD-00077,Delivered,2026-01-18 06:31:00,ParcelCo
+ORD-00078,Shipped,2026-02-11 08:12:00,ParcelCo
+ORD-00078,Out for Delivery,2026-02-12 14:12:00,ParcelCo
+ORD-00078,Delivered,2026-02-12 20:12:00,ParcelCo
+ORD-00079,Shipped,2026-01-11 20:22:00,ParcelCo
+ORD-00079,Out for Delivery,2026-01-12 18:22:00,ParcelCo
+ORD-00079,Delivered,2026-01-13 03:22:00,ParcelCo
+ORD-00080,Shipped,2026-01-27 02:19:00,SwiftShip
+ORD-00080,Out for Delivery,2026-01-28 10:19:00,ParcelCo
+ORD-00080,Delivered,2026-01-28 13:19:00,ParcelCo
+ORD-00081,Shipped,2026-02-12 18:37:00,ParcelCo
+ORD-00081,Out for Delivery,2026-02-16 13:37:00,ParcelCo
+ORD-00081,Delivered,2026-02-16 18:37:00,ParcelCo
+ORD-00082,Shipped,2026-01-15 14:44:00,ParcelCo
+ORD-00082,Out for Delivery,2026-01-17 00:44:00,ParcelCo
+ORD-00082,Delivered,2026-01-17 08:44:00,ParcelCo
+ORD-00083,Shipped,2026-02-11 17:28:00,ParcelCo
+ORD-00083,Out for Delivery,2026-02-12 07:28:00,ParcelCo
+ORD-00083,Delivered,2026-02-12 14:28:00,ParcelCo
+ORD-00084,Shipped,2026-02-28 23:34:00,ParcelCo
+ORD-00084,Out for Delivery,2026-03-01 10:34:00,ParcelCo
+ORD-00084,Delivered,2026-03-01 14:34:00,ParcelCo
+ORD-00086,Shipped,2026-02-20 22:47:00,ParcelCo
+ORD-00086,Out for Delivery,2026-02-22 05:47:00,ParcelCo
+ORD-00086,Delivered,2026-02-22 14:47:00,ParcelCo
+ORD-00087,Shipped,2026-02-24 09:10:00,ParcelCo
+ORD-00087,Out for Delivery,2026-02-25 04:10:00,ParcelCo
+ORD-00087,Delivered,2026-02-25 09:10:00,ParcelCo
+ORD-00088,Shipped,2026-01-17 14:08:00,SwiftShip
+ORD-00088,Out for Delivery,2026-01-18 18:08:00,ParcelCo
+ORD-00088,Delivered,2026-01-19 02:08:00,ParcelCo
+ORD-00089,Shipped,2026-02-13 03:41:00,ParcelCo
+ORD-00089,Out for Delivery,2026-02-13 16:41:00,ParcelCo
+ORD-00089,Delivered,2026-02-13 20:41:00,ParcelCo
+ORD-00090,Shipped,2026-02-27 16:14:00,ParcelCo
+ORD-00090,Out for Delivery,2026-03-03 11:14:00,ParcelCo
+ORD-00090,Delivered,2026-03-03 16:14:00,ParcelCo
+ORD-00091,Shipped,2026-01-13 04:53:00,SwiftShip
+ORD-00091,Out for Delivery,2026-01-14 10:53:00,ParcelCo
+ORD-00091,Delivered,2026-01-14 18:53:00,ParcelCo
+ORD-00092,Shipped,2026-01-17 15:17:00,SwiftShip
+ORD-00092,Out for Delivery,2026-01-18 01:17:00,ParcelCo
+ORD-00092,Delivered,2026-01-18 06:17:00,ParcelCo
+ORD-00093,Shipped,2026-02-21 03:55:00,ParcelCo
+ORD-00093,Out for Delivery,2026-02-21 14:55:00,ParcelCo
+ORD-00093,Delivered,2026-02-21 21:55:00,ParcelCo
+ORD-00094,Shipped,2026-02-03 13:45:00,SwiftShip
+ORD-00094,Out for Delivery,2026-02-04 20:45:00,ParcelCo
+ORD-00094,Delivered,2026-02-04 21:45:00,ParcelCo
+ORD-00095,Shipped,2026-02-03 15:21:00,ParcelCo
+ORD-00096,Shipped,2026-01-19 14:47:00,ParcelCo
+ORD-00096,Out for Delivery,2026-01-20 23:47:00,ParcelCo
+ORD-00096,Delivered,2026-01-21 00:47:00,ParcelCo
+ORD-00097,Shipped,2026-01-10 15:09:00,SwiftShip
+ORD-00097,Out for Delivery,2026-01-11 15:09:00,ParcelCo
+ORD-00097,Delivered,2026-01-12 00:09:00,ParcelCo
+ORD-00098,Shipped,2026-02-02 16:54:00,SwiftShip
+ORD-00098,Out for Delivery,2026-02-03 01:54:00,ParcelCo
+ORD-00098,Delivered,2026-02-03 03:54:00,ParcelCo
+ORD-00099,Shipped,2026-01-18 22:44:00,ParcelCo
+ORD-00099,Out for Delivery,2026-01-21 11:44:00,ParcelCo
+ORD-00099,Delivered,2026-01-21 19:44:00,ParcelCo
+ORD-00100,Shipped,2026-01-13 16:31:00,ParcelCo
+ORD-00100,Out for Delivery,2026-01-14 06:31:00,ParcelCo
+ORD-00100,Delivered,2026-01-14 09:31:00,ParcelCo
+ORD-00101,Shipped,2026-02-23 04:14:00,SwiftShip
+ORD-00101,Out for Delivery,2026-02-24 10:14:00,ParcelCo
+ORD-00101,Delivered,2026-02-24 18:14:00,ParcelCo
+ORD-00103,Shipped,2026-01-13 03:07:00,SwiftShip
+ORD-00103,Out for Delivery,2026-01-13 21:07:00,ParcelCo
+ORD-00103,Delivered,2026-01-14 03:07:00,ParcelCo
+ORD-00104,Shipped,2026-02-17 15:08:00,ParcelCo
+ORD-00104,Out for Delivery,2026-02-18 21:08:00,ParcelCo
+ORD-00104,Delivered,2026-02-19 03:08:00,ParcelCo
+ORD-00105,Shipped,2026-02-22 20:07:00,SwiftShip
+ORD-00105,Out for Delivery,2026-02-23 09:07:00,ParcelCo
+ORD-00105,Delivered,2026-02-23 18:07:00,ParcelCo
+ORD-00106,Shipped,2026-01-09 19:49:00,SwiftShip
+ORD-00106,Out for Delivery,2026-01-11 06:49:00,ParcelCo
+ORD-00106,Delivered,2026-01-11 08:49:00,ParcelCo
+ORD-00107,Shipped,2026-02-18 02:34:00,SwiftShip
+ORD-00107,Out for Delivery,2026-02-19 12:34:00,ParcelCo
+ORD-00107,Delivered,2026-02-19 19:34:00,ParcelCo
+ORD-00108,Shipped,2026-02-25 12:08:00,SwiftShip
+ORD-00108,Out for Delivery,2026-02-27 21:08:00,ParcelCo
+ORD-00108,Delivered,2026-02-27 23:08:00,ParcelCo
+ORD-00109,Shipped,2026-01-06 21:22:00,SwiftShip
+ORD-00109,Out for Delivery,2026-01-08 04:22:00,ParcelCo
+ORD-00109,Delivered,2026-01-08 10:22:00,ParcelCo
+ORD-00110,Shipped,2026-01-08 04:39:00,SwiftShip
+ORD-00110,Out for Delivery,2026-01-08 12:39:00,ParcelCo
+ORD-00110,Delivered,2026-01-08 16:39:00,ParcelCo
+ORD-00111,Shipped,2026-01-24 13:25:00,SwiftShip
+ORD-00111,Out for Delivery,2026-01-25 13:25:00,ParcelCo
+ORD-00111,Delivered,2026-01-25 20:25:00,ParcelCo
+ORD-00112,Shipped,2026-02-02 06:56:00,SwiftShip
+ORD-00112,Out for Delivery,2026-02-02 19:56:00,ParcelCo
+ORD-00112,Delivered,2026-02-03 04:56:00,ParcelCo
+ORD-00113,Shipped,2026-02-06 23:44:00,ParcelCo
+ORD-00113,Out for Delivery,2026-02-08 10:44:00,ParcelCo
+ORD-00113,Delivered,2026-02-08 11:44:00,ParcelCo
+ORD-00114,Shipped,2026-01-29 15:44:00,ParcelCo
+ORD-00115,Shipped,2026-01-22 17:23:00,ParcelCo
+ORD-00115,Out for Delivery,2026-01-24 03:23:00,ParcelCo
+ORD-00115,Delivered,2026-01-24 06:23:00,ParcelCo
+ORD-00116,Shipped,2026-01-26 12:21:00,ParcelCo
+ORD-00116,Out for Delivery,2026-01-27 12:21:00,ParcelCo
+ORD-00116,Delivered,2026-01-27 21:21:00,ParcelCo
+ORD-00117,Shipped,2026-01-28 19:20:00,SwiftShip
+ORD-00117,Out for Delivery,2026-02-01 11:20:00,ParcelCo
+ORD-00117,Delivered,2026-02-01 14:20:00,ParcelCo
+ORD-00118,Shipped,2026-01-12 20:39:00,SwiftShip
+ORD-00118,Out for Delivery,2026-01-13 11:39:00,ParcelCo
+ORD-00118,Delivered,2026-01-13 21:39:00,ParcelCo
+ORD-00120,Shipped,2026-02-05 19:48:00,ParcelCo
+ORD-00120,Out for Delivery,2026-02-06 18:48:00,ParcelCo
+ORD-00120,Delivered,2026-02-07 01:48:00,ParcelCo
+ORD-00121,Shipped,2026-01-25 14:53:00,SwiftShip
+ORD-00121,Out for Delivery,2026-01-26 17:53:00,ParcelCo
+ORD-00121,Delivered,2026-01-26 21:53:00,ParcelCo
+ORD-00122,Shipped,2026-02-24 15:34:00,ParcelCo
+ORD-00122,Out for Delivery,2026-02-25 05:34:00,ParcelCo
+ORD-00122,Delivered,2026-02-25 11:34:00,ParcelCo
+ORD-00123,Shipped,2026-02-18 04:46:00,ParcelCo
+ORD-00123,Out for Delivery,2026-02-18 16:46:00,ParcelCo
+ORD-00123,Delivered,2026-02-18 22:46:00,ParcelCo
+ORD-00124,Shipped,2026-01-11 18:40:00,ParcelCo
+ORD-00124,Out for Delivery,2026-01-12 05:40:00,ParcelCo
+ORD-00124,Delivered,2026-01-12 13:40:00,ParcelCo
+ORD-00125,Shipped,2026-02-17 14:07:00,ParcelCo
+ORD-00125,Out for Delivery,2026-02-18 06:07:00,ParcelCo
+ORD-00125,Delivered,2026-02-18 13:07:00,ParcelCo
+ORD-00126,Shipped,2026-02-19 12:00:00,ParcelCo
+ORD-00126,Out for Delivery,2026-02-22 04:00:00,ParcelCo
+ORD-00126,Delivered,2026-02-22 07:00:00,ParcelCo
+ORD-00127,Shipped,2026-01-14 04:32:00,ParcelCo
+ORD-00127,Out for Delivery,2026-01-14 15:32:00,ParcelCo
+ORD-00127,Delivered,2026-01-14 23:32:00,ParcelCo
+ORD-00128,Shipped,2026-01-20 02:28:00,ParcelCo
+ORD-00128,Out for Delivery,2026-01-20 17:28:00,ParcelCo
+ORD-00128,Delivered,2026-01-21 01:28:00,ParcelCo
+ORD-00129,Shipped,2026-01-14 20:12:00,SwiftShip
+ORD-00129,Out for Delivery,2026-01-16 00:12:00,ParcelCo
+ORD-00129,Delivered,2026-01-16 04:12:00,ParcelCo
+ORD-00130,Shipped,2026-02-15 10:09:00,SwiftShip
+ORD-00130,Out for Delivery,2026-02-16 12:09:00,ParcelCo
+ORD-00130,Delivered,2026-02-16 14:09:00,ParcelCo
+ORD-00131,Shipped,2026-02-28 02:03:00,SwiftShip
+ORD-00131,Out for Delivery,2026-03-01 13:03:00,ParcelCo
+ORD-00131,Delivered,2026-03-01 15:03:00,ParcelCo
+ORD-00132,Shipped,2026-02-07 17:12:00,ParcelCo
+ORD-00132,Out for Delivery,2026-02-08 04:12:00,ParcelCo
+ORD-00132,Delivered,2026-02-08 14:12:00,ParcelCo
+ORD-00133,Shipped,2026-03-02 14:58:00,ParcelCo
+ORD-00134,Shipped,2026-02-20 11:06:00,SwiftShip
+ORD-00134,Out for Delivery,2026-02-21 06:06:00,ParcelCo
+ORD-00134,Delivered,2026-02-21 14:06:00,ParcelCo
+ORD-00135,Shipped,2026-02-07 11:40:00,SwiftShip
+ORD-00135,Out for Delivery,2026-02-10 06:40:00,ParcelCo
+ORD-00135,Delivered,2026-02-10 09:40:00,ParcelCo
+ORD-00137,Shipped,2026-02-10 00:32:00,ParcelCo
+ORD-00137,Out for Delivery,2026-02-11 11:32:00,ParcelCo
+ORD-00137,Delivered,2026-02-11 18:32:00,ParcelCo
+ORD-00138,Shipped,2026-02-12 15:04:00,SwiftShip
+ORD-00138,Out for Delivery,2026-02-13 03:04:00,ParcelCo
+ORD-00138,Delivered,2026-02-13 10:04:00,ParcelCo
+ORD-00139,Shipped,2026-03-01 21:37:00,SwiftShip
+ORD-00139,Out for Delivery,2026-03-03 04:37:00,ParcelCo
+ORD-00139,Delivered,2026-03-03 13:37:00,ParcelCo
+ORD-00140,Shipped,2026-02-07 15:17:00,SwiftShip
+ORD-00140,Out for Delivery,2026-02-08 22:17:00,ParcelCo
+ORD-00140,Delivered,2026-02-09 07:17:00,ParcelCo
+ORD-00141,Shipped,2026-02-08 07:05:00,SwiftShip
+ORD-00141,Out for Delivery,2026-02-09 14:05:00,ParcelCo
+ORD-00141,Delivered,2026-02-09 19:05:00,ParcelCo
+ORD-00142,Shipped,2026-03-01 07:43:00,ParcelCo
+ORD-00142,Out for Delivery,2026-03-02 04:43:00,ParcelCo
+ORD-00142,Delivered,2026-03-02 06:43:00,ParcelCo
+ORD-00143,Shipped,2026-02-11 04:36:00,SwiftShip
+ORD-00143,Out for Delivery,2026-02-11 21:36:00,ParcelCo
+ORD-00143,Delivered,2026-02-11 23:36:00,ParcelCo
+ORD-00144,Shipped,2026-02-01 17:55:00,ParcelCo
+ORD-00144,Out for Delivery,2026-02-05 22:55:00,ParcelCo
+ORD-00144,Delivered,2026-02-06 04:55:00,ParcelCo
+ORD-00145,Shipped,2026-02-09 12:22:00,SwiftShip
+ORD-00145,Out for Delivery,2026-02-10 15:22:00,ParcelCo
+ORD-00145,Delivered,2026-02-10 23:22:00,ParcelCo
+ORD-00146,Shipped,2026-02-26 06:13:00,ParcelCo
+ORD-00146,Out for Delivery,2026-02-27 01:13:00,ParcelCo
+ORD-00146,Delivered,2026-02-27 09:13:00,ParcelCo
+ORD-00147,Shipped,2026-02-09 07:18:00,SwiftShip
+ORD-00147,Out for Delivery,2026-02-10 02:18:00,ParcelCo
+ORD-00147,Delivered,2026-02-10 06:18:00,ParcelCo
+ORD-00148,Shipped,2026-02-03 19:07:00,ParcelCo
+ORD-00148,Out for Delivery,2026-02-04 21:07:00,ParcelCo
+ORD-00148,Delivered,2026-02-04 22:07:00,ParcelCo
+ORD-00149,Shipped,2026-02-19 08:18:00,SwiftShip
+ORD-00149,Out for Delivery,2026-02-20 09:18:00,ParcelCo
+ORD-00149,Delivered,2026-02-20 18:18:00,ParcelCo
+ORD-00150,Shipped,2026-02-26 12:20:00,ParcelCo
+ORD-00150,Out for Delivery,2026-02-27 20:20:00,ParcelCo
+ORD-00150,Delivered,2026-02-28 00:20:00,ParcelCo
+ORD-00151,Shipped,2026-01-23 19:20:00,ParcelCo
+ORD-00151,Out for Delivery,2026-01-24 19:20:00,ParcelCo
+ORD-00151,Delivered,2026-01-24 21:20:00,ParcelCo
+ORD-00152,Shipped,2026-01-24 05:27:00,ParcelCo
+ORD-00154,Shipped,2026-02-21 13:37:00,ParcelCo
+ORD-00154,Out for Delivery,2026-02-22 21:37:00,ParcelCo
+ORD-00154,Delivered,2026-02-23 01:37:00,ParcelCo
+ORD-00155,Shipped,2026-01-22 04:34:00,ParcelCo
+ORD-00155,Out for Delivery,2026-01-22 12:34:00,ParcelCo
+ORD-00155,Delivered,2026-01-22 20:34:00,ParcelCo
+ORD-00156,Shipped,2026-02-02 04:33:00,SwiftShip
+ORD-00156,Out for Delivery,2026-02-02 16:33:00,ParcelCo
+ORD-00156,Delivered,2026-02-02 22:33:00,ParcelCo
+ORD-00157,Shipped,2026-01-06 15:37:00,ParcelCo
+ORD-00157,Out for Delivery,2026-01-07 04:37:00,ParcelCo
+ORD-00157,Delivered,2026-01-07 10:37:00,ParcelCo
+ORD-00158,Shipped,2026-02-27 17:58:00,SwiftShip
+ORD-00158,Out for Delivery,2026-02-28 19:58:00,ParcelCo
+ORD-00158,Delivered,2026-03-01 05:58:00,ParcelCo
+ORD-00159,Shipped,2026-02-08 01:16:00,ParcelCo
+ORD-00159,Out for Delivery,2026-02-08 12:16:00,ParcelCo
+ORD-00159,Delivered,2026-02-08 22:16:00,ParcelCo
+ORD-00160,Shipped,2026-02-22 10:33:00,ParcelCo
+ORD-00160,Out for Delivery,2026-02-22 22:33:00,ParcelCo
+ORD-00160,Delivered,2026-02-23 06:33:00,ParcelCo
+ORD-00161,Shipped,2026-02-28 20:53:00,ParcelCo
+ORD-00161,Out for Delivery,2026-03-01 06:53:00,ParcelCo
+ORD-00161,Delivered,2026-03-01 13:53:00,ParcelCo
+ORD-00162,Shipped,2026-02-22 07:10:00,SwiftShip
+ORD-00162,Out for Delivery,2026-02-24 21:10:00,ParcelCo
+ORD-00162,Delivered,2026-02-25 02:10:00,ParcelCo
+ORD-00163,Shipped,2026-02-04 03:30:00,SwiftShip
+ORD-00163,Out for Delivery,2026-02-05 09:30:00,ParcelCo
+ORD-00163,Delivered,2026-02-05 12:30:00,ParcelCo
+ORD-00164,Shipped,2026-01-20 04:51:00,ParcelCo
+ORD-00164,Out for Delivery,2026-01-20 22:51:00,ParcelCo
+ORD-00164,Delivered,2026-01-21 03:51:00,ParcelCo
+ORD-00165,Shipped,2026-02-10 18:37:00,SwiftShip
+ORD-00165,Out for Delivery,2026-02-11 08:37:00,ParcelCo
+ORD-00165,Delivered,2026-02-11 09:37:00,ParcelCo
+ORD-00166,Shipped,2026-02-27 02:25:00,SwiftShip
+ORD-00166,Out for Delivery,2026-02-27 13:25:00,ParcelCo
+ORD-00166,Delivered,2026-02-27 16:25:00,ParcelCo
+ORD-00167,Shipped,2026-02-11 10:56:00,SwiftShip
+ORD-00167,Out for Delivery,2026-02-11 19:56:00,ParcelCo
+ORD-00167,Delivered,2026-02-11 23:56:00,ParcelCo
+ORD-00168,Shipped,2026-02-06 12:35:00,ParcelCo
+ORD-00168,Out for Delivery,2026-02-07 02:35:00,ParcelCo
+ORD-00168,Delivered,2026-02-07 12:35:00,ParcelCo
+ORD-00169,Shipped,2026-01-16 14:43:00,ParcelCo
+ORD-00169,Out for Delivery,2026-01-18 00:43:00,ParcelCo
+ORD-00169,Delivered,2026-01-18 10:43:00,ParcelCo
+ORD-00171,Shipped,2026-01-15 08:15:00,SwiftShip
+ORD-00172,Shipped,2026-01-24 02:35:00,ParcelCo
+ORD-00172,Out for Delivery,2026-01-24 16:35:00,ParcelCo
+ORD-00172,Delivered,2026-01-25 00:35:00,ParcelCo
+ORD-00173,Shipped,2026-02-24 07:26:00,ParcelCo
+ORD-00173,Out for Delivery,2026-02-25 09:26:00,ParcelCo
+ORD-00173,Delivered,2026-02-25 11:26:00,ParcelCo
+ORD-00174,Shipped,2026-02-25 13:22:00,ParcelCo
+ORD-00174,Out for Delivery,2026-02-26 23:22:00,ParcelCo
+ORD-00174,Delivered,2026-02-27 03:22:00,ParcelCo
+ORD-00175,Shipped,2026-01-13 23:24:00,ParcelCo
+ORD-00175,Out for Delivery,2026-01-15 01:24:00,ParcelCo
+ORD-00175,Delivered,2026-01-15 05:24:00,ParcelCo
+ORD-00176,Shipped,2026-02-06 07:19:00,ParcelCo
+ORD-00176,Out for Delivery,2026-02-07 14:19:00,ParcelCo
+ORD-00176,Delivered,2026-02-07 18:19:00,ParcelCo
+ORD-00177,Shipped,2026-02-19 23:44:00,ParcelCo
+ORD-00177,Out for Delivery,2026-02-20 08:44:00,ParcelCo
+ORD-00177,Delivered,2026-02-20 14:44:00,ParcelCo
+ORD-00178,Shipped,2026-01-27 22:35:00,ParcelCo
+ORD-00178,Out for Delivery,2026-01-28 10:35:00,ParcelCo
+ORD-00178,Delivered,2026-01-28 18:35:00,ParcelCo
+ORD-00179,Shipped,2026-02-26 03:03:00,SwiftShip
+ORD-00179,Out for Delivery,2026-02-27 03:03:00,ParcelCo
+ORD-00179,Delivered,2026-02-27 04:03:00,ParcelCo
+ORD-00180,Shipped,2026-02-15 18:17:00,SwiftShip
+ORD-00180,Out for Delivery,2026-02-18 21:17:00,ParcelCo
+ORD-00180,Delivered,2026-02-19 07:17:00,ParcelCo
+ORD-00181,Shipped,2026-01-08 07:57:00,SwiftShip
+ORD-00181,Out for Delivery,2026-01-09 01:57:00,ParcelCo
+ORD-00181,Delivered,2026-01-09 03:57:00,ParcelCo
+ORD-00182,Shipped,2026-02-25 23:16:00,SwiftShip
+ORD-00182,Out for Delivery,2026-02-26 07:16:00,ParcelCo
+ORD-00182,Delivered,2026-02-26 16:16:00,ParcelCo
+ORD-00183,Shipped,2026-03-01 16:32:00,SwiftShip
+ORD-00183,Out for Delivery,2026-03-02 07:32:00,ParcelCo
+ORD-00183,Delivered,2026-03-02 12:32:00,ParcelCo
+ORD-00184,Shipped,2026-02-06 18:16:00,SwiftShip
+ORD-00184,Out for Delivery,2026-02-07 09:16:00,ParcelCo
+ORD-00184,Delivered,2026-02-07 16:16:00,ParcelCo
+ORD-00185,Shipped,2026-01-21 16:48:00,SwiftShip
+ORD-00185,Out for Delivery,2026-01-22 17:48:00,ParcelCo
+ORD-00185,Delivered,2026-01-22 18:48:00,ParcelCo
+ORD-00186,Shipped,2026-02-12 17:04:00,SwiftShip
+ORD-00186,Out for Delivery,2026-02-14 02:04:00,ParcelCo
+ORD-00186,Delivered,2026-02-14 06:04:00,ParcelCo
+ORD-00188,Shipped,2026-01-14 19:45:00,ParcelCo
+ORD-00188,Out for Delivery,2026-01-16 02:45:00,ParcelCo
+ORD-00188,Delivered,2026-01-16 04:45:00,ParcelCo
+ORD-00189,Shipped,2026-01-09 00:00:00,SwiftShip
+ORD-00189,Out for Delivery,2026-01-12 07:00:00,ParcelCo
+ORD-00189,Delivered,2026-01-12 14:00:00,ParcelCo
+ORD-00190,Shipped,2026-02-16 04:45:00,SwiftShip
+ORD-00191,Shipped,2026-02-21 22:49:00,SwiftShip
+ORD-00191,Out for Delivery,2026-02-22 13:49:00,ParcelCo
+ORD-00191,Delivered,2026-02-22 23:49:00,ParcelCo
+ORD-00192,Shipped,2026-02-23 07:40:00,ParcelCo
+ORD-00192,Out for Delivery,2026-02-24 12:40:00,ParcelCo
+ORD-00192,Delivered,2026-02-24 21:40:00,ParcelCo
+ORD-00193,Shipped,2026-02-16 07:26:00,SwiftShip
+ORD-00193,Out for Delivery,2026-02-16 17:26:00,ParcelCo
+ORD-00193,Delivered,2026-02-16 21:26:00,ParcelCo
+ORD-00194,Shipped,2026-01-11 16:04:00,SwiftShip
+ORD-00194,Out for Delivery,2026-01-12 11:04:00,ParcelCo
+ORD-00194,Delivered,2026-01-12 21:04:00,ParcelCo
+ORD-00195,Shipped,2026-01-25 12:00:00,ParcelCo
+ORD-00195,Out for Delivery,2026-01-25 22:00:00,ParcelCo
+ORD-00195,Delivered,2026-01-26 02:00:00,ParcelCo
+ORD-00196,Shipped,2026-02-24 06:33:00,SwiftShip
+ORD-00196,Out for Delivery,2026-02-24 19:33:00,ParcelCo
+ORD-00196,Delivered,2026-02-25 04:33:00,ParcelCo
+ORD-00197,Shipped,2026-01-08 13:49:00,SwiftShip
+ORD-00197,Out for Delivery,2026-01-10 00:49:00,ParcelCo
+ORD-00197,Delivered,2026-01-10 06:49:00,ParcelCo
+ORD-00198,Shipped,2026-02-07 08:29:00,SwiftShip
+ORD-00198,Out for Delivery,2026-02-11 02:29:00,ParcelCo
+ORD-00198,Delivered,2026-02-11 09:29:00,ParcelCo
+ORD-00199,Shipped,2026-01-13 00:51:00,SwiftShip
+ORD-00199,Out for Delivery,2026-01-14 09:51:00,ParcelCo
+ORD-00199,Delivered,2026-01-14 15:51:00,ParcelCo
+ORD-00200,Shipped,2026-01-19 07:31:00,ParcelCo
+ORD-00200,Out for Delivery,2026-01-19 21:31:00,ParcelCo
+ORD-00200,Delivered,2026-01-20 03:31:00,ParcelCo
+ORD-00201,Shipped,2026-02-13 12:09:00,SwiftShip
+ORD-00201,Out for Delivery,2026-02-14 13:09:00,ParcelCo
+ORD-00201,Delivered,2026-02-14 15:09:00,ParcelCo
+ORD-00202,Shipped,2026-02-08 13:54:00,SwiftShip
+ORD-00202,Out for Delivery,2026-02-09 12:54:00,ParcelCo
+ORD-00202,Delivered,2026-02-09 14:54:00,ParcelCo
+ORD-00203,Shipped,2026-02-15 12:40:00,ParcelCo
+ORD-00203,Out for Delivery,2026-02-16 22:40:00,ParcelCo
+ORD-00203,Delivered,2026-02-17 05:40:00,ParcelCo
+ORD-00205,Shipped,2026-02-01 01:51:00,ParcelCo
+ORD-00205,Out for Delivery,2026-02-02 09:51:00,ParcelCo
+ORD-00205,Delivered,2026-02-02 15:51:00,ParcelCo
+ORD-00206,Shipped,2026-02-20 02:14:00,ParcelCo
+ORD-00206,Out for Delivery,2026-02-20 19:14:00,ParcelCo
+ORD-00206,Delivered,2026-02-20 20:14:00,ParcelCo
+ORD-00207,Shipped,2026-01-18 14:49:00,SwiftShip
+ORD-00207,Out for Delivery,2026-01-20 20:49:00,ParcelCo
+ORD-00207,Delivered,2026-01-21 02:49:00,ParcelCo
+ORD-00208,Shipped,2026-02-16 07:11:00,SwiftShip
+ORD-00208,Out for Delivery,2026-02-17 02:11:00,ParcelCo
+ORD-00208,Delivered,2026-02-17 08:11:00,ParcelCo
+ORD-00209,Shipped,2026-02-05 03:55:00,SwiftShip
+ORD-00210,Shipped,2026-02-09 07:37:00,SwiftShip
+ORD-00210,Out for Delivery,2026-02-10 04:37:00,ParcelCo
+ORD-00210,Delivered,2026-02-10 06:37:00,ParcelCo
+ORD-00211,Shipped,2026-01-27 21:38:00,ParcelCo
+ORD-00211,Out for Delivery,2026-01-28 16:38:00,ParcelCo
+ORD-00211,Delivered,2026-01-28 22:38:00,ParcelCo
+ORD-00212,Shipped,2026-02-06 04:15:00,SwiftShip
+ORD-00212,Out for Delivery,2026-02-06 22:15:00,ParcelCo
+ORD-00212,Delivered,2026-02-07 03:15:00,ParcelCo
+ORD-00213,Shipped,2026-02-01 19:40:00,SwiftShip
+ORD-00213,Out for Delivery,2026-02-02 04:40:00,ParcelCo
+ORD-00213,Delivered,2026-02-02 10:40:00,ParcelCo
+ORD-00214,Shipped,2026-02-01 00:00:00,SwiftShip
+ORD-00214,Out for Delivery,2026-02-01 14:00:00,ParcelCo
+ORD-00214,Delivered,2026-02-01 15:00:00,ParcelCo
+ORD-00215,Shipped,2026-02-06 02:18:00,ParcelCo
+ORD-00215,Out for Delivery,2026-02-07 02:18:00,ParcelCo
+ORD-00215,Delivered,2026-02-07 04:18:00,ParcelCo
+ORD-00216,Shipped,2026-02-24 14:26:00,ParcelCo
+ORD-00216,Out for Delivery,2026-02-28 11:26:00,ParcelCo
+ORD-00216,Delivered,2026-02-28 14:26:00,ParcelCo
+ORD-00217,Shipped,2026-02-03 20:52:00,SwiftShip
+ORD-00217,Out for Delivery,2026-02-04 07:52:00,ParcelCo
+ORD-00217,Delivered,2026-02-04 15:52:00,ParcelCo
+ORD-00218,Shipped,2026-01-10 15:55:00,SwiftShip
+ORD-00218,Out for Delivery,2026-01-11 15:55:00,ParcelCo
+ORD-00218,Delivered,2026-01-12 01:55:00,ParcelCo
+ORD-00219,Shipped,2026-01-17 19:30:00,SwiftShip
+ORD-00219,Out for Delivery,2026-01-18 11:30:00,ParcelCo
+ORD-00219,Delivered,2026-01-18 16:30:00,ParcelCo
+ORD-00220,Shipped,2026-02-19 23:23:00,SwiftShip
+ORD-00220,Out for Delivery,2026-02-20 11:23:00,ParcelCo
+ORD-00220,Delivered,2026-02-20 21:23:00,ParcelCo
+ORD-00222,Shipped,2026-01-08 14:34:00,ParcelCo
+ORD-00222,Out for Delivery,2026-01-09 15:34:00,ParcelCo
+ORD-00222,Delivered,2026-01-09 23:34:00,ParcelCo
+ORD-00223,Shipped,2026-02-18 04:53:00,ParcelCo
+ORD-00223,Out for Delivery,2026-02-18 20:53:00,ParcelCo
+ORD-00223,Delivered,2026-02-19 06:53:00,ParcelCo
+ORD-00224,Shipped,2026-01-28 02:08:00,ParcelCo
+ORD-00224,Out for Delivery,2026-01-29 06:08:00,ParcelCo
+ORD-00224,Delivered,2026-01-29 16:08:00,ParcelCo
+ORD-00225,Shipped,2026-02-01 04:58:00,SwiftShip
+ORD-00225,Out for Delivery,2026-02-04 06:58:00,ParcelCo
+ORD-00225,Delivered,2026-02-04 12:58:00,ParcelCo
+ORD-00226,Shipped,2026-01-24 07:48:00,ParcelCo
+ORD-00226,Out for Delivery,2026-01-25 04:48:00,ParcelCo
+ORD-00226,Delivered,2026-01-25 07:48:00,ParcelCo
+ORD-00227,Shipped,2026-02-26 11:39:00,ParcelCo
+ORD-00227,Out for Delivery,2026-02-27 00:39:00,ParcelCo
+ORD-00227,Delivered,2026-02-27 08:39:00,ParcelCo
+ORD-00228,Shipped,2026-01-24 17:44:00,SwiftShip
+ORD-00229,Shipped,2026-02-15 07:56:00,ParcelCo
+ORD-00229,Out for Delivery,2026-02-15 18:56:00,ParcelCo
+ORD-00229,Delivered,2026-02-16 00:56:00,ParcelCo
+ORD-00230,Shipped,2026-02-16 09:34:00,ParcelCo
+ORD-00230,Out for Delivery,2026-02-17 20:34:00,ParcelCo
+ORD-00230,Delivered,2026-02-17 22:34:00,ParcelCo
+ORD-00231,Shipped,2026-01-11 09:03:00,ParcelCo
+ORD-00231,Out for Delivery,2026-01-12 02:03:00,ParcelCo
+ORD-00231,Delivered,2026-01-12 04:03:00,ParcelCo
+ORD-00232,Shipped,2026-01-07 08:14:00,ParcelCo
+ORD-00232,Out for Delivery,2026-01-08 08:14:00,ParcelCo
+ORD-00232,Delivered,2026-01-08 11:14:00,ParcelCo
+ORD-00233,Shipped,2026-02-05 05:18:00,ParcelCo
+ORD-00233,Out for Delivery,2026-02-05 16:18:00,ParcelCo
+ORD-00233,Delivered,2026-02-05 22:18:00,ParcelCo
+ORD-00234,Shipped,2026-02-13 15:50:00,ParcelCo
+ORD-00234,Out for Delivery,2026-02-17 19:50:00,ParcelCo
+ORD-00234,Delivered,2026-02-18 04:50:00,ParcelCo
+ORD-00235,Shipped,2026-02-15 23:22:00,ParcelCo
+ORD-00235,Out for Delivery,2026-02-17 08:22:00,ParcelCo
+ORD-00235,Delivered,2026-02-17 13:22:00,ParcelCo
+ORD-00236,Shipped,2026-02-23 20:53:00,ParcelCo
+ORD-00236,Out for Delivery,2026-02-24 21:53:00,ParcelCo
+ORD-00236,Delivered,2026-02-25 06:53:00,ParcelCo
+ORD-00237,Shipped,2026-01-30 04:19:00,ParcelCo
+ORD-00237,Out for Delivery,2026-01-31 08:19:00,ParcelCo
+ORD-00237,Delivered,2026-01-31 15:19:00,ParcelCo
+ORD-00239,Shipped,2026-01-13 03:38:00,SwiftShip
+ORD-00239,Out for Delivery,2026-01-14 10:38:00,ParcelCo
+ORD-00239,Delivered,2026-01-14 13:38:00,ParcelCo
+ORD-00240,Shipped,2026-02-13 04:39:00,ParcelCo
+ORD-00240,Out for Delivery,2026-02-14 14:39:00,ParcelCo
+ORD-00240,Delivered,2026-02-14 21:39:00,ParcelCo
+ORD-00241,Shipped,2026-02-13 00:41:00,SwiftShip
+ORD-00241,Out for Delivery,2026-02-14 06:41:00,ParcelCo
+ORD-00241,Delivered,2026-02-14 14:41:00,ParcelCo
+ORD-00242,Shipped,2026-02-11 05:15:00,SwiftShip
+ORD-00242,Out for Delivery,2026-02-12 06:15:00,ParcelCo
+ORD-00242,Delivered,2026-02-12 12:15:00,ParcelCo
+ORD-00243,Shipped,2026-01-12 08:43:00,ParcelCo
+ORD-00243,Out for Delivery,2026-01-16 02:43:00,ParcelCo
+ORD-00243,Delivered,2026-01-16 10:43:00,ParcelCo
+ORD-00244,Shipped,2026-01-07 18:21:00,SwiftShip
+ORD-00244,Out for Delivery,2026-01-08 09:21:00,ParcelCo
+ORD-00244,Delivered,2026-01-08 19:21:00,ParcelCo
+ORD-00245,Shipped,2026-01-22 02:44:00,SwiftShip
+ORD-00245,Out for Delivery,2026-01-23 11:44:00,ParcelCo
+ORD-00245,Delivered,2026-01-23 12:44:00,ParcelCo
+ORD-00246,Shipped,2026-01-09 18:37:00,SwiftShip
+ORD-00246,Out for Delivery,2026-01-10 12:37:00,ParcelCo
+ORD-00246,Delivered,2026-01-10 21:37:00,ParcelCo
+ORD-00247,Shipped,2026-02-21 08:24:00,SwiftShip
+ORD-00248,Shipped,2026-01-08 02:03:00,SwiftShip
+ORD-00248,Out for Delivery,2026-01-09 09:03:00,ParcelCo
+ORD-00248,Delivered,2026-01-09 13:03:00,ParcelCo
+ORD-00249,Shipped,2026-02-16 00:48:00,ParcelCo
+ORD-00249,Out for Delivery,2026-02-16 13:48:00,ParcelCo
+ORD-00249,Delivered,2026-02-16 17:48:00,ParcelCo
+ORD-00250,Shipped,2026-01-21 12:02:00,ParcelCo
+ORD-00250,Out for Delivery,2026-01-22 17:02:00,ParcelCo
+ORD-00250,Delivered,2026-01-23 02:02:00,ParcelCo
+ORD-00251,Shipped,2026-02-17 22:01:00,SwiftShip
+ORD-00251,Out for Delivery,2026-02-19 09:01:00,ParcelCo
+ORD-00251,Delivered,2026-02-19 11:01:00,ParcelCo
+ORD-00252,Shipped,2026-02-01 05:28:00,ParcelCo
+ORD-00252,Out for Delivery,2026-02-05 01:28:00,ParcelCo
+ORD-00252,Delivered,2026-02-05 11:28:00,ParcelCo
+ORD-00253,Shipped,2026-02-26 05:49:00,SwiftShip
+ORD-00253,Out for Delivery,2026-02-26 19:49:00,ParcelCo
+ORD-00253,Delivered,2026-02-27 00:49:00,ParcelCo
+ORD-00254,Shipped,2026-02-21 08:53:00,SwiftShip
+ORD-00254,Out for Delivery,2026-02-22 13:53:00,ParcelCo
+ORD-00254,Delivered,2026-02-22 22:53:00,ParcelCo
+ORD-00256,Shipped,2026-01-16 22:08:00,SwiftShip
+ORD-00256,Out for Delivery,2026-01-17 08:08:00,ParcelCo
+ORD-00256,Delivered,2026-01-17 12:08:00,ParcelCo
+ORD-00257,Shipped,2026-02-04 17:44:00,ParcelCo
+ORD-00257,Out for Delivery,2026-02-05 11:44:00,ParcelCo
+ORD-00257,Delivered,2026-02-05 12:44:00,ParcelCo
+ORD-00258,Shipped,2026-02-23 01:59:00,ParcelCo
+ORD-00258,Out for Delivery,2026-02-23 15:59:00,ParcelCo
+ORD-00258,Delivered,2026-02-23 20:59:00,ParcelCo
+ORD-00259,Shipped,2026-01-23 10:18:00,SwiftShip
+ORD-00259,Out for Delivery,2026-01-24 13:18:00,ParcelCo
+ORD-00259,Delivered,2026-01-24 15:18:00,ParcelCo
+ORD-00260,Shipped,2026-03-01 05:53:00,SwiftShip
+ORD-00260,Out for Delivery,2026-03-01 23:53:00,ParcelCo
+ORD-00260,Delivered,2026-03-02 05:53:00,ParcelCo
+ORD-00261,Shipped,2026-01-19 04:37:00,ParcelCo
+ORD-00261,Out for Delivery,2026-01-22 03:37:00,ParcelCo
+ORD-00261,Delivered,2026-01-22 05:37:00,ParcelCo
+ORD-00262,Shipped,2026-01-13 04:18:00,SwiftShip
+ORD-00262,Out for Delivery,2026-01-13 18:18:00,ParcelCo
+ORD-00262,Delivered,2026-01-13 21:18:00,ParcelCo
+ORD-00263,Shipped,2026-01-16 16:53:00,SwiftShip
+ORD-00263,Out for Delivery,2026-01-18 03:53:00,ParcelCo
+ORD-00263,Delivered,2026-01-18 13:53:00,ParcelCo
+ORD-00264,Shipped,2026-02-14 11:46:00,SwiftShip
+ORD-00264,Out for Delivery,2026-02-15 16:46:00,ParcelCo
+ORD-00264,Delivered,2026-02-16 02:46:00,ParcelCo
+ORD-00265,Shipped,2026-01-27 06:55:00,SwiftShip
+ORD-00265,Out for Delivery,2026-01-28 00:55:00,ParcelCo
+ORD-00265,Delivered,2026-01-28 07:55:00,ParcelCo
+ORD-00266,Shipped,2026-02-07 20:30:00,SwiftShip
+ORD-00267,Shipped,2026-02-16 05:16:00,ParcelCo
+ORD-00267,Out for Delivery,2026-02-16 19:16:00,ParcelCo
+ORD-00267,Delivered,2026-02-17 05:16:00,ParcelCo
+ORD-00268,Shipped,2026-02-21 02:29:00,ParcelCo
+ORD-00268,Out for Delivery,2026-02-21 20:29:00,ParcelCo
+ORD-00268,Delivered,2026-02-22 03:29:00,ParcelCo
+ORD-00269,Shipped,2026-01-31 10:49:00,SwiftShip
+ORD-00269,Out for Delivery,2026-01-31 19:49:00,ParcelCo
+ORD-00269,Delivered,2026-01-31 21:49:00,ParcelCo
+ORD-00270,Shipped,2026-02-17 11:45:00,SwiftShip
+ORD-00270,Out for Delivery,2026-02-19 23:45:00,ParcelCo
+ORD-00270,Delivered,2026-02-20 01:45:00,ParcelCo
+ORD-00271,Shipped,2026-02-14 08:32:00,ParcelCo
+ORD-00271,Out for Delivery,2026-02-15 03:32:00,ParcelCo
+ORD-00271,Delivered,2026-02-15 11:32:00,ParcelCo
+ORD-00273,Shipped,2026-01-09 15:08:00,SwiftShip
+ORD-00273,Out for Delivery,2026-01-10 13:08:00,ParcelCo
+ORD-00273,Delivered,2026-01-10 21:08:00,ParcelCo
+ORD-00274,Shipped,2026-01-24 00:42:00,ParcelCo
+ORD-00274,Out for Delivery,2026-01-24 08:42:00,ParcelCo
+ORD-00274,Delivered,2026-01-24 18:42:00,ParcelCo
+ORD-00275,Shipped,2026-03-02 10:16:00,SwiftShip
+ORD-00275,Out for Delivery,2026-03-02 22:16:00,ParcelCo
+ORD-00275,Delivered,2026-03-03 03:16:00,ParcelCo
+ORD-00276,Shipped,2026-01-09 03:16:00,SwiftShip
+ORD-00276,Out for Delivery,2026-01-10 08:16:00,ParcelCo
+ORD-00276,Delivered,2026-01-10 18:16:00,ParcelCo
+ORD-00277,Shipped,2026-01-22 14:43:00,SwiftShip
+ORD-00277,Out for Delivery,2026-01-23 21:43:00,ParcelCo
+ORD-00277,Delivered,2026-01-24 00:43:00,ParcelCo
+ORD-00278,Shipped,2026-02-25 10:06:00,SwiftShip
+ORD-00278,Out for Delivery,2026-02-26 04:06:00,ParcelCo
+ORD-00278,Delivered,2026-02-26 09:06:00,ParcelCo
+ORD-00279,Shipped,2026-01-09 14:58:00,ParcelCo
+ORD-00279,Out for Delivery,2026-01-12 19:58:00,ParcelCo
+ORD-00279,Delivered,2026-01-12 22:58:00,ParcelCo
+ORD-00280,Shipped,2026-02-17 07:08:00,SwiftShip
+ORD-00280,Out for Delivery,2026-02-17 19:08:00,ParcelCo
+ORD-00280,Delivered,2026-02-18 02:08:00,ParcelCo
+ORD-00281,Shipped,2026-02-13 15:25:00,SwiftShip
+ORD-00281,Out for Delivery,2026-02-15 01:25:00,ParcelCo
+ORD-00281,Delivered,2026-02-15 02:25:00,ParcelCo
+ORD-00282,Shipped,2026-02-26 10:37:00,SwiftShip
+ORD-00282,Out for Delivery,2026-02-27 20:37:00,ParcelCo
+ORD-00282,Delivered,2026-02-28 04:37:00,ParcelCo
+ORD-00283,Shipped,2026-01-17 17:46:00,SwiftShip
+ORD-00283,Out for Delivery,2026-01-18 15:46:00,ParcelCo
+ORD-00283,Delivered,2026-01-18 22:46:00,ParcelCo
+ORD-00284,Shipped,2026-01-16 07:46:00,SwiftShip
+ORD-00284,Out for Delivery,2026-01-17 11:46:00,ParcelCo
+ORD-00284,Delivered,2026-01-17 17:46:00,ParcelCo
+ORD-00285,Shipped,2026-01-06 20:19:00,SwiftShip
+ORD-00286,Shipped,2026-01-22 02:23:00,ParcelCo
+ORD-00286,Out for Delivery,2026-01-22 14:23:00,ParcelCo
+ORD-00286,Delivered,2026-01-22 19:23:00,ParcelCo
+ORD-00287,Shipped,2026-02-09 07:36:00,ParcelCo
+ORD-00287,Out for Delivery,2026-02-10 02:36:00,ParcelCo
+ORD-00287,Delivered,2026-02-10 03:36:00,ParcelCo
+ORD-00288,Shipped,2026-02-20 16:58:00,SwiftShip
+ORD-00288,Out for Delivery,2026-02-24 06:58:00,ParcelCo
+ORD-00288,Delivered,2026-02-24 08:58:00,ParcelCo
+ORD-00290,Shipped,2026-02-07 14:04:00,SwiftShip
+ORD-00290,Out for Delivery,2026-02-08 02:04:00,ParcelCo
+ORD-00290,Delivered,2026-02-08 05:04:00,ParcelCo
+ORD-00291,Shipped,2026-01-21 06:41:00,ParcelCo
+ORD-00291,Out for Delivery,2026-01-22 02:41:00,ParcelCo
+ORD-00291,Delivered,2026-01-22 03:41:00,ParcelCo
+ORD-00292,Shipped,2026-02-19 03:43:00,ParcelCo
+ORD-00292,Out for Delivery,2026-02-20 05:43:00,ParcelCo
+ORD-00292,Delivered,2026-02-20 13:43:00,ParcelCo
+ORD-00293,Shipped,2026-03-01 03:54:00,ParcelCo
+ORD-00293,Out for Delivery,2026-03-01 20:54:00,ParcelCo
+ORD-00293,Delivered,2026-03-02 00:54:00,ParcelCo
+ORD-00294,Shipped,2026-01-29 15:46:00,SwiftShip
+ORD-00294,Out for Delivery,2026-01-30 23:46:00,ParcelCo
+ORD-00294,Delivered,2026-01-31 08:46:00,ParcelCo
+ORD-00295,Shipped,2026-01-28 23:20:00,ParcelCo
+ORD-00295,Out for Delivery,2026-01-29 09:20:00,ParcelCo
+ORD-00295,Delivered,2026-01-29 10:20:00,ParcelCo
+ORD-00296,Shipped,2026-02-09 14:45:00,ParcelCo
+ORD-00296,Out for Delivery,2026-02-10 07:45:00,ParcelCo
+ORD-00296,Delivered,2026-02-10 10:45:00,ParcelCo
+ORD-00297,Shipped,2026-01-27 03:22:00,ParcelCo
+ORD-00297,Out for Delivery,2026-01-29 17:22:00,ParcelCo
+ORD-00297,Delivered,2026-01-29 19:22:00,ParcelCo
+ORD-00298,Shipped,2026-02-02 05:14:00,ParcelCo
+ORD-00298,Out for Delivery,2026-02-02 18:14:00,ParcelCo
+ORD-00298,Delivered,2026-02-03 04:14:00,ParcelCo
+ORD-00299,Shipped,2026-02-24 08:25:00,SwiftShip
+ORD-00299,Out for Delivery,2026-02-25 06:25:00,ParcelCo
+ORD-00299,Delivered,2026-02-25 11:25:00,ParcelCo
+ORD-00300,Shipped,2026-01-25 12:07:00,SwiftShip
+ORD-00300,Out for Delivery,2026-01-26 07:07:00,ParcelCo
+ORD-00300,Delivered,2026-01-26 17:07:00,ParcelCo
+ORD-00301,Shipped,2026-01-22 11:36:00,SwiftShip
+ORD-00301,Out for Delivery,2026-01-22 19:36:00,ParcelCo
+ORD-00301,Delivered,2026-01-23 01:36:00,ParcelCo
+ORD-00302,Shipped,2026-02-21 19:15:00,SwiftShip
+ORD-00302,Out for Delivery,2026-02-23 04:15:00,ParcelCo
+ORD-00302,Delivered,2026-02-23 12:15:00,ParcelCo
+ORD-00303,Shipped,2026-02-16 12:03:00,SwiftShip
+ORD-00303,Out for Delivery,2026-02-17 02:03:00,ParcelCo
+ORD-00303,Delivered,2026-02-17 04:03:00,ParcelCo
+ORD-00304,Shipped,2026-02-06 05:48:00,ParcelCo
+ORD-00305,Shipped,2026-01-23 16:48:00,SwiftShip
+ORD-00305,Out for Delivery,2026-01-24 14:48:00,ParcelCo
+ORD-00305,Delivered,2026-01-25 00:48:00,ParcelCo
+ORD-00307,Shipped,2026-01-14 12:20:00,SwiftShip
+ORD-00307,Out for Delivery,2026-01-14 21:20:00,ParcelCo
+ORD-00307,Delivered,2026-01-15 04:20:00,ParcelCo
+ORD-00308,Shipped,2026-02-14 03:53:00,SwiftShip
+ORD-00308,Out for Delivery,2026-02-15 07:53:00,ParcelCo
+ORD-00308,Delivered,2026-02-15 14:53:00,ParcelCo
+ORD-00309,Shipped,2026-02-05 08:46:00,SwiftShip
+ORD-00309,Out for Delivery,2026-02-06 13:46:00,ParcelCo
+ORD-00309,Delivered,2026-02-06 14:46:00,ParcelCo
+ORD-00310,Shipped,2026-01-22 22:36:00,SwiftShip
+ORD-00310,Out for Delivery,2026-01-24 08:36:00,ParcelCo
+ORD-00310,Delivered,2026-01-24 10:36:00,ParcelCo
+ORD-00311,Shipped,2026-01-29 07:39:00,ParcelCo
+ORD-00311,Out for Delivery,2026-01-29 16:39:00,ParcelCo
+ORD-00311,Delivered,2026-01-30 01:39:00,ParcelCo
+ORD-00312,Shipped,2026-02-20 03:51:00,SwiftShip
+ORD-00312,Out for Delivery,2026-02-20 13:51:00,ParcelCo
+ORD-00312,Delivered,2026-02-20 23:51:00,ParcelCo
+ORD-00313,Shipped,2026-01-26 21:59:00,SwiftShip
+ORD-00313,Out for Delivery,2026-01-28 06:59:00,ParcelCo
+ORD-00313,Delivered,2026-01-28 14:59:00,ParcelCo
+ORD-00314,Shipped,2026-01-07 00:46:00,ParcelCo
+ORD-00314,Out for Delivery,2026-01-08 06:46:00,ParcelCo
+ORD-00314,Delivered,2026-01-08 13:46:00,ParcelCo
+ORD-00315,Shipped,2026-02-11 10:19:00,ParcelCo
+ORD-00315,Out for Delivery,2026-02-14 10:19:00,ParcelCo
+ORD-00315,Delivered,2026-02-14 12:19:00,ParcelCo
+ORD-00316,Shipped,2026-01-23 21:30:00,ParcelCo
+ORD-00316,Out for Delivery,2026-01-24 18:30:00,ParcelCo
+ORD-00316,Delivered,2026-01-25 00:30:00,ParcelCo
+ORD-00317,Shipped,2026-02-28 20:47:00,SwiftShip
+ORD-00317,Out for Delivery,2026-03-02 01:47:00,ParcelCo
+ORD-00317,Delivered,2026-03-02 11:47:00,ParcelCo
+ORD-00318,Shipped,2026-01-09 18:16:00,ParcelCo
+ORD-00318,Out for Delivery,2026-01-10 07:16:00,ParcelCo
+ORD-00318,Delivered,2026-01-10 10:16:00,ParcelCo
+ORD-00319,Shipped,2026-01-12 18:20:00,ParcelCo
+ORD-00319,Out for Delivery,2026-01-14 01:20:00,ParcelCo
+ORD-00319,Delivered,2026-01-14 07:20:00,ParcelCo
+ORD-00320,Shipped,2026-01-30 10:30:00,SwiftShip
+ORD-00320,Out for Delivery,2026-01-31 18:30:00,ParcelCo
+ORD-00320,Delivered,2026-01-31 23:30:00,ParcelCo
+ORD-00321,Shipped,2026-02-19 04:56:00,ParcelCo
+ORD-00321,Out for Delivery,2026-02-19 16:56:00,ParcelCo
+ORD-00321,Delivered,2026-02-19 20:56:00,ParcelCo
+ORD-00322,Shipped,2026-01-20 22:23:00,SwiftShip
+ORD-00322,Out for Delivery,2026-01-21 23:23:00,ParcelCo
+ORD-00322,Delivered,2026-01-22 05:23:00,ParcelCo
+ORD-00324,Shipped,2026-01-18 06:10:00,SwiftShip
+ORD-00324,Out for Delivery,2026-01-21 13:10:00,ParcelCo
+ORD-00324,Delivered,2026-01-21 23:10:00,ParcelCo
+ORD-00325,Shipped,2026-02-09 05:37:00,ParcelCo
+ORD-00325,Out for Delivery,2026-02-10 16:37:00,ParcelCo
+ORD-00325,Delivered,2026-02-10 17:37:00,ParcelCo
+ORD-00326,Shipped,2026-01-15 23:45:00,SwiftShip
+ORD-00326,Out for Delivery,2026-01-16 17:45:00,ParcelCo
+ORD-00326,Delivered,2026-01-16 20:45:00,ParcelCo
+ORD-00327,Shipped,2026-01-23 01:43:00,SwiftShip
+ORD-00327,Out for Delivery,2026-01-24 02:43:00,ParcelCo
+ORD-00327,Delivered,2026-01-24 03:43:00,ParcelCo
+ORD-00328,Shipped,2026-02-03 23:56:00,SwiftShip
+ORD-00328,Out for Delivery,2026-02-05 01:56:00,ParcelCo
+ORD-00328,Delivered,2026-02-05 10:56:00,ParcelCo
+ORD-00329,Shipped,2026-02-17 17:53:00,SwiftShip
+ORD-00329,Out for Delivery,2026-02-19 01:53:00,ParcelCo
+ORD-00329,Delivered,2026-02-19 06:53:00,ParcelCo
+ORD-00330,Shipped,2026-02-07 09:39:00,SwiftShip
+ORD-00330,Out for Delivery,2026-02-08 16:39:00,ParcelCo
+ORD-00330,Delivered,2026-02-09 00:39:00,ParcelCo
+ORD-00331,Shipped,2026-01-15 03:09:00,SwiftShip
+ORD-00331,Out for Delivery,2026-01-16 09:09:00,ParcelCo
+ORD-00331,Delivered,2026-01-16 11:09:00,ParcelCo
+ORD-00332,Shipped,2026-02-05 16:15:00,ParcelCo
+ORD-00332,Out for Delivery,2026-02-06 01:15:00,ParcelCo
+ORD-00332,Delivered,2026-02-06 08:15:00,ParcelCo
+ORD-00333,Shipped,2026-01-30 13:46:00,SwiftShip
+ORD-00333,Out for Delivery,2026-02-02 12:46:00,ParcelCo
+ORD-00333,Delivered,2026-02-02 20:46:00,ParcelCo
+ORD-00334,Shipped,2026-01-14 23:03:00,ParcelCo
+ORD-00334,Out for Delivery,2026-01-15 07:03:00,ParcelCo
+ORD-00334,Delivered,2026-01-15 13:03:00,ParcelCo
+ORD-00335,Shipped,2026-01-06 19:59:00,SwiftShip
+ORD-00335,Out for Delivery,2026-01-07 07:59:00,ParcelCo
+ORD-00335,Delivered,2026-01-07 09:59:00,ParcelCo
+ORD-00336,Shipped,2026-02-21 05:17:00,ParcelCo
+ORD-00336,Out for Delivery,2026-02-22 04:17:00,ParcelCo
+ORD-00336,Delivered,2026-02-22 13:17:00,ParcelCo
+ORD-00337,Shipped,2026-02-18 09:06:00,SwiftShip
+ORD-00337,Out for Delivery,2026-02-19 07:06:00,ParcelCo
+ORD-00337,Delivered,2026-02-19 11:06:00,ParcelCo
+ORD-00338,Shipped,2026-02-18 01:48:00,ParcelCo
+ORD-00338,Out for Delivery,2026-02-19 11:48:00,ParcelCo
+ORD-00338,Delivered,2026-02-19 14:48:00,ParcelCo
+ORD-00339,Shipped,2026-02-20 06:18:00,SwiftShip
+ORD-00339,Out for Delivery,2026-02-20 23:18:00,ParcelCo
+ORD-00339,Delivered,2026-02-21 04:18:00,ParcelCo
+ORD-00341,Shipped,2026-01-19 01:34:00,ParcelCo
+ORD-00341,Out for Delivery,2026-01-20 00:34:00,ParcelCo
+ORD-00341,Delivered,2026-01-20 04:34:00,ParcelCo
+ORD-00342,Shipped,2026-02-27 22:55:00,ParcelCo
+ORD-00343,Shipped,2026-01-30 05:16:00,ParcelCo
+ORD-00343,Out for Delivery,2026-01-30 13:16:00,ParcelCo
+ORD-00343,Delivered,2026-01-30 19:16:00,ParcelCo
+ORD-00344,Shipped,2026-02-15 01:15:00,ParcelCo
+ORD-00344,Out for Delivery,2026-02-15 20:15:00,ParcelCo
+ORD-00344,Delivered,2026-02-15 22:15:00,ParcelCo
+ORD-00345,Shipped,2026-01-27 14:06:00,ParcelCo
+ORD-00345,Out for Delivery,2026-01-29 00:06:00,ParcelCo
+ORD-00345,Delivered,2026-01-29 09:06:00,ParcelCo
+ORD-00346,Shipped,2026-01-25 01:34:00,ParcelCo
+ORD-00346,Out for Delivery,2026-01-26 07:34:00,ParcelCo
+ORD-00346,Delivered,2026-01-26 17:34:00,ParcelCo
+ORD-00347,Shipped,2026-02-25 05:22:00,ParcelCo
+ORD-00347,Out for Delivery,2026-02-26 03:22:00,ParcelCo
+ORD-00347,Delivered,2026-02-26 05:22:00,ParcelCo
+ORD-00348,Shipped,2026-01-10 19:44:00,SwiftShip
+ORD-00348,Out for Delivery,2026-01-12 06:44:00,ParcelCo
+ORD-00348,Delivered,2026-01-12 09:44:00,ParcelCo
+ORD-00349,Shipped,2026-02-10 12:00:00,ParcelCo
+ORD-00349,Out for Delivery,2026-02-10 22:00:00,ParcelCo
+ORD-00349,Delivered,2026-02-11 03:00:00,ParcelCo
+ORD-00350,Shipped,2026-01-09 23:25:00,SwiftShip
+ORD-00350,Out for Delivery,2026-01-11 09:25:00,ParcelCo
+ORD-00350,Delivered,2026-01-11 16:25:00,ParcelCo
+ORD-00351,Shipped,2026-02-23 02:18:00,ParcelCo
+ORD-00351,Out for Delivery,2026-02-25 16:18:00,ParcelCo
+ORD-00351,Delivered,2026-02-25 20:18:00,ParcelCo
+ORD-00352,Shipped,2026-01-13 06:26:00,SwiftShip
+ORD-00352,Out for Delivery,2026-01-14 12:26:00,ParcelCo
+ORD-00352,Delivered,2026-01-14 20:26:00,ParcelCo
+ORD-00353,Shipped,2026-01-31 13:53:00,SwiftShip
+ORD-00353,Out for Delivery,2026-02-01 00:53:00,ParcelCo
+ORD-00353,Delivered,2026-02-01 08:53:00,ParcelCo
+ORD-00354,Shipped,2026-02-12 18:56:00,SwiftShip
+ORD-00354,Out for Delivery,2026-02-13 08:56:00,ParcelCo
+ORD-00354,Delivered,2026-02-13 10:56:00,ParcelCo
+ORD-00355,Shipped,2026-02-02 18:54:00,ParcelCo
+ORD-00355,Out for Delivery,2026-02-03 17:54:00,ParcelCo
+ORD-00355,Delivered,2026-02-03 20:54:00,ParcelCo
+ORD-00356,Shipped,2026-01-30 02:39:00,SwiftShip
+ORD-00356,Out for Delivery,2026-01-31 12:39:00,ParcelCo
+ORD-00356,Delivered,2026-01-31 13:39:00,ParcelCo
+ORD-00358,Shipped,2026-02-02 10:34:00,SwiftShip
+ORD-00358,Out for Delivery,2026-02-02 21:34:00,ParcelCo
+ORD-00358,Delivered,2026-02-03 07:34:00,ParcelCo
+ORD-00359,Shipped,2026-02-25 19:15:00,ParcelCo
+ORD-00359,Out for Delivery,2026-02-26 16:15:00,ParcelCo
+ORD-00359,Delivered,2026-02-26 20:15:00,ParcelCo
+ORD-00360,Shipped,2026-01-24 08:06:00,ParcelCo
+ORD-00360,Out for Delivery,2026-01-27 11:06:00,ParcelCo
+ORD-00360,Delivered,2026-01-27 14:06:00,ParcelCo
+ORD-00361,Shipped,2026-02-24 21:26:00,ParcelCo
+ORD-00362,Shipped,2026-02-02 01:45:00,ParcelCo
+ORD-00362,Out for Delivery,2026-02-03 10:45:00,ParcelCo
+ORD-00362,Delivered,2026-02-03 16:45:00,ParcelCo
+ORD-00363,Shipped,2026-02-16 09:59:00,SwiftShip
+ORD-00363,Out for Delivery,2026-02-17 06:59:00,ParcelCo
+ORD-00363,Delivered,2026-02-17 16:59:00,ParcelCo
+ORD-00364,Shipped,2026-01-08 07:30:00,ParcelCo
+ORD-00364,Out for Delivery,2026-01-09 10:30:00,ParcelCo
+ORD-00364,Delivered,2026-01-09 18:30:00,ParcelCo
+ORD-00365,Shipped,2026-02-02 08:04:00,ParcelCo
+ORD-00365,Out for Delivery,2026-02-02 21:04:00,ParcelCo
+ORD-00365,Delivered,2026-02-02 23:04:00,ParcelCo
+ORD-00366,Shipped,2026-02-14 11:10:00,SwiftShip
+ORD-00366,Out for Delivery,2026-02-15 22:10:00,ParcelCo
+ORD-00366,Delivered,2026-02-16 08:10:00,ParcelCo
+ORD-00367,Shipped,2026-02-02 03:09:00,ParcelCo
+ORD-00367,Out for Delivery,2026-02-03 14:09:00,ParcelCo
+ORD-00367,Delivered,2026-02-03 21:09:00,ParcelCo
+ORD-00368,Shipped,2026-02-09 11:58:00,ParcelCo
+ORD-00368,Out for Delivery,2026-02-10 00:58:00,ParcelCo
+ORD-00368,Delivered,2026-02-10 01:58:00,ParcelCo
+ORD-00369,Shipped,2026-01-11 11:12:00,ParcelCo
+ORD-00369,Out for Delivery,2026-01-13 20:12:00,ParcelCo
+ORD-00369,Delivered,2026-01-14 01:12:00,ParcelCo
+ORD-00370,Shipped,2026-02-05 18:49:00,SwiftShip
+ORD-00370,Out for Delivery,2026-02-06 10:49:00,ParcelCo
+ORD-00370,Delivered,2026-02-06 11:49:00,ParcelCo
+ORD-00371,Shipped,2026-01-14 09:02:00,SwiftShip
+ORD-00371,Out for Delivery,2026-01-15 18:02:00,ParcelCo
+ORD-00371,Delivered,2026-01-16 04:02:00,ParcelCo
+ORD-00372,Shipped,2026-02-15 03:03:00,SwiftShip
+ORD-00372,Out for Delivery,2026-02-15 16:03:00,ParcelCo
+ORD-00372,Delivered,2026-02-15 20:03:00,ParcelCo
+ORD-00373,Shipped,2026-02-03 13:20:00,SwiftShip
+ORD-00373,Out for Delivery,2026-02-04 00:20:00,ParcelCo
+ORD-00373,Delivered,2026-02-04 01:20:00,ParcelCo
+ORD-00375,Shipped,2026-01-16 03:26:00,ParcelCo
+ORD-00375,Out for Delivery,2026-01-17 10:26:00,ParcelCo
+ORD-00375,Delivered,2026-01-17 18:26:00,ParcelCo
+ORD-00376,Shipped,2026-01-24 06:22:00,ParcelCo
+ORD-00376,Out for Delivery,2026-01-24 20:22:00,ParcelCo
+ORD-00376,Delivered,2026-01-25 05:22:00,ParcelCo
+ORD-00377,Shipped,2026-03-01 22:29:00,SwiftShip
+ORD-00377,Out for Delivery,2026-03-02 23:29:00,ParcelCo
+ORD-00377,Delivered,2026-03-03 05:29:00,ParcelCo
+ORD-00378,Shipped,2026-02-05 08:54:00,ParcelCo
+ORD-00378,Out for Delivery,2026-02-08 11:54:00,ParcelCo
+ORD-00378,Delivered,2026-02-08 17:54:00,ParcelCo
+ORD-00379,Shipped,2026-02-27 13:22:00,SwiftShip
+ORD-00379,Out for Delivery,2026-02-28 14:22:00,ParcelCo
+ORD-00379,Delivered,2026-02-28 17:22:00,ParcelCo
+ORD-00380,Shipped,2026-02-16 12:00:00,ParcelCo
+ORD-00381,Shipped,2026-01-21 15:05:00,ParcelCo
+ORD-00381,Out for Delivery,2026-01-23 00:05:00,ParcelCo
+ORD-00381,Delivered,2026-01-23 05:05:00,ParcelCo
+ORD-00382,Shipped,2026-01-29 14:39:00,SwiftShip
+ORD-00382,Out for Delivery,2026-01-30 06:39:00,ParcelCo
+ORD-00382,Delivered,2026-01-30 07:39:00,ParcelCo
+ORD-00383,Shipped,2026-01-19 09:05:00,ParcelCo
+ORD-00383,Out for Delivery,2026-01-20 05:05:00,ParcelCo
+ORD-00383,Delivered,2026-01-20 10:05:00,ParcelCo
+ORD-00384,Shipped,2026-01-26 00:12:00,SwiftShip
+ORD-00384,Out for Delivery,2026-01-26 12:12:00,ParcelCo
+ORD-00384,Delivered,2026-01-26 15:12:00,ParcelCo
+ORD-00385,Shipped,2026-01-19 23:22:00,SwiftShip
+ORD-00385,Out for Delivery,2026-01-20 14:22:00,ParcelCo
+ORD-00385,Delivered,2026-01-20 21:22:00,ParcelCo
+ORD-00386,Shipped,2026-02-16 01:12:00,SwiftShip
+ORD-00386,Out for Delivery,2026-02-17 11:12:00,ParcelCo
+ORD-00386,Delivered,2026-02-17 19:12:00,ParcelCo
+ORD-00387,Shipped,2026-01-11 15:05:00,ParcelCo
+ORD-00387,Out for Delivery,2026-01-15 01:05:00,ParcelCo
+ORD-00387,Delivered,2026-01-15 05:05:00,ParcelCo
+ORD-00388,Shipped,2026-01-20 09:00:00,ParcelCo
+ORD-00388,Out for Delivery,2026-01-21 16:00:00,ParcelCo
+ORD-00388,Delivered,2026-01-21 20:00:00,ParcelCo
+ORD-00389,Shipped,2026-01-24 04:53:00,SwiftShip
+ORD-00389,Out for Delivery,2026-01-25 07:53:00,ParcelCo
+ORD-00389,Delivered,2026-01-25 16:53:00,ParcelCo
+ORD-00390,Shipped,2026-02-21 08:08:00,ParcelCo
+ORD-00390,Out for Delivery,2026-02-21 22:08:00,ParcelCo
+ORD-00390,Delivered,2026-02-22 08:08:00,ParcelCo
+ORD-00392,Shipped,2026-02-04 17:39:00,SwiftShip
+ORD-00392,Out for Delivery,2026-02-05 13:39:00,ParcelCo
+ORD-00392,Delivered,2026-02-05 15:39:00,ParcelCo
+ORD-00393,Shipped,2026-02-26 04:31:00,ParcelCo
+ORD-00393,Out for Delivery,2026-02-27 05:31:00,ParcelCo
+ORD-00393,Delivered,2026-02-27 06:31:00,ParcelCo
+ORD-00394,Shipped,2026-02-12 22:31:00,ParcelCo
+ORD-00394,Out for Delivery,2026-02-14 08:31:00,ParcelCo
+ORD-00394,Delivered,2026-02-14 16:31:00,ParcelCo
+ORD-00395,Shipped,2026-01-26 10:36:00,ParcelCo
+ORD-00395,Out for Delivery,2026-01-26 23:36:00,ParcelCo
+ORD-00395,Delivered,2026-01-27 02:36:00,ParcelCo
+ORD-00396,Shipped,2026-02-07 09:13:00,SwiftShip
+ORD-00396,Out for Delivery,2026-02-10 15:13:00,ParcelCo
+ORD-00396,Delivered,2026-02-11 01:13:00,ParcelCo
+ORD-00397,Shipped,2026-03-01 12:00:00,SwiftShip
+ORD-00397,Out for Delivery,2026-03-02 11:00:00,ParcelCo
+ORD-00397,Delivered,2026-03-02 18:00:00,ParcelCo
+ORD-00398,Shipped,2026-01-22 00:15:00,ParcelCo
+ORD-00398,Out for Delivery,2026-01-23 05:15:00,ParcelCo
+ORD-00398,Delivered,2026-01-23 11:15:00,ParcelCo
+ORD-00399,Shipped,2026-03-02 14:13:00,ParcelCo
+ORD-00400,Shipped,2026-01-28 05:57:00,ParcelCo
+ORD-00400,Out for Delivery,2026-01-29 11:57:00,ParcelCo
+ORD-00400,Delivered,2026-01-29 12:57:00,ParcelCo
+ORD-00401,Shipped,2026-02-01 07:22:00,ParcelCo
+ORD-00401,Out for Delivery,2026-02-02 09:22:00,ParcelCo
+ORD-00401,Delivered,2026-02-02 16:22:00,ParcelCo
+ORD-00402,Shipped,2026-02-02 05:38:00,SwiftShip
+ORD-00402,Out for Delivery,2026-02-03 06:38:00,ParcelCo
+ORD-00402,Delivered,2026-02-03 16:38:00,ParcelCo
+ORD-00403,Shipped,2026-01-11 03:32:00,ParcelCo
+ORD-00403,Out for Delivery,2026-01-11 16:32:00,ParcelCo
+ORD-00403,Delivered,2026-01-11 19:32:00,ParcelCo
+ORD-00404,Shipped,2026-02-14 22:28:00,ParcelCo
+ORD-00404,Out for Delivery,2026-02-15 16:28:00,ParcelCo
+ORD-00404,Delivered,2026-02-16 01:28:00,ParcelCo
+ORD-00405,Shipped,2026-01-22 15:13:00,SwiftShip
+ORD-00405,Out for Delivery,2026-01-25 23:13:00,ParcelCo
+ORD-00405,Delivered,2026-01-26 01:13:00,ParcelCo
+ORD-00406,Shipped,2026-02-18 08:57:00,ParcelCo
+ORD-00406,Out for Delivery,2026-02-19 03:57:00,ParcelCo
+ORD-00406,Delivered,2026-02-19 05:57:00,ParcelCo
+ORD-00407,Shipped,2026-02-18 10:16:00,SwiftShip
+ORD-00407,Out for Delivery,2026-02-18 18:16:00,ParcelCo
+ORD-00407,Delivered,2026-02-18 21:16:00,ParcelCo
+ORD-00409,Shipped,2026-01-10 09:24:00,SwiftShip
+ORD-00409,Out for Delivery,2026-01-11 04:24:00,ParcelCo
+ORD-00409,Delivered,2026-01-11 06:24:00,ParcelCo
+ORD-00410,Shipped,2026-02-23 20:21:00,SwiftShip
+ORD-00410,Out for Delivery,2026-02-24 14:21:00,ParcelCo
+ORD-00410,Delivered,2026-02-24 16:21:00,ParcelCo
+ORD-00411,Shipped,2026-02-01 17:57:00,ParcelCo
+ORD-00411,Out for Delivery,2026-02-03 02:57:00,ParcelCo
+ORD-00411,Delivered,2026-02-03 05:57:00,ParcelCo
+ORD-00412,Shipped,2026-02-01 15:27:00,SwiftShip
+ORD-00412,Out for Delivery,2026-02-02 09:27:00,ParcelCo
+ORD-00412,Delivered,2026-02-02 15:27:00,ParcelCo
+ORD-00413,Shipped,2026-02-16 19:18:00,SwiftShip
+ORD-00413,Out for Delivery,2026-02-18 05:18:00,ParcelCo
+ORD-00413,Delivered,2026-02-18 07:18:00,ParcelCo
+ORD-00414,Shipped,2026-02-10 10:08:00,ParcelCo
+ORD-00414,Out for Delivery,2026-02-12 12:08:00,ParcelCo
+ORD-00414,Delivered,2026-02-12 14:08:00,ParcelCo
+ORD-00415,Shipped,2026-01-30 21:48:00,ParcelCo
+ORD-00415,Out for Delivery,2026-01-31 13:48:00,ParcelCo
+ORD-00415,Delivered,2026-01-31 22:48:00,ParcelCo
+ORD-00416,Shipped,2026-02-17 22:44:00,SwiftShip
+ORD-00416,Out for Delivery,2026-02-18 13:44:00,ParcelCo
+ORD-00416,Delivered,2026-02-18 17:44:00,ParcelCo
+ORD-00417,Shipped,2026-02-19 14:05:00,SwiftShip
+ORD-00417,Out for Delivery,2026-02-20 00:05:00,ParcelCo
+ORD-00417,Delivered,2026-02-20 09:05:00,ParcelCo
+ORD-00418,Shipped,2026-01-10 09:11:00,ParcelCo
+ORD-00419,Shipped,2026-02-28 22:37:00,ParcelCo
+ORD-00419,Out for Delivery,2026-03-02 07:37:00,ParcelCo
+ORD-00419,Delivered,2026-03-02 15:37:00,ParcelCo
+ORD-00420,Shipped,2026-02-17 13:43:00,ParcelCo
+ORD-00420,Out for Delivery,2026-02-18 02:43:00,ParcelCo
+ORD-00420,Delivered,2026-02-18 08:43:00,ParcelCo
+ORD-00421,Shipped,2026-02-14 21:56:00,ParcelCo
+ORD-00421,Out for Delivery,2026-02-16 07:56:00,ParcelCo
+ORD-00421,Delivered,2026-02-16 11:56:00,ParcelCo
+ORD-00422,Shipped,2026-02-12 15:43:00,SwiftShip
+ORD-00422,Out for Delivery,2026-02-12 23:43:00,ParcelCo
+ORD-00422,Delivered,2026-02-13 00:43:00,ParcelCo
+ORD-00423,Shipped,2026-02-16 12:20:00,SwiftShip
+ORD-00423,Out for Delivery,2026-02-19 10:20:00,ParcelCo
+ORD-00423,Delivered,2026-02-19 16:20:00,ParcelCo
+ORD-00424,Shipped,2026-01-26 12:35:00,ParcelCo
+ORD-00424,Out for Delivery,2026-01-26 22:35:00,ParcelCo
+ORD-00424,Delivered,2026-01-27 03:35:00,ParcelCo
+ORD-00426,Shipped,2026-01-30 02:55:00,ParcelCo
+ORD-00426,Out for Delivery,2026-01-30 15:55:00,ParcelCo
+ORD-00426,Delivered,2026-01-30 23:55:00,ParcelCo
+ORD-00427,Shipped,2026-01-08 11:15:00,SwiftShip
+ORD-00427,Out for Delivery,2026-01-09 15:15:00,ParcelCo
+ORD-00427,Delivered,2026-01-09 20:15:00,ParcelCo
+ORD-00428,Shipped,2026-02-21 09:42:00,ParcelCo
+ORD-00428,Out for Delivery,2026-02-22 05:42:00,ParcelCo
+ORD-00428,Delivered,2026-02-22 13:42:00,ParcelCo
+ORD-00429,Shipped,2026-02-28 00:45:00,ParcelCo
+ORD-00429,Out for Delivery,2026-03-01 04:45:00,ParcelCo
+ORD-00429,Delivered,2026-03-01 13:45:00,ParcelCo
+ORD-00430,Shipped,2026-02-01 20:38:00,SwiftShip
+ORD-00430,Out for Delivery,2026-02-02 14:38:00,ParcelCo
+ORD-00430,Delivered,2026-02-03 00:38:00,ParcelCo
+ORD-00431,Shipped,2026-01-27 19:49:00,SwiftShip
+ORD-00431,Out for Delivery,2026-01-28 17:49:00,ParcelCo
+ORD-00431,Delivered,2026-01-28 23:49:00,ParcelCo
+ORD-00432,Shipped,2026-02-19 08:18:00,ParcelCo
+ORD-00432,Out for Delivery,2026-02-23 16:18:00,ParcelCo
+ORD-00432,Delivered,2026-02-23 21:18:00,ParcelCo
+ORD-00433,Shipped,2026-01-14 20:37:00,SwiftShip
+ORD-00433,Out for Delivery,2026-01-15 14:37:00,ParcelCo
+ORD-00433,Delivered,2026-01-15 17:37:00,ParcelCo
+ORD-00434,Shipped,2026-01-25 20:49:00,SwiftShip
+ORD-00434,Out for Delivery,2026-01-26 18:49:00,ParcelCo
+ORD-00434,Delivered,2026-01-26 21:49:00,ParcelCo
+ORD-00435,Shipped,2026-02-16 11:26:00,SwiftShip
+ORD-00435,Out for Delivery,2026-02-17 22:26:00,ParcelCo
+ORD-00435,Delivered,2026-02-18 08:26:00,ParcelCo
+ORD-00436,Shipped,2026-01-22 23:26:00,SwiftShip
+ORD-00436,Out for Delivery,2026-01-23 12:26:00,ParcelCo
+ORD-00436,Delivered,2026-01-23 13:26:00,ParcelCo
+ORD-00437,Shipped,2026-01-26 04:55:00,SwiftShip
+ORD-00438,Shipped,2026-01-06 22:18:00,SwiftShip
+ORD-00438,Out for Delivery,2026-01-07 15:18:00,ParcelCo
+ORD-00438,Delivered,2026-01-07 21:18:00,ParcelCo
+ORD-00439,Shipped,2026-01-20 17:28:00,SwiftShip
+ORD-00439,Out for Delivery,2026-01-21 13:28:00,ParcelCo
+ORD-00439,Delivered,2026-01-21 18:28:00,ParcelCo
+ORD-00440,Shipped,2026-02-12 03:02:00,SwiftShip
+ORD-00440,Out for Delivery,2026-02-13 14:02:00,ParcelCo
+ORD-00440,Delivered,2026-02-13 16:02:00,ParcelCo
+ORD-00441,Shipped,2026-02-03 03:18:00,ParcelCo
+ORD-00441,Out for Delivery,2026-02-05 15:18:00,ParcelCo
+ORD-00441,Delivered,2026-02-05 18:18:00,ParcelCo
+ORD-00443,Shipped,2026-01-28 09:13:00,SwiftShip
+ORD-00443,Out for Delivery,2026-01-29 18:13:00,ParcelCo
+ORD-00443,Delivered,2026-01-29 20:13:00,ParcelCo
+ORD-00444,Shipped,2026-01-11 01:13:00,ParcelCo
+ORD-00444,Out for Delivery,2026-01-11 15:13:00,ParcelCo
+ORD-00444,Delivered,2026-01-11 20:13:00,ParcelCo
+ORD-00445,Shipped,2026-02-14 03:59:00,ParcelCo
+ORD-00445,Out for Delivery,2026-02-14 14:59:00,ParcelCo
+ORD-00445,Delivered,2026-02-14 15:59:00,ParcelCo
+ORD-00446,Shipped,2026-02-17 20:47:00,ParcelCo
+ORD-00446,Out for Delivery,2026-02-18 05:47:00,ParcelCo
+ORD-00446,Delivered,2026-02-18 12:47:00,ParcelCo
+ORD-00447,Shipped,2026-02-11 20:06:00,ParcelCo
+ORD-00447,Out for Delivery,2026-02-13 03:06:00,ParcelCo
+ORD-00447,Delivered,2026-02-13 05:06:00,ParcelCo
+ORD-00448,Shipped,2026-01-15 09:43:00,ParcelCo
+ORD-00448,Out for Delivery,2026-01-15 19:43:00,ParcelCo
+ORD-00448,Delivered,2026-01-15 22:43:00,ParcelCo
+ORD-00449,Shipped,2026-03-01 00:47:00,ParcelCo
+ORD-00449,Out for Delivery,2026-03-02 07:47:00,ParcelCo
+ORD-00449,Delivered,2026-03-02 11:47:00,ParcelCo
+ORD-00450,Shipped,2026-02-01 21:03:00,ParcelCo
+ORD-00450,Out for Delivery,2026-02-05 17:03:00,ParcelCo
+ORD-00450,Delivered,2026-02-05 23:03:00,ParcelCo
+ORD-00451,Shipped,2026-02-05 08:06:00,ParcelCo
+ORD-00451,Out for Delivery,2026-02-06 07:06:00,ParcelCo
+ORD-00451,Delivered,2026-02-06 16:06:00,ParcelCo
+ORD-00452,Shipped,2026-02-04 01:14:00,ParcelCo
+ORD-00452,Out for Delivery,2026-02-04 20:14:00,ParcelCo
+ORD-00452,Delivered,2026-02-04 21:14:00,ParcelCo
+ORD-00453,Shipped,2026-02-15 00:37:00,SwiftShip
+ORD-00453,Out for Delivery,2026-02-15 17:37:00,ParcelCo
+ORD-00453,Delivered,2026-02-16 02:37:00,ParcelCo
+ORD-00454,Shipped,2026-02-07 08:43:00,SwiftShip
+ORD-00454,Out for Delivery,2026-02-07 19:43:00,ParcelCo
+ORD-00454,Delivered,2026-02-07 23:43:00,ParcelCo
+ORD-00455,Shipped,2026-02-13 18:34:00,SwiftShip
+ORD-00455,Out for Delivery,2026-02-14 21:34:00,ParcelCo
+ORD-00455,Delivered,2026-02-15 04:34:00,ParcelCo
+ORD-00456,Shipped,2026-02-27 20:38:00,SwiftShip
+ORD-00457,Shipped,2026-02-26 08:02:00,ParcelCo
+ORD-00457,Out for Delivery,2026-02-26 19:02:00,ParcelCo
+ORD-00457,Delivered,2026-02-26 20:02:00,ParcelCo
+ORD-00458,Shipped,2026-02-13 12:55:00,ParcelCo
+ORD-00458,Out for Delivery,2026-02-14 07:55:00,ParcelCo
+ORD-00458,Delivered,2026-02-14 13:55:00,ParcelCo
+ORD-00460,Shipped,2026-01-21 11:39:00,SwiftShip
+ORD-00460,Out for Delivery,2026-01-22 16:39:00,ParcelCo
+ORD-00460,Delivered,2026-01-23 00:39:00,ParcelCo
+ORD-00461,Shipped,2026-01-24 04:00:00,SwiftShip
+ORD-00461,Out for Delivery,2026-01-24 19:00:00,ParcelCo
+ORD-00461,Delivered,2026-01-24 23:00:00,ParcelCo
+ORD-00462,Shipped,2026-02-23 13:32:00,SwiftShip
+ORD-00462,Out for Delivery,2026-02-24 13:32:00,ParcelCo
+ORD-00462,Delivered,2026-02-24 17:32:00,ParcelCo
+ORD-00463,Shipped,2026-01-22 13:49:00,SwiftShip
+ORD-00463,Out for Delivery,2026-01-23 04:49:00,ParcelCo
+ORD-00463,Delivered,2026-01-23 06:49:00,ParcelCo
+ORD-00464,Shipped,2026-02-04 07:03:00,ParcelCo
+ORD-00464,Out for Delivery,2026-02-05 13:03:00,ParcelCo
+ORD-00464,Delivered,2026-02-05 20:03:00,ParcelCo
+ORD-00465,Shipped,2026-01-29 07:31:00,ParcelCo
+ORD-00465,Out for Delivery,2026-01-30 09:31:00,ParcelCo
+ORD-00465,Delivered,2026-01-30 16:31:00,ParcelCo
+ORD-00466,Shipped,2026-01-31 20:22:00,SwiftShip
+ORD-00466,Out for Delivery,2026-02-01 22:22:00,ParcelCo
+ORD-00466,Delivered,2026-02-02 01:22:00,ParcelCo
+ORD-00467,Shipped,2026-02-15 03:54:00,SwiftShip
+ORD-00467,Out for Delivery,2026-02-16 14:54:00,ParcelCo
+ORD-00467,Delivered,2026-02-16 18:54:00,ParcelCo
+ORD-00468,Shipped,2026-02-07 22:16:00,SwiftShip
+ORD-00468,Out for Delivery,2026-02-10 08:16:00,ParcelCo
+ORD-00468,Delivered,2026-02-10 18:16:00,ParcelCo
+ORD-00469,Shipped,2026-01-31 04:45:00,SwiftShip
+ORD-00469,Out for Delivery,2026-02-01 14:45:00,ParcelCo
+ORD-00469,Delivered,2026-02-01 22:45:00,ParcelCo
+ORD-00470,Shipped,2026-02-05 13:07:00,SwiftShip
+ORD-00470,Out for Delivery,2026-02-06 13:07:00,ParcelCo
+ORD-00470,Delivered,2026-02-06 19:07:00,ParcelCo
+ORD-00471,Shipped,2026-02-10 05:10:00,SwiftShip
+ORD-00471,Out for Delivery,2026-02-11 09:10:00,ParcelCo
+ORD-00471,Delivered,2026-02-11 17:10:00,ParcelCo
+ORD-00472,Shipped,2026-02-27 07:28:00,SwiftShip
+ORD-00472,Out for Delivery,2026-02-28 11:28:00,ParcelCo
+ORD-00472,Delivered,2026-02-28 21:28:00,ParcelCo
+ORD-00473,Shipped,2026-01-31 20:14:00,ParcelCo
+ORD-00473,Out for Delivery,2026-02-01 07:14:00,ParcelCo
+ORD-00473,Delivered,2026-02-01 16:14:00,ParcelCo
+ORD-00474,Shipped,2026-01-09 02:05:00,ParcelCo
+ORD-00474,Out for Delivery,2026-01-10 03:05:00,ParcelCo
+ORD-00474,Delivered,2026-01-10 11:05:00,ParcelCo
+ORD-00475,Shipped,2026-01-14 14:45:00,SwiftShip
+ORD-00477,Shipped,2026-02-06 10:54:00,SwiftShip
+ORD-00477,Out for Delivery,2026-02-10 07:54:00,ParcelCo
+ORD-00477,Delivered,2026-02-10 08:54:00,ParcelCo
+ORD-00478,Shipped,2026-01-26 14:33:00,ParcelCo
+ORD-00478,Out for Delivery,2026-01-27 00:33:00,ParcelCo
+ORD-00478,Delivered,2026-01-27 08:33:00,ParcelCo
+ORD-00479,Shipped,2026-01-14 02:36:00,ParcelCo
+ORD-00479,Out for Delivery,2026-01-14 15:36:00,ParcelCo
+ORD-00479,Delivered,2026-01-14 18:36:00,ParcelCo
+ORD-00480,Shipped,2026-01-10 01:07:00,ParcelCo
+ORD-00480,Out for Delivery,2026-01-11 12:07:00,ParcelCo
+ORD-00480,Delivered,2026-01-11 19:07:00,ParcelCo
+ORD-00481,Shipped,2026-02-18 07:17:00,ParcelCo
+ORD-00481,Out for Delivery,2026-02-18 20:17:00,ParcelCo
+ORD-00481,Delivered,2026-02-19 00:17:00,ParcelCo
+ORD-00482,Shipped,2026-02-08 22:19:00,SwiftShip
+ORD-00482,Out for Delivery,2026-02-09 13:19:00,ParcelCo
+ORD-00482,Delivered,2026-02-09 15:19:00,ParcelCo
+ORD-00483,Shipped,2026-02-18 18:11:00,SwiftShip
+ORD-00483,Out for Delivery,2026-02-19 18:11:00,ParcelCo
+ORD-00483,Delivered,2026-02-19 20:11:00,ParcelCo
+ORD-00484,Shipped,2026-01-15 08:40:00,ParcelCo
+ORD-00484,Out for Delivery,2026-01-16 16:40:00,ParcelCo
+ORD-00484,Delivered,2026-01-16 23:40:00,ParcelCo
+ORD-00485,Shipped,2026-01-23 17:37:00,ParcelCo
+ORD-00485,Out for Delivery,2026-01-24 17:37:00,ParcelCo
+ORD-00485,Delivered,2026-01-24 20:37:00,ParcelCo
+ORD-00486,Shipped,2026-01-31 16:17:00,SwiftShip
+ORD-00486,Out for Delivery,2026-02-04 02:17:00,ParcelCo
+ORD-00486,Delivered,2026-02-04 05:17:00,ParcelCo
+ORD-00487,Shipped,2026-02-01 10:03:00,SwiftShip
+ORD-00487,Out for Delivery,2026-02-02 08:03:00,ParcelCo
+ORD-00487,Delivered,2026-02-02 16:03:00,ParcelCo
+ORD-00488,Shipped,2026-01-24 14:14:00,ParcelCo
+ORD-00488,Out for Delivery,2026-01-25 18:14:00,ParcelCo
+ORD-00488,Delivered,2026-01-25 23:14:00,ParcelCo
+ORD-00489,Shipped,2026-01-20 01:20:00,ParcelCo
+ORD-00489,Out for Delivery,2026-01-20 11:20:00,ParcelCo
+ORD-00489,Delivered,2026-01-20 18:20:00,ParcelCo
+ORD-00490,Shipped,2026-03-02 17:54:00,ParcelCo
+ORD-00490,Out for Delivery,2026-03-03 15:54:00,ParcelCo
+ORD-00490,Delivered,2026-03-03 19:54:00,ParcelCo
+ORD-00491,Shipped,2026-02-10 16:35:00,ParcelCo
+ORD-00491,Out for Delivery,2026-02-11 07:35:00,ParcelCo
+ORD-00491,Delivered,2026-02-11 16:35:00,ParcelCo
+ORD-00492,Shipped,2026-01-07 06:18:00,ParcelCo
+ORD-00492,Out for Delivery,2026-01-08 01:18:00,ParcelCo
+ORD-00492,Delivered,2026-01-08 03:18:00,ParcelCo
+ORD-00494,Shipped,2026-01-07 04:34:00,SwiftShip
+ORD-00495,Shipped,2026-01-16 21:08:00,SwiftShip
+ORD-00495,Out for Delivery,2026-01-19 14:08:00,ParcelCo
+ORD-00495,Delivered,2026-01-19 16:08:00,ParcelCo
+ORD-00496,Shipped,2026-02-24 00:22:00,SwiftShip
+ORD-00496,Out for Delivery,2026-02-24 17:22:00,ParcelCo
+ORD-00496,Delivered,2026-02-25 02:22:00,ParcelCo
+ORD-00497,Shipped,2026-02-04 04:56:00,SwiftShip
+ORD-00497,Out for Delivery,2026-02-04 12:56:00,ParcelCo
+ORD-00497,Delivered,2026-02-04 13:56:00,ParcelCo
+ORD-00498,Shipped,2026-01-24 20:23:00,ParcelCo
+ORD-00498,Out for Delivery,2026-01-26 06:23:00,ParcelCo
+ORD-00498,Delivered,2026-01-26 14:23:00,ParcelCo
+ORD-00499,Shipped,2026-02-17 16:47:00,SwiftShip
+ORD-00499,Out for Delivery,2026-02-18 16:47:00,ParcelCo
+ORD-00499,Delivered,2026-02-18 19:47:00,ParcelCo
+ORD-00500,Shipped,2026-02-11 14:57:00,SwiftShip
+ORD-00500,Out for Delivery,2026-02-12 16:57:00,ParcelCo
+ORD-00500,Delivered,2026-02-12 20:57:00,ParcelCo
+ORD-00501,Shipped,2026-01-14 14:38:00,SwiftShip
+ORD-00501,Out for Delivery,2026-01-14 22:38:00,ParcelCo
+ORD-00501,Delivered,2026-01-15 01:38:00,ParcelCo
+ORD-00502,Shipped,2026-01-23 14:17:00,SwiftShip
+ORD-00502,Out for Delivery,2026-01-24 00:17:00,ParcelCo
+ORD-00502,Delivered,2026-01-24 08:17:00,ParcelCo
+ORD-00503,Shipped,2026-01-28 04:42:00,SwiftShip
+ORD-00503,Out for Delivery,2026-01-28 13:42:00,ParcelCo
+ORD-00503,Delivered,2026-01-28 22:42:00,ParcelCo
+ORD-00504,Shipped,2026-01-22 23:38:00,SwiftShip
+ORD-00504,Out for Delivery,2026-01-26 09:38:00,ParcelCo
+ORD-00504,Delivered,2026-01-26 11:38:00,ParcelCo
+ORD-00505,Shipped,2026-02-10 16:24:00,ParcelCo
+ORD-00505,Out for Delivery,2026-02-11 08:24:00,ParcelCo
+ORD-00505,Delivered,2026-02-11 13:24:00,ParcelCo
+ORD-00506,Shipped,2026-01-20 05:19:00,ParcelCo
+ORD-00506,Out for Delivery,2026-01-21 04:19:00,ParcelCo
+ORD-00506,Delivered,2026-01-21 13:19:00,ParcelCo
+ORD-00507,Shipped,2026-01-11 08:00:00,ParcelCo
+ORD-00507,Out for Delivery,2026-01-11 22:00:00,ParcelCo
+ORD-00507,Delivered,2026-01-12 04:00:00,ParcelCo
+ORD-00508,Shipped,2026-01-14 05:02:00,ParcelCo
+ORD-00508,Out for Delivery,2026-01-15 08:02:00,ParcelCo
+ORD-00508,Delivered,2026-01-15 12:02:00,ParcelCo
+ORD-00509,Shipped,2026-02-06 13:41:00,ParcelCo
+ORD-00509,Out for Delivery,2026-02-07 03:41:00,ParcelCo
+ORD-00509,Delivered,2026-02-07 05:41:00,ParcelCo
+ORD-00511,Shipped,2026-02-03 17:39:00,ParcelCo
+ORD-00511,Out for Delivery,2026-02-04 02:39:00,ParcelCo
+ORD-00511,Delivered,2026-02-04 05:39:00,ParcelCo
+ORD-00512,Shipped,2026-02-21 12:34:00,SwiftShip
+ORD-00512,Out for Delivery,2026-02-22 18:34:00,ParcelCo
+ORD-00512,Delivered,2026-02-22 21:34:00,ParcelCo
+ORD-00513,Shipped,2026-02-16 07:52:00,SwiftShip
+ORD-00514,Shipped,2026-01-12 06:26:00,ParcelCo
+ORD-00514,Out for Delivery,2026-01-13 12:26:00,ParcelCo
+ORD-00514,Delivered,2026-01-13 14:26:00,ParcelCo
+ORD-00515,Shipped,2026-02-22 19:14:00,ParcelCo
+ORD-00515,Out for Delivery,2026-02-23 15:14:00,ParcelCo
+ORD-00515,Delivered,2026-02-24 00:14:00,ParcelCo
+ORD-00516,Shipped,2026-02-03 15:22:00,SwiftShip
+ORD-00516,Out for Delivery,2026-02-04 19:22:00,ParcelCo
+ORD-00516,Delivered,2026-02-04 23:22:00,ParcelCo
+ORD-00517,Shipped,2026-02-22 20:56:00,ParcelCo
+ORD-00517,Out for Delivery,2026-02-23 16:56:00,ParcelCo
+ORD-00517,Delivered,2026-02-23 17:56:00,ParcelCo
+ORD-00518,Shipped,2026-02-23 05:03:00,ParcelCo
+ORD-00518,Out for Delivery,2026-02-24 08:03:00,ParcelCo
+ORD-00518,Delivered,2026-02-24 14:03:00,ParcelCo
+ORD-00519,Shipped,2026-02-10 23:02:00,ParcelCo
+ORD-00519,Out for Delivery,2026-02-12 10:02:00,ParcelCo
+ORD-00519,Delivered,2026-02-12 16:02:00,ParcelCo
+ORD-00520,Shipped,2026-01-10 12:31:00,SwiftShip
+ORD-00520,Out for Delivery,2026-01-11 15:31:00,ParcelCo
+ORD-00520,Delivered,2026-01-11 23:31:00,ParcelCo
+ORD-00521,Shipped,2026-01-14 00:08:00,SwiftShip
+ORD-00521,Out for Delivery,2026-01-14 19:08:00,ParcelCo
+ORD-00521,Delivered,2026-01-14 23:08:00,ParcelCo
+ORD-00522,Shipped,2026-02-15 12:32:00,ParcelCo
+ORD-00522,Out for Delivery,2026-02-18 01:32:00,ParcelCo
+ORD-00522,Delivered,2026-02-18 09:32:00,ParcelCo
+ORD-00523,Shipped,2026-01-11 01:36:00,ParcelCo
+ORD-00523,Out for Delivery,2026-01-11 15:36:00,ParcelCo
+ORD-00523,Delivered,2026-01-11 18:36:00,ParcelCo
+ORD-00524,Shipped,2026-02-26 15:50:00,ParcelCo
+ORD-00524,Out for Delivery,2026-02-27 04:50:00,ParcelCo
+ORD-00524,Delivered,2026-02-27 10:50:00,ParcelCo
+ORD-00525,Shipped,2026-01-25 11:26:00,SwiftShip
+ORD-00525,Out for Delivery,2026-01-26 15:26:00,ParcelCo
+ORD-00525,Delivered,2026-01-27 00:26:00,ParcelCo
+ORD-00526,Shipped,2026-02-23 13:18:00,SwiftShip
+ORD-00526,Out for Delivery,2026-02-24 20:18:00,ParcelCo
+ORD-00526,Delivered,2026-02-25 02:18:00,ParcelCo
+ORD-00528,Shipped,2026-01-28 21:58:00,ParcelCo
+ORD-00528,Out for Delivery,2026-01-29 20:58:00,ParcelCo
+ORD-00528,Delivered,2026-01-29 23:58:00,ParcelCo
+ORD-00529,Shipped,2026-02-24 20:58:00,SwiftShip
+ORD-00529,Out for Delivery,2026-02-25 22:58:00,ParcelCo
+ORD-00529,Delivered,2026-02-26 01:58:00,ParcelCo
+ORD-00530,Shipped,2026-03-01 20:06:00,SwiftShip
+ORD-00530,Out for Delivery,2026-03-02 17:06:00,ParcelCo
+ORD-00530,Delivered,2026-03-03 01:06:00,ParcelCo
+ORD-00531,Shipped,2026-02-15 08:09:00,SwiftShip
+ORD-00531,Out for Delivery,2026-02-18 02:09:00,ParcelCo
+ORD-00531,Delivered,2026-02-18 12:09:00,ParcelCo
+ORD-00532,Shipped,2026-01-09 11:50:00,SwiftShip
+ORD-00533,Shipped,2026-02-02 22:19:00,ParcelCo
+ORD-00533,Out for Delivery,2026-02-04 00:19:00,ParcelCo
+ORD-00533,Delivered,2026-02-04 04:19:00,ParcelCo
+ORD-00534,Shipped,2026-01-08 18:58:00,SwiftShip
+ORD-00534,Out for Delivery,2026-01-09 03:58:00,ParcelCo
+ORD-00534,Delivered,2026-01-09 08:58:00,ParcelCo
+ORD-00535,Shipped,2026-01-20 03:25:00,ParcelCo
+ORD-00535,Out for Delivery,2026-01-21 02:25:00,ParcelCo
+ORD-00535,Delivered,2026-01-21 09:25:00,ParcelCo
+ORD-00536,Shipped,2026-02-10 21:06:00,ParcelCo
+ORD-00536,Out for Delivery,2026-02-11 13:06:00,ParcelCo
+ORD-00536,Delivered,2026-02-11 16:06:00,ParcelCo
+ORD-00537,Shipped,2026-02-02 22:46:00,ParcelCo
+ORD-00537,Out for Delivery,2026-02-03 13:46:00,ParcelCo
+ORD-00537,Delivered,2026-02-03 15:46:00,ParcelCo
+ORD-00538,Shipped,2026-02-15 11:38:00,ParcelCo
+ORD-00538,Out for Delivery,2026-02-16 15:38:00,ParcelCo
+ORD-00538,Delivered,2026-02-16 21:38:00,ParcelCo
+ORD-00539,Shipped,2026-01-24 20:50:00,ParcelCo
+ORD-00539,Out for Delivery,2026-01-25 05:50:00,ParcelCo
+ORD-00539,Delivered,2026-01-25 13:50:00,ParcelCo
+ORD-00540,Shipped,2026-01-21 12:50:00,SwiftShip
+ORD-00540,Out for Delivery,2026-01-25 06:50:00,ParcelCo
+ORD-00540,Delivered,2026-01-25 14:50:00,ParcelCo
+ORD-00541,Shipped,2026-02-16 13:58:00,SwiftShip
+ORD-00541,Out for Delivery,2026-02-17 17:58:00,ParcelCo
+ORD-00541,Delivered,2026-02-17 20:58:00,ParcelCo
+ORD-00542,Shipped,2026-01-21 15:29:00,SwiftShip
+ORD-00542,Out for Delivery,2026-01-22 04:29:00,ParcelCo
+ORD-00542,Delivered,2026-01-22 12:29:00,ParcelCo
+ORD-00543,Shipped,2026-01-17 20:20:00,SwiftShip
+ORD-00543,Out for Delivery,2026-01-18 13:20:00,ParcelCo
+ORD-00543,Delivered,2026-01-18 23:20:00,ParcelCo
+ORD-00545,Shipped,2026-01-15 16:08:00,ParcelCo
+ORD-00545,Out for Delivery,2026-01-16 01:08:00,ParcelCo
+ORD-00545,Delivered,2026-01-16 10:08:00,ParcelCo
+ORD-00546,Shipped,2026-01-10 16:05:00,SwiftShip
+ORD-00546,Out for Delivery,2026-01-11 21:05:00,ParcelCo
+ORD-00546,Delivered,2026-01-11 23:05:00,ParcelCo
+ORD-00547,Shipped,2026-01-31 11:46:00,ParcelCo
+ORD-00547,Out for Delivery,2026-02-01 13:46:00,ParcelCo
+ORD-00547,Delivered,2026-02-01 14:46:00,ParcelCo
+ORD-00548,Shipped,2026-02-03 23:33:00,ParcelCo
+ORD-00548,Out for Delivery,2026-02-04 22:33:00,ParcelCo
+ORD-00548,Delivered,2026-02-05 01:33:00,ParcelCo
+ORD-00549,Shipped,2026-02-19 13:27:00,SwiftShip
+ORD-00549,Out for Delivery,2026-02-23 10:27:00,ParcelCo
+ORD-00549,Delivered,2026-02-23 20:27:00,ParcelCo
+ORD-00550,Shipped,2026-02-19 04:53:00,SwiftShip
+ORD-00550,Out for Delivery,2026-02-20 12:53:00,ParcelCo
+ORD-00550,Delivered,2026-02-20 19:53:00,ParcelCo
+ORD-00551,Shipped,2026-01-23 18:33:00,SwiftShip
+ORD-00552,Shipped,2026-02-17 18:52:00,SwiftShip
+ORD-00552,Out for Delivery,2026-02-19 03:52:00,ParcelCo
+ORD-00552,Delivered,2026-02-19 13:52:00,ParcelCo
+ORD-00553,Shipped,2026-01-18 04:44:00,SwiftShip
+ORD-00553,Out for Delivery,2026-01-19 14:44:00,ParcelCo
+ORD-00553,Delivered,2026-01-19 16:44:00,ParcelCo
+ORD-00554,Shipped,2026-02-26 01:06:00,SwiftShip
+ORD-00554,Out for Delivery,2026-02-27 10:06:00,ParcelCo
+ORD-00554,Delivered,2026-02-27 13:06:00,ParcelCo
+ORD-00555,Shipped,2026-01-21 08:10:00,ParcelCo
+ORD-00555,Out for Delivery,2026-01-22 05:10:00,ParcelCo
+ORD-00555,Delivered,2026-01-22 08:10:00,ParcelCo
+ORD-00556,Shipped,2026-02-08 01:50:00,ParcelCo
+ORD-00556,Out for Delivery,2026-02-08 21:50:00,ParcelCo
+ORD-00556,Delivered,2026-02-09 00:50:00,ParcelCo
+ORD-00557,Shipped,2026-02-05 02:47:00,ParcelCo
+ORD-00557,Out for Delivery,2026-02-06 03:47:00,ParcelCo
+ORD-00557,Delivered,2026-02-06 05:47:00,ParcelCo
+ORD-00558,Shipped,2026-02-17 23:46:00,SwiftShip
+ORD-00558,Out for Delivery,2026-02-20 05:46:00,ParcelCo
+ORD-00558,Delivered,2026-02-20 06:46:00,ParcelCo
+ORD-00559,Shipped,2026-01-13 15:15:00,SwiftShip
+ORD-00559,Out for Delivery,2026-01-14 14:15:00,ParcelCo
+ORD-00559,Delivered,2026-01-14 15:15:00,ParcelCo
+ORD-00560,Shipped,2026-02-16 11:54:00,ParcelCo
+ORD-00560,Out for Delivery,2026-02-17 21:54:00,ParcelCo
+ORD-00560,Delivered,2026-02-18 06:54:00,ParcelCo
+ORD-00562,Shipped,2026-03-01 20:15:00,SwiftShip
+ORD-00562,Out for Delivery,2026-03-02 09:15:00,ParcelCo
+ORD-00562,Delivered,2026-03-02 14:15:00,ParcelCo
+ORD-00563,Shipped,2026-01-14 07:02:00,SwiftShip
+ORD-00563,Out for Delivery,2026-01-14 19:02:00,ParcelCo
+ORD-00563,Delivered,2026-01-15 00:02:00,ParcelCo
+ORD-00564,Shipped,2026-02-16 08:15:00,SwiftShip
+ORD-00564,Out for Delivery,2026-02-17 15:15:00,ParcelCo
+ORD-00564,Delivered,2026-02-18 00:15:00,ParcelCo
+ORD-00565,Shipped,2026-01-27 07:04:00,SwiftShip
+ORD-00565,Out for Delivery,2026-01-28 09:04:00,ParcelCo
+ORD-00565,Delivered,2026-01-28 16:04:00,ParcelCo
+ORD-00566,Shipped,2026-01-23 15:06:00,ParcelCo
+ORD-00566,Out for Delivery,2026-01-24 13:06:00,ParcelCo
+ORD-00566,Delivered,2026-01-24 21:06:00,ParcelCo
+ORD-00567,Shipped,2026-01-29 06:21:00,ParcelCo
+ORD-00567,Out for Delivery,2026-02-01 19:21:00,ParcelCo
+ORD-00567,Delivered,2026-02-02 03:21:00,ParcelCo
+ORD-00568,Shipped,2026-02-26 01:24:00,ParcelCo
+ORD-00568,Out for Delivery,2026-02-26 16:24:00,ParcelCo
+ORD-00568,Delivered,2026-02-27 00:24:00,ParcelCo
+ORD-00569,Shipped,2026-02-17 04:37:00,SwiftShip
+ORD-00569,Out for Delivery,2026-02-18 14:37:00,ParcelCo
+ORD-00569,Delivered,2026-02-19 00:37:00,ParcelCo
+ORD-00570,Shipped,2026-02-15 04:57:00,ParcelCo
+ORD-00571,Shipped,2026-02-10 00:48:00,ParcelCo
+ORD-00571,Out for Delivery,2026-02-11 01:48:00,ParcelCo
+ORD-00571,Delivered,2026-02-11 11:48:00,ParcelCo
+ORD-00572,Shipped,2026-02-09 11:48:00,ParcelCo
+ORD-00572,Out for Delivery,2026-02-10 05:48:00,ParcelCo
+ORD-00572,Delivered,2026-02-10 07:48:00,ParcelCo
+ORD-00573,Shipped,2026-02-20 06:25:00,SwiftShip
+ORD-00573,Out for Delivery,2026-02-20 16:25:00,ParcelCo
+ORD-00573,Delivered,2026-02-20 17:25:00,ParcelCo
+ORD-00574,Shipped,2026-02-17 07:43:00,ParcelCo
+ORD-00574,Out for Delivery,2026-02-17 15:43:00,ParcelCo
+ORD-00574,Delivered,2026-02-17 17:43:00,ParcelCo
+ORD-00575,Shipped,2026-02-02 20:52:00,SwiftShip
+ORD-00575,Out for Delivery,2026-02-03 23:52:00,ParcelCo
+ORD-00575,Delivered,2026-02-04 07:52:00,ParcelCo
+ORD-00576,Shipped,2026-01-30 23:41:00,SwiftShip
+ORD-00576,Out for Delivery,2026-02-03 05:41:00,ParcelCo
+ORD-00576,Delivered,2026-02-03 08:41:00,ParcelCo
+ORD-00577,Shipped,2026-02-11 03:18:00,ParcelCo
+ORD-00577,Out for Delivery,2026-02-12 13:18:00,ParcelCo
+ORD-00577,Delivered,2026-02-12 23:18:00,ParcelCo
+ORD-00579,Shipped,2026-01-06 14:13:00,SwiftShip
+ORD-00579,Out for Delivery,2026-01-07 16:13:00,ParcelCo
+ORD-00579,Delivered,2026-01-07 22:13:00,ParcelCo
+ORD-00580,Shipped,2026-01-21 12:50:00,ParcelCo
+ORD-00580,Out for Delivery,2026-01-22 18:50:00,ParcelCo
+ORD-00580,Delivered,2026-01-22 23:50:00,ParcelCo
+ORD-00581,Shipped,2026-02-12 20:04:00,ParcelCo
+ORD-00581,Out for Delivery,2026-02-13 05:04:00,ParcelCo
+ORD-00581,Delivered,2026-02-13 12:04:00,ParcelCo
+ORD-00582,Shipped,2026-01-28 22:41:00,SwiftShip
+ORD-00582,Out for Delivery,2026-01-30 01:41:00,ParcelCo
+ORD-00582,Delivered,2026-01-30 05:41:00,ParcelCo
+ORD-00583,Shipped,2026-01-27 18:35:00,ParcelCo
+ORD-00583,Out for Delivery,2026-01-29 02:35:00,ParcelCo
+ORD-00583,Delivered,2026-01-29 04:35:00,ParcelCo
+ORD-00584,Shipped,2026-02-05 21:42:00,ParcelCo
+ORD-00584,Out for Delivery,2026-02-06 21:42:00,ParcelCo
+ORD-00584,Delivered,2026-02-07 05:42:00,ParcelCo
+ORD-00585,Shipped,2026-01-31 04:25:00,ParcelCo
+ORD-00585,Out for Delivery,2026-02-03 12:25:00,ParcelCo
+ORD-00585,Delivered,2026-02-03 20:25:00,ParcelCo
+ORD-00586,Shipped,2026-02-28 20:08:00,SwiftShip
+ORD-00586,Out for Delivery,2026-03-01 21:08:00,ParcelCo
+ORD-00586,Delivered,2026-03-02 00:08:00,ParcelCo
+ORD-00587,Shipped,2026-01-27 03:21:00,ParcelCo
+ORD-00587,Out for Delivery,2026-01-28 00:21:00,ParcelCo
+ORD-00587,Delivered,2026-01-28 06:21:00,ParcelCo
+ORD-00588,Shipped,2026-02-05 03:15:00,SwiftShip
+ORD-00588,Out for Delivery,2026-02-06 13:15:00,ParcelCo
+ORD-00588,Delivered,2026-02-06 19:15:00,ParcelCo
+ORD-00589,Shipped,2026-02-19 01:38:00,SwiftShip
+ORD-00590,Shipped,2026-01-12 23:55:00,ParcelCo
+ORD-00590,Out for Delivery,2026-01-14 09:55:00,ParcelCo
+ORD-00590,Delivered,2026-01-14 14:55:00,ParcelCo
+ORD-00591,Shipped,2026-01-27 22:45:00,SwiftShip
+ORD-00591,Out for Delivery,2026-01-29 04:45:00,ParcelCo
+ORD-00591,Delivered,2026-01-29 10:45:00,ParcelCo
+ORD-00592,Shipped,2026-02-27 20:07:00,SwiftShip
+ORD-00592,Out for Delivery,2026-02-28 08:07:00,ParcelCo
+ORD-00592,Delivered,2026-02-28 12:07:00,ParcelCo
+ORD-00593,Shipped,2026-01-22 15:40:00,ParcelCo
+ORD-00593,Out for Delivery,2026-01-23 12:40:00,ParcelCo
+ORD-00593,Delivered,2026-01-23 15:40:00,ParcelCo
+ORD-00594,Shipped,2026-02-07 11:39:00,ParcelCo
+ORD-00594,Out for Delivery,2026-02-09 17:39:00,ParcelCo
+ORD-00594,Delivered,2026-02-10 01:39:00,ParcelCo
+ORD-00596,Shipped,2026-03-01 19:41:00,SwiftShip
+ORD-00596,Out for Delivery,2026-03-03 06:41:00,ParcelCo
+ORD-00596,Delivered,2026-03-03 10:41:00,ParcelCo
+ORD-00597,Shipped,2026-01-15 06:04:00,SwiftShip
+ORD-00597,Out for Delivery,2026-01-16 09:04:00,ParcelCo
+ORD-00597,Delivered,2026-01-16 17:04:00,ParcelCo
+ORD-00598,Shipped,2026-03-01 11:09:00,ParcelCo
+ORD-00598,Out for Delivery,2026-03-02 22:09:00,ParcelCo
+ORD-00598,Delivered,2026-03-03 00:09:00,ParcelCo
+ORD-00599,Shipped,2026-01-29 00:24:00,ParcelCo
+ORD-00599,Out for Delivery,2026-01-30 11:24:00,ParcelCo
+ORD-00599,Delivered,2026-01-30 12:24:00,ParcelCo
+ORD-00600,Shipped,2026-01-10 11:12:00,SwiftShip
+ORD-00600,Out for Delivery,2026-01-10 21:12:00,ParcelCo
+ORD-00600,Delivered,2026-01-11 07:12:00,ParcelCo
+ORD-00601,Shipped,2026-01-09 09:56:00,ParcelCo
+ORD-00601,Out for Delivery,2026-01-10 03:56:00,ParcelCo
+ORD-00601,Delivered,2026-01-10 10:56:00,ParcelCo
+ORD-00602,Shipped,2026-02-02 15:38:00,SwiftShip
+ORD-00602,Out for Delivery,2026-02-03 10:38:00,ParcelCo
+ORD-00602,Delivered,2026-02-03 15:38:00,ParcelCo
+ORD-00603,Shipped,2026-02-04 04:33:00,SwiftShip
+ORD-00603,Out for Delivery,2026-02-06 17:33:00,ParcelCo
+ORD-00603,Delivered,2026-02-06 20:33:00,ParcelCo
+ORD-00604,Shipped,2026-02-21 15:18:00,ParcelCo
+ORD-00604,Out for Delivery,2026-02-22 20:18:00,ParcelCo
+ORD-00604,Delivered,2026-02-22 21:18:00,ParcelCo
+ORD-00605,Shipped,2026-02-04 19:51:00,ParcelCo
+ORD-00605,Out for Delivery,2026-02-05 21:51:00,ParcelCo
+ORD-00605,Delivered,2026-02-05 22:51:00,ParcelCo
+ORD-00606,Shipped,2026-01-27 09:41:00,ParcelCo
+ORD-00606,Out for Delivery,2026-01-27 19:41:00,ParcelCo
+ORD-00606,Delivered,2026-01-27 22:41:00,ParcelCo
+ORD-00607,Shipped,2026-02-24 19:07:00,SwiftShip
+ORD-00607,Out for Delivery,2026-02-26 02:07:00,ParcelCo
+ORD-00607,Delivered,2026-02-26 03:07:00,ParcelCo
+ORD-00608,Shipped,2026-02-25 12:42:00,SwiftShip
+ORD-00609,Shipped,2026-02-01 19:56:00,SwiftShip
+ORD-00609,Out for Delivery,2026-02-03 06:56:00,ParcelCo
+ORD-00609,Delivered,2026-02-03 08:56:00,ParcelCo
+ORD-00610,Shipped,2026-02-08 16:26:00,ParcelCo
+ORD-00610,Out for Delivery,2026-02-09 22:26:00,ParcelCo
+ORD-00610,Delivered,2026-02-10 00:26:00,ParcelCo
+ORD-00611,Shipped,2026-01-28 09:40:00,ParcelCo
+ORD-00611,Out for Delivery,2026-01-29 00:40:00,ParcelCo
+ORD-00611,Delivered,2026-01-29 06:40:00,ParcelCo
+ORD-00613,Shipped,2026-01-30 02:46:00,SwiftShip
+ORD-00613,Out for Delivery,2026-01-31 10:46:00,ParcelCo
+ORD-00613,Delivered,2026-01-31 17:46:00,ParcelCo
+ORD-00614,Shipped,2026-02-12 05:54:00,ParcelCo
+ORD-00614,Out for Delivery,2026-02-12 23:54:00,ParcelCo
+ORD-00614,Delivered,2026-02-13 00:54:00,ParcelCo
+ORD-00615,Shipped,2026-01-28 23:29:00,SwiftShip
+ORD-00615,Out for Delivery,2026-01-30 05:29:00,ParcelCo
+ORD-00615,Delivered,2026-01-30 07:29:00,ParcelCo
+ORD-00616,Shipped,2026-02-27 09:25:00,SwiftShip
+ORD-00616,Out for Delivery,2026-02-28 16:25:00,ParcelCo
+ORD-00616,Delivered,2026-02-28 19:25:00,ParcelCo
+ORD-00617,Shipped,2026-02-23 15:03:00,ParcelCo
+ORD-00617,Out for Delivery,2026-02-24 01:03:00,ParcelCo
+ORD-00617,Delivered,2026-02-24 02:03:00,ParcelCo
+ORD-00618,Shipped,2026-01-11 11:12:00,SwiftShip
+ORD-00618,Out for Delivery,2026-01-12 10:12:00,ParcelCo
+ORD-00618,Delivered,2026-01-12 20:12:00,ParcelCo
+ORD-00619,Shipped,2026-02-17 07:10:00,ParcelCo
+ORD-00619,Out for Delivery,2026-02-18 17:10:00,ParcelCo
+ORD-00619,Delivered,2026-02-18 21:10:00,ParcelCo
+ORD-00620,Shipped,2026-01-22 01:07:00,ParcelCo
+ORD-00620,Out for Delivery,2026-01-23 12:07:00,ParcelCo
+ORD-00620,Delivered,2026-01-23 21:07:00,ParcelCo
+ORD-00621,Shipped,2026-01-12 12:04:00,ParcelCo
+ORD-00621,Out for Delivery,2026-01-14 14:04:00,ParcelCo
+ORD-00621,Delivered,2026-01-14 22:04:00,ParcelCo
+ORD-00622,Shipped,2026-01-18 22:56:00,ParcelCo
+ORD-00622,Out for Delivery,2026-01-20 05:56:00,ParcelCo
+ORD-00622,Delivered,2026-01-20 06:56:00,ParcelCo
+ORD-00623,Shipped,2026-02-10 06:30:00,ParcelCo
+ORD-00623,Out for Delivery,2026-02-10 18:30:00,ParcelCo
+ORD-00623,Delivered,2026-02-10 21:30:00,ParcelCo
+ORD-00624,Shipped,2026-01-07 00:03:00,ParcelCo
+ORD-00624,Out for Delivery,2026-01-07 20:03:00,ParcelCo
+ORD-00624,Delivered,2026-01-08 03:03:00,ParcelCo
+ORD-00625,Shipped,2026-02-27 16:33:00,ParcelCo
+ORD-00625,Out for Delivery,2026-02-28 01:33:00,ParcelCo
+ORD-00625,Delivered,2026-02-28 05:33:00,ParcelCo
+ORD-00626,Shipped,2026-01-06 15:52:00,ParcelCo
+ORD-00626,Out for Delivery,2026-01-07 20:52:00,ParcelCo
+ORD-00626,Delivered,2026-01-08 04:52:00,ParcelCo
+ORD-00627,Shipped,2026-01-30 14:28:00,ParcelCo
+ORD-00628,Shipped,2026-01-25 23:08:00,SwiftShip
+ORD-00628,Out for Delivery,2026-01-26 08:08:00,ParcelCo
+ORD-00628,Delivered,2026-01-26 16:08:00,ParcelCo
+ORD-00630,Shipped,2026-02-20 17:46:00,SwiftShip
+ORD-00630,Out for Delivery,2026-02-23 04:46:00,ParcelCo
+ORD-00630,Delivered,2026-02-23 09:46:00,ParcelCo
+ORD-00631,Shipped,2026-02-27 04:16:00,ParcelCo
+ORD-00631,Out for Delivery,2026-02-28 04:16:00,ParcelCo
+ORD-00631,Delivered,2026-02-28 07:16:00,ParcelCo
+ORD-00632,Shipped,2026-01-15 14:07:00,ParcelCo
+ORD-00632,Out for Delivery,2026-01-16 18:07:00,ParcelCo
+ORD-00632,Delivered,2026-01-17 00:07:00,ParcelCo
+ORD-00633,Shipped,2026-01-11 04:33:00,ParcelCo
+ORD-00633,Out for Delivery,2026-01-12 05:33:00,ParcelCo
+ORD-00633,Delivered,2026-01-12 09:33:00,ParcelCo
+ORD-00634,Shipped,2026-01-23 00:43:00,SwiftShip
+ORD-00634,Out for Delivery,2026-01-23 09:43:00,ParcelCo
+ORD-00634,Delivered,2026-01-23 16:43:00,ParcelCo
+ORD-00635,Shipped,2026-01-20 08:46:00,ParcelCo
+ORD-00635,Out for Delivery,2026-01-21 06:46:00,ParcelCo
+ORD-00635,Delivered,2026-01-21 11:46:00,ParcelCo
+ORD-00636,Shipped,2026-01-15 02:03:00,ParcelCo
+ORD-00636,Out for Delivery,2026-01-16 04:03:00,ParcelCo
+ORD-00636,Delivered,2026-01-16 13:03:00,ParcelCo
+ORD-00637,Shipped,2026-02-02 19:14:00,SwiftShip
+ORD-00637,Out for Delivery,2026-02-04 00:14:00,ParcelCo
+ORD-00637,Delivered,2026-02-04 05:14:00,ParcelCo
+ORD-00638,Shipped,2026-02-24 20:09:00,SwiftShip
+ORD-00638,Out for Delivery,2026-02-26 05:09:00,ParcelCo
+ORD-00638,Delivered,2026-02-26 09:09:00,ParcelCo
+ORD-00639,Shipped,2026-02-06 23:41:00,SwiftShip
+ORD-00639,Out for Delivery,2026-02-10 07:41:00,ParcelCo
+ORD-00639,Delivered,2026-02-10 10:41:00,ParcelCo
+ORD-00640,Shipped,2026-02-21 23:27:00,ParcelCo
+ORD-00640,Out for Delivery,2026-02-23 06:27:00,ParcelCo
+ORD-00640,Delivered,2026-02-23 11:27:00,ParcelCo
+ORD-00641,Shipped,2026-02-05 15:50:00,ParcelCo
+ORD-00641,Out for Delivery,2026-02-05 23:50:00,ParcelCo
+ORD-00641,Delivered,2026-02-06 02:50:00,ParcelCo
+ORD-00642,Shipped,2026-02-05 11:15:00,ParcelCo
+ORD-00642,Out for Delivery,2026-02-06 11:15:00,ParcelCo
+ORD-00642,Delivered,2026-02-06 15:15:00,ParcelCo
+ORD-00643,Shipped,2026-01-18 03:55:00,SwiftShip
+ORD-00643,Out for Delivery,2026-01-19 12:55:00,ParcelCo
+ORD-00643,Delivered,2026-01-19 17:55:00,ParcelCo
+ORD-00644,Shipped,2026-02-18 23:32:00,SwiftShip
+ORD-00644,Out for Delivery,2026-02-19 20:32:00,ParcelCo
+ORD-00644,Delivered,2026-02-20 00:32:00,ParcelCo
+ORD-00645,Shipped,2026-02-11 10:46:00,SwiftShip
+ORD-00645,Out for Delivery,2026-02-12 18:46:00,ParcelCo
+ORD-00645,Delivered,2026-02-13 03:46:00,ParcelCo
+ORD-00647,Shipped,2026-01-25 00:05:00,ParcelCo
+ORD-00647,Out for Delivery,2026-01-26 09:05:00,ParcelCo
+ORD-00647,Delivered,2026-01-26 19:05:00,ParcelCo
+ORD-00648,Shipped,2026-02-28 17:17:00,ParcelCo
+ORD-00648,Out for Delivery,2026-03-04 08:17:00,ParcelCo
+ORD-00648,Delivered,2026-03-04 13:17:00,ParcelCo
+ORD-00649,Shipped,2026-02-11 00:48:00,SwiftShip
+ORD-00649,Out for Delivery,2026-02-11 15:48:00,ParcelCo
+ORD-00649,Delivered,2026-02-11 18:48:00,ParcelCo
+ORD-00650,Shipped,2026-02-15 07:43:00,ParcelCo
+ORD-00650,Out for Delivery,2026-02-16 16:43:00,ParcelCo
+ORD-00650,Delivered,2026-02-16 17:43:00,ParcelCo
+ORD-00651,Shipped,2026-02-03 06:01:00,ParcelCo
+ORD-00651,Out for Delivery,2026-02-03 17:01:00,ParcelCo
+ORD-00651,Delivered,2026-02-03 18:01:00,ParcelCo
+ORD-00652,Shipped,2026-02-26 04:01:00,SwiftShip
+ORD-00652,Out for Delivery,2026-02-26 15:01:00,ParcelCo
+ORD-00652,Delivered,2026-02-26 20:01:00,ParcelCo
+ORD-00653,Shipped,2026-01-12 05:58:00,SwiftShip
+ORD-00653,Out for Delivery,2026-01-13 01:58:00,ParcelCo
+ORD-00653,Delivered,2026-01-13 10:58:00,ParcelCo
+ORD-00654,Shipped,2026-02-27 06:17:00,ParcelCo
+ORD-00654,Out for Delivery,2026-02-28 17:17:00,ParcelCo
+ORD-00654,Delivered,2026-02-28 19:17:00,ParcelCo
+ORD-00655,Shipped,2026-01-25 01:49:00,SwiftShip
+ORD-00655,Out for Delivery,2026-01-26 07:49:00,ParcelCo
+ORD-00655,Delivered,2026-01-26 09:49:00,ParcelCo
+ORD-00656,Shipped,2026-02-06 02:14:00,ParcelCo
+ORD-00656,Out for Delivery,2026-02-07 08:14:00,ParcelCo
+ORD-00656,Delivered,2026-02-07 16:14:00,ParcelCo
+ORD-00657,Shipped,2026-01-24 17:54:00,SwiftShip
+ORD-00657,Out for Delivery,2026-01-27 19:54:00,ParcelCo
+ORD-00657,Delivered,2026-01-27 22:54:00,ParcelCo
+ORD-00658,Shipped,2026-02-17 20:27:00,ParcelCo
+ORD-00658,Out for Delivery,2026-02-18 19:27:00,ParcelCo
+ORD-00658,Delivered,2026-02-19 04:27:00,ParcelCo
+ORD-00659,Shipped,2026-02-25 10:47:00,ParcelCo
+ORD-00659,Out for Delivery,2026-02-25 19:47:00,ParcelCo
+ORD-00659,Delivered,2026-02-25 20:47:00,ParcelCo
+ORD-00660,Shipped,2026-02-23 12:03:00,SwiftShip
+ORD-00660,Out for Delivery,2026-02-23 23:03:00,ParcelCo
+ORD-00660,Delivered,2026-02-24 05:03:00,ParcelCo
+ORD-00661,Shipped,2026-01-20 14:53:00,SwiftShip
+ORD-00661,Out for Delivery,2026-01-21 02:53:00,ParcelCo
+ORD-00661,Delivered,2026-01-21 11:53:00,ParcelCo
+ORD-00662,Shipped,2026-02-25 06:54:00,SwiftShip
+ORD-00662,Out for Delivery,2026-02-25 19:54:00,ParcelCo
+ORD-00662,Delivered,2026-02-26 00:54:00,ParcelCo
+ORD-00664,Shipped,2026-02-07 06:34:00,SwiftShip
+ORD-00664,Out for Delivery,2026-02-07 22:34:00,ParcelCo
+ORD-00664,Delivered,2026-02-08 08:34:00,ParcelCo
+ORD-00665,Shipped,2026-02-19 19:56:00,SwiftShip
+ORD-00666,Shipped,2026-01-16 14:08:00,SwiftShip
+ORD-00666,Out for Delivery,2026-01-18 15:08:00,ParcelCo
+ORD-00666,Delivered,2026-01-19 01:08:00,ParcelCo
+ORD-00667,Shipped,2026-02-26 20:20:00,SwiftShip
+ORD-00667,Out for Delivery,2026-02-27 16:20:00,ParcelCo
+ORD-00667,Delivered,2026-02-27 17:20:00,ParcelCo
+ORD-00668,Shipped,2026-02-13 21:56:00,SwiftShip
+ORD-00668,Out for Delivery,2026-02-14 19:56:00,ParcelCo
+ORD-00668,Delivered,2026-02-15 04:56:00,ParcelCo
+ORD-00669,Shipped,2026-02-20 22:30:00,ParcelCo
+ORD-00669,Out for Delivery,2026-02-21 23:30:00,ParcelCo
+ORD-00669,Delivered,2026-02-22 05:30:00,ParcelCo
+ORD-00670,Shipped,2026-02-23 21:46:00,SwiftShip
+ORD-00670,Out for Delivery,2026-02-24 06:46:00,ParcelCo
+ORD-00670,Delivered,2026-02-24 10:46:00,ParcelCo
+ORD-00671,Shipped,2026-02-22 02:54:00,SwiftShip
+ORD-00671,Out for Delivery,2026-02-23 09:54:00,ParcelCo
+ORD-00671,Delivered,2026-02-23 16:54:00,ParcelCo
+ORD-00672,Shipped,2026-02-06 12:26:00,SwiftShip
+ORD-00672,Out for Delivery,2026-02-07 15:26:00,ParcelCo
+ORD-00672,Delivered,2026-02-07 17:26:00,ParcelCo
+ORD-00673,Shipped,2026-02-05 09:42:00,ParcelCo
+ORD-00673,Out for Delivery,2026-02-06 13:42:00,ParcelCo
+ORD-00673,Delivered,2026-02-06 14:42:00,ParcelCo
+ORD-00674,Shipped,2026-02-24 11:48:00,SwiftShip
+ORD-00674,Out for Delivery,2026-02-25 15:48:00,ParcelCo
+ORD-00674,Delivered,2026-02-25 17:48:00,ParcelCo
+ORD-00675,Shipped,2026-01-16 20:13:00,ParcelCo
+ORD-00675,Out for Delivery,2026-01-19 18:13:00,ParcelCo
+ORD-00675,Delivered,2026-01-19 21:13:00,ParcelCo
+ORD-00676,Shipped,2026-03-01 22:33:00,ParcelCo
+ORD-00676,Out for Delivery,2026-03-03 05:33:00,ParcelCo
+ORD-00676,Delivered,2026-03-03 09:33:00,ParcelCo
+ORD-00677,Shipped,2026-01-26 22:00:00,SwiftShip
+ORD-00677,Out for Delivery,2026-01-28 07:00:00,ParcelCo
+ORD-00677,Delivered,2026-01-28 16:00:00,ParcelCo
+ORD-00678,Shipped,2026-02-12 21:34:00,SwiftShip
+ORD-00678,Out for Delivery,2026-02-13 15:34:00,ParcelCo
+ORD-00678,Delivered,2026-02-13 20:34:00,ParcelCo
+ORD-00679,Shipped,2026-02-04 02:13:00,SwiftShip
+ORD-00679,Out for Delivery,2026-02-05 05:13:00,ParcelCo
+ORD-00679,Delivered,2026-02-05 14:13:00,ParcelCo
+ORD-00681,Shipped,2026-01-18 05:03:00,SwiftShip
+ORD-00681,Out for Delivery,2026-01-18 22:03:00,ParcelCo
+ORD-00681,Delivered,2026-01-18 23:03:00,ParcelCo
+ORD-00682,Shipped,2026-02-21 23:06:00,ParcelCo
+ORD-00682,Out for Delivery,2026-02-22 14:06:00,ParcelCo
+ORD-00682,Delivered,2026-02-22 15:06:00,ParcelCo
+ORD-00683,Shipped,2026-02-26 10:22:00,ParcelCo
+ORD-00683,Out for Delivery,2026-02-26 20:22:00,ParcelCo
+ORD-00683,Delivered,2026-02-27 00:22:00,ParcelCo
+ORD-00684,Shipped,2026-02-19 14:48:00,SwiftShip
+ORD-00685,Shipped,2026-02-16 23:33:00,ParcelCo
+ORD-00685,Out for Delivery,2026-02-17 23:33:00,ParcelCo
+ORD-00685,Delivered,2026-02-18 04:33:00,ParcelCo
+ORD-00686,Shipped,2026-01-15 08:24:00,SwiftShip
+ORD-00686,Out for Delivery,2026-01-15 18:24:00,ParcelCo
+ORD-00686,Delivered,2026-01-15 21:24:00,ParcelCo
+ORD-00687,Shipped,2026-03-01 20:59:00,SwiftShip
+ORD-00687,Out for Delivery,2026-03-02 06:59:00,ParcelCo
+ORD-00687,Delivered,2026-03-02 13:59:00,ParcelCo
+ORD-00688,Shipped,2026-01-10 22:52:00,ParcelCo
+ORD-00688,Out for Delivery,2026-01-12 05:52:00,ParcelCo
+ORD-00688,Delivered,2026-01-12 10:52:00,ParcelCo
+ORD-00689,Shipped,2026-02-15 17:03:00,SwiftShip
+ORD-00689,Out for Delivery,2026-02-16 03:03:00,ParcelCo
+ORD-00689,Delivered,2026-02-16 09:03:00,ParcelCo
+ORD-00690,Shipped,2026-01-22 09:06:00,SwiftShip
+ORD-00690,Out for Delivery,2026-01-23 03:06:00,ParcelCo
+ORD-00690,Delivered,2026-01-23 07:06:00,ParcelCo
+ORD-00691,Shipped,2026-02-16 01:01:00,ParcelCo
+ORD-00691,Out for Delivery,2026-02-16 17:01:00,ParcelCo
+ORD-00691,Delivered,2026-02-17 00:01:00,ParcelCo
+ORD-00692,Shipped,2026-02-13 05:15:00,ParcelCo
+ORD-00692,Out for Delivery,2026-02-13 20:15:00,ParcelCo
+ORD-00692,Delivered,2026-02-13 22:15:00,ParcelCo
+ORD-00693,Shipped,2026-02-08 15:07:00,ParcelCo
+ORD-00693,Out for Delivery,2026-02-12 15:07:00,ParcelCo
+ORD-00693,Delivered,2026-02-12 18:07:00,ParcelCo
+ORD-00694,Shipped,2026-02-13 19:49:00,SwiftShip
+ORD-00694,Out for Delivery,2026-02-14 14:49:00,ParcelCo
+ORD-00694,Delivered,2026-02-14 20:49:00,ParcelCo
+ORD-00695,Shipped,2026-02-08 09:42:00,ParcelCo
+ORD-00695,Out for Delivery,2026-02-09 17:42:00,ParcelCo
+ORD-00695,Delivered,2026-02-10 01:42:00,ParcelCo
+ORD-00696,Shipped,2026-02-05 20:54:00,SwiftShip
+ORD-00696,Out for Delivery,2026-02-06 22:54:00,ParcelCo
+ORD-00696,Delivered,2026-02-07 05:54:00,ParcelCo
+ORD-00698,Shipped,2026-02-02 11:17:00,SwiftShip
+ORD-00698,Out for Delivery,2026-02-03 07:17:00,ParcelCo
+ORD-00698,Delivered,2026-02-03 09:17:00,ParcelCo
+ORD-00699,Shipped,2026-01-11 02:34:00,ParcelCo
+ORD-00699,Out for Delivery,2026-01-11 23:34:00,ParcelCo
+ORD-00699,Delivered,2026-01-12 06:34:00,ParcelCo
+ORD-00700,Shipped,2026-02-02 23:04:00,ParcelCo
+ORD-00700,Out for Delivery,2026-02-04 08:04:00,ParcelCo
+ORD-00700,Delivered,2026-02-04 10:04:00,ParcelCo
+ORD-00701,Shipped,2026-02-16 06:31:00,SwiftShip
+ORD-00701,Out for Delivery,2026-02-17 13:31:00,ParcelCo
+ORD-00701,Delivered,2026-02-17 18:31:00,ParcelCo
+ORD-00702,Shipped,2026-02-26 09:10:00,SwiftShip
+ORD-00702,Out for Delivery,2026-03-01 06:10:00,ParcelCo
+ORD-00702,Delivered,2026-03-01 08:10:00,ParcelCo
+ORD-00703,Shipped,2026-02-06 03:18:00,ParcelCo
+ORD-00704,Shipped,2026-02-03 02:36:00,ParcelCo
+ORD-00704,Out for Delivery,2026-02-04 12:36:00,ParcelCo
+ORD-00704,Delivered,2026-02-04 13:36:00,ParcelCo
+ORD-00705,Shipped,2026-02-17 01:42:00,SwiftShip
+ORD-00705,Out for Delivery,2026-02-17 20:42:00,ParcelCo
+ORD-00705,Delivered,2026-02-18 02:42:00,ParcelCo
+ORD-00706,Shipped,2026-02-28 09:07:00,SwiftShip
+ORD-00706,Out for Delivery,2026-02-28 18:07:00,ParcelCo
+ORD-00706,Delivered,2026-03-01 01:07:00,ParcelCo
+ORD-00707,Shipped,2026-02-12 02:38:00,SwiftShip
+ORD-00707,Out for Delivery,2026-02-13 05:38:00,ParcelCo
+ORD-00707,Delivered,2026-02-13 09:38:00,ParcelCo
+ORD-00708,Shipped,2026-01-22 15:45:00,ParcelCo
+ORD-00708,Out for Delivery,2026-01-23 03:45:00,ParcelCo
+ORD-00708,Delivered,2026-01-23 05:45:00,ParcelCo
+ORD-00709,Shipped,2026-03-01 03:02:00,ParcelCo
+ORD-00709,Out for Delivery,2026-03-01 14:02:00,ParcelCo
+ORD-00709,Delivered,2026-03-02 00:02:00,ParcelCo
+ORD-00710,Shipped,2026-01-16 19:26:00,ParcelCo
+ORD-00710,Out for Delivery,2026-01-18 01:26:00,ParcelCo
+ORD-00710,Delivered,2026-01-18 08:26:00,ParcelCo
+ORD-00711,Shipped,2026-03-02 00:37:00,ParcelCo
+ORD-00711,Out for Delivery,2026-03-04 22:37:00,ParcelCo
+ORD-00711,Delivered,2026-03-05 05:37:00,ParcelCo
+ORD-00712,Shipped,2026-02-16 11:00:00,SwiftShip
+ORD-00712,Out for Delivery,2026-02-17 07:00:00,ParcelCo
+ORD-00712,Delivered,2026-02-17 10:00:00,ParcelCo
+ORD-00713,Shipped,2026-02-18 22:40:00,SwiftShip
+ORD-00713,Out for Delivery,2026-02-19 09:40:00,ParcelCo
+ORD-00713,Delivered,2026-02-19 13:40:00,ParcelCo
+ORD-00715,Shipped,2026-01-26 13:54:00,SwiftShip
+ORD-00715,Out for Delivery,2026-01-28 00:54:00,ParcelCo
+ORD-00715,Delivered,2026-01-28 08:54:00,ParcelCo
+ORD-00716,Shipped,2026-02-21 10:43:00,ParcelCo
+ORD-00716,Out for Delivery,2026-02-21 19:43:00,ParcelCo
+ORD-00716,Delivered,2026-02-21 20:43:00,ParcelCo
+ORD-00717,Shipped,2026-02-03 17:26:00,ParcelCo
+ORD-00717,Out for Delivery,2026-02-04 17:26:00,ParcelCo
+ORD-00717,Delivered,2026-02-05 02:26:00,ParcelCo
+ORD-00718,Shipped,2026-02-18 21:11:00,SwiftShip
+ORD-00718,Out for Delivery,2026-02-19 10:11:00,ParcelCo
+ORD-00718,Delivered,2026-02-19 13:11:00,ParcelCo
+ORD-00719,Shipped,2026-02-12 04:22:00,SwiftShip
+ORD-00719,Out for Delivery,2026-02-12 14:22:00,ParcelCo
+ORD-00719,Delivered,2026-02-12 22:22:00,ParcelCo
+ORD-00720,Shipped,2026-02-25 00:38:00,ParcelCo
+ORD-00720,Out for Delivery,2026-02-27 22:38:00,ParcelCo
+ORD-00720,Delivered,2026-02-28 05:38:00,ParcelCo
+ORD-00721,Shipped,2026-01-25 01:00:00,SwiftShip
+ORD-00721,Out for Delivery,2026-01-26 08:00:00,ParcelCo
+ORD-00721,Delivered,2026-01-26 16:00:00,ParcelCo
+ORD-00722,Shipped,2026-01-22 17:57:00,SwiftShip
+ORD-00723,Shipped,2026-02-14 13:41:00,SwiftShip
+ORD-00723,Out for Delivery,2026-02-15 21:41:00,ParcelCo
+ORD-00723,Delivered,2026-02-16 05:41:00,ParcelCo
+ORD-00724,Shipped,2026-01-14 15:19:00,SwiftShip
+ORD-00724,Out for Delivery,2026-01-16 01:19:00,ParcelCo
+ORD-00724,Delivered,2026-01-16 06:19:00,ParcelCo
+ORD-00725,Shipped,2026-01-31 00:29:00,SwiftShip
+ORD-00725,Out for Delivery,2026-01-31 22:29:00,ParcelCo
+ORD-00725,Delivered,2026-02-01 08:29:00,ParcelCo
+ORD-00726,Shipped,2026-01-24 02:33:00,SwiftShip
+ORD-00726,Out for Delivery,2026-01-25 04:33:00,ParcelCo
+ORD-00726,Delivered,2026-01-25 05:33:00,ParcelCo
+ORD-00727,Shipped,2026-01-23 03:28:00,ParcelCo
+ORD-00727,Out for Delivery,2026-01-23 23:28:00,ParcelCo
+ORD-00727,Delivered,2026-01-24 03:28:00,ParcelCo
+ORD-00728,Shipped,2026-02-18 09:51:00,ParcelCo
+ORD-00728,Out for Delivery,2026-02-18 23:51:00,ParcelCo
+ORD-00728,Delivered,2026-02-19 04:51:00,ParcelCo
+ORD-00729,Shipped,2026-01-20 13:31:00,SwiftShip
+ORD-00729,Out for Delivery,2026-01-22 14:31:00,ParcelCo
+ORD-00729,Delivered,2026-01-22 18:31:00,ParcelCo
+ORD-00730,Shipped,2026-01-10 15:50:00,ParcelCo
+ORD-00730,Out for Delivery,2026-01-11 11:50:00,ParcelCo
+ORD-00730,Delivered,2026-01-11 13:50:00,ParcelCo
+ORD-00732,Shipped,2026-01-10 15:46:00,SwiftShip
+ORD-00732,Out for Delivery,2026-01-11 18:46:00,ParcelCo
+ORD-00732,Delivered,2026-01-12 03:46:00,ParcelCo
+ORD-00733,Shipped,2026-01-21 13:09:00,SwiftShip
+ORD-00733,Out for Delivery,2026-01-22 02:09:00,ParcelCo
+ORD-00733,Delivered,2026-01-22 10:09:00,ParcelCo
+ORD-00734,Shipped,2026-01-15 20:09:00,SwiftShip
+ORD-00734,Out for Delivery,2026-01-16 08:09:00,ParcelCo
+ORD-00734,Delivered,2026-01-16 16:09:00,ParcelCo
+ORD-00735,Shipped,2026-01-08 05:51:00,SwiftShip
+ORD-00735,Out for Delivery,2026-01-08 19:51:00,ParcelCo
+ORD-00735,Delivered,2026-01-08 21:51:00,ParcelCo
+ORD-00736,Shipped,2026-01-29 11:33:00,ParcelCo
+ORD-00736,Out for Delivery,2026-01-30 08:33:00,ParcelCo
+ORD-00736,Delivered,2026-01-30 13:33:00,ParcelCo
+ORD-00737,Shipped,2026-01-27 18:41:00,ParcelCo
+ORD-00737,Out for Delivery,2026-01-28 11:41:00,ParcelCo
+ORD-00737,Delivered,2026-01-28 13:41:00,ParcelCo
+ORD-00738,Shipped,2026-02-06 08:01:00,SwiftShip
+ORD-00738,Out for Delivery,2026-02-08 12:01:00,ParcelCo
+ORD-00738,Delivered,2026-02-08 20:01:00,ParcelCo
+ORD-00739,Shipped,2026-01-26 20:52:00,ParcelCo
+ORD-00739,Out for Delivery,2026-01-27 16:52:00,ParcelCo
+ORD-00739,Delivered,2026-01-28 01:52:00,ParcelCo
+ORD-00740,Shipped,2026-02-14 01:04:00,ParcelCo
+ORD-00740,Out for Delivery,2026-02-14 17:04:00,ParcelCo
+ORD-00740,Delivered,2026-02-14 19:04:00,ParcelCo
+ORD-00741,Shipped,2026-01-07 03:42:00,SwiftShip
+ORD-00742,Shipped,2026-02-12 19:42:00,SwiftShip
+ORD-00742,Out for Delivery,2026-02-14 06:42:00,ParcelCo
+ORD-00742,Delivered,2026-02-14 11:42:00,ParcelCo
+ORD-00743,Shipped,2026-02-02 14:58:00,SwiftShip
+ORD-00743,Out for Delivery,2026-02-03 02:58:00,ParcelCo
+ORD-00743,Delivered,2026-02-03 08:58:00,ParcelCo
+ORD-00744,Shipped,2026-01-08 20:34:00,SwiftShip
+ORD-00744,Out for Delivery,2026-01-10 00:34:00,ParcelCo
+ORD-00744,Delivered,2026-01-10 09:34:00,ParcelCo
+ORD-00745,Shipped,2026-02-13 06:39:00,ParcelCo
+ORD-00745,Out for Delivery,2026-02-14 11:39:00,ParcelCo
+ORD-00745,Delivered,2026-02-14 16:39:00,ParcelCo
+ORD-00746,Shipped,2026-01-20 11:22:00,ParcelCo
+ORD-00746,Out for Delivery,2026-01-21 20:22:00,ParcelCo
+ORD-00746,Delivered,2026-01-22 03:22:00,ParcelCo
+ORD-00747,Shipped,2026-02-07 22:45:00,SwiftShip
+ORD-00747,Out for Delivery,2026-02-11 00:45:00,ParcelCo
+ORD-00747,Delivered,2026-02-11 07:45:00,ParcelCo
+ORD-00749,Shipped,2026-01-26 05:49:00,ParcelCo
+ORD-00749,Out for Delivery,2026-01-26 22:49:00,ParcelCo
+ORD-00749,Delivered,2026-01-27 02:49:00,ParcelCo
+ORD-00750,Shipped,2026-02-21 11:39:00,SwiftShip
+ORD-00750,Out for Delivery,2026-02-22 03:39:00,ParcelCo
+ORD-00750,Delivered,2026-02-22 05:39:00,ParcelCo
+ORD-00751,Shipped,2026-01-08 00:40:00,ParcelCo
+ORD-00751,Out for Delivery,2026-01-08 09:40:00,ParcelCo
+ORD-00751,Delivered,2026-01-08 16:40:00,ParcelCo
+ORD-00752,Shipped,2026-01-29 18:30:00,ParcelCo
+ORD-00752,Out for Delivery,2026-01-30 05:30:00,ParcelCo
+ORD-00752,Delivered,2026-01-30 09:30:00,ParcelCo
+ORD-00753,Shipped,2026-02-11 18:37:00,SwiftShip
+ORD-00753,Out for Delivery,2026-02-13 01:37:00,ParcelCo
+ORD-00753,Delivered,2026-02-13 10:37:00,ParcelCo
+ORD-00754,Shipped,2026-01-19 01:14:00,ParcelCo
+ORD-00754,Out for Delivery,2026-01-19 20:14:00,ParcelCo
+ORD-00754,Delivered,2026-01-20 05:14:00,ParcelCo
+ORD-00755,Shipped,2026-01-22 20:45:00,ParcelCo
+ORD-00755,Out for Delivery,2026-01-24 00:45:00,ParcelCo
+ORD-00755,Delivered,2026-01-24 07:45:00,ParcelCo
+ORD-00756,Shipped,2026-01-26 21:57:00,SwiftShip
+ORD-00756,Out for Delivery,2026-01-29 14:57:00,ParcelCo
+ORD-00756,Delivered,2026-01-29 19:57:00,ParcelCo
+ORD-00757,Shipped,2026-02-20 23:59:00,SwiftShip
+ORD-00757,Out for Delivery,2026-02-22 07:59:00,ParcelCo
+ORD-00757,Delivered,2026-02-22 16:59:00,ParcelCo
+ORD-00758,Shipped,2026-03-02 02:01:00,SwiftShip
+ORD-00758,Out for Delivery,2026-03-03 00:01:00,ParcelCo
+ORD-00758,Delivered,2026-03-03 06:01:00,ParcelCo
+ORD-00759,Shipped,2026-02-22 09:28:00,SwiftShip
+ORD-00759,Out for Delivery,2026-02-22 21:28:00,ParcelCo
+ORD-00759,Delivered,2026-02-23 03:28:00,ParcelCo
+ORD-00760,Shipped,2026-02-01 15:16:00,SwiftShip
+ORD-00761,Shipped,2026-02-21 09:17:00,SwiftShip
+ORD-00761,Out for Delivery,2026-02-22 14:17:00,ParcelCo
+ORD-00761,Delivered,2026-02-22 17:17:00,ParcelCo
+ORD-00762,Shipped,2026-02-05 04:14:00,ParcelCo
+ORD-00762,Out for Delivery,2026-02-06 12:14:00,ParcelCo
+ORD-00762,Delivered,2026-02-06 14:14:00,ParcelCo
+ORD-00763,Shipped,2026-01-24 09:22:00,ParcelCo
+ORD-00763,Out for Delivery,2026-01-25 09:22:00,ParcelCo
+ORD-00763,Delivered,2026-01-25 19:22:00,ParcelCo
+ORD-00764,Shipped,2026-02-11 23:12:00,SwiftShip
+ORD-00764,Out for Delivery,2026-02-12 07:12:00,ParcelCo
+ORD-00764,Delivered,2026-02-12 14:12:00,ParcelCo
+ORD-00766,Shipped,2026-02-08 01:32:00,SwiftShip
+ORD-00766,Out for Delivery,2026-02-08 21:32:00,ParcelCo
+ORD-00766,Delivered,2026-02-09 05:32:00,ParcelCo
+ORD-00767,Shipped,2026-01-26 20:31:00,SwiftShip
+ORD-00767,Out for Delivery,2026-01-27 13:31:00,ParcelCo
+ORD-00767,Delivered,2026-01-27 21:31:00,ParcelCo
+ORD-00768,Shipped,2026-01-28 09:55:00,SwiftShip
+ORD-00768,Out for Delivery,2026-01-29 20:55:00,ParcelCo
+ORD-00768,Delivered,2026-01-30 06:55:00,ParcelCo
+ORD-00769,Shipped,2026-01-26 19:44:00,SwiftShip
+ORD-00769,Out for Delivery,2026-01-27 18:44:00,ParcelCo
+ORD-00769,Delivered,2026-01-28 03:44:00,ParcelCo
+ORD-00770,Shipped,2026-02-20 17:13:00,ParcelCo
+ORD-00770,Out for Delivery,2026-02-21 07:13:00,ParcelCo
+ORD-00770,Delivered,2026-02-21 16:13:00,ParcelCo
+ORD-00771,Shipped,2026-01-10 06:49:00,SwiftShip
+ORD-00771,Out for Delivery,2026-01-11 07:49:00,ParcelCo
+ORD-00771,Delivered,2026-01-11 17:49:00,ParcelCo
+ORD-00772,Shipped,2026-02-16 21:48:00,ParcelCo
+ORD-00772,Out for Delivery,2026-02-17 09:48:00,ParcelCo
+ORD-00772,Delivered,2026-02-17 19:48:00,ParcelCo
+ORD-00773,Shipped,2026-01-07 05:40:00,SwiftShip
+ORD-00773,Out for Delivery,2026-01-08 04:40:00,ParcelCo
+ORD-00773,Delivered,2026-01-08 10:40:00,ParcelCo
+ORD-00774,Shipped,2026-01-15 22:37:00,ParcelCo
+ORD-00774,Out for Delivery,2026-01-18 22:37:00,ParcelCo
+ORD-00774,Delivered,2026-01-19 05:37:00,ParcelCo
+ORD-00775,Shipped,2026-02-21 15:22:00,ParcelCo
+ORD-00775,Out for Delivery,2026-02-22 10:22:00,ParcelCo
+ORD-00775,Delivered,2026-02-22 14:22:00,ParcelCo
+ORD-00776,Shipped,2026-01-30 00:35:00,ParcelCo
+ORD-00776,Out for Delivery,2026-01-30 21:35:00,ParcelCo
+ORD-00776,Delivered,2026-01-31 03:35:00,ParcelCo
+ORD-00777,Shipped,2026-01-19 12:45:00,ParcelCo
+ORD-00777,Out for Delivery,2026-01-20 11:45:00,ParcelCo
+ORD-00777,Delivered,2026-01-20 21:45:00,ParcelCo
+ORD-00778,Shipped,2026-01-18 17:43:00,ParcelCo
+ORD-00778,Out for Delivery,2026-01-19 20:43:00,ParcelCo
+ORD-00778,Delivered,2026-01-19 21:43:00,ParcelCo
+ORD-00779,Shipped,2026-02-26 07:56:00,ParcelCo
+ORD-00780,Shipped,2026-02-25 13:35:00,SwiftShip
+ORD-00780,Out for Delivery,2026-02-25 22:35:00,ParcelCo
+ORD-00780,Delivered,2026-02-26 00:35:00,ParcelCo
+ORD-00781,Shipped,2026-02-07 06:48:00,SwiftShip
+ORD-00781,Out for Delivery,2026-02-08 02:48:00,ParcelCo
+ORD-00781,Delivered,2026-02-08 07:48:00,ParcelCo
+ORD-00783,Shipped,2026-01-13 11:25:00,SwiftShip
+ORD-00783,Out for Delivery,2026-01-16 11:25:00,ParcelCo
+ORD-00783,Delivered,2026-01-16 16:25:00,ParcelCo
+ORD-00784,Shipped,2026-02-04 20:20:00,ParcelCo
+ORD-00784,Out for Delivery,2026-02-05 12:20:00,ParcelCo
+ORD-00784,Delivered,2026-02-05 16:20:00,ParcelCo
+ORD-00785,Shipped,2026-02-14 23:58:00,ParcelCo
+ORD-00785,Out for Delivery,2026-02-15 19:58:00,ParcelCo
+ORD-00785,Delivered,2026-02-16 01:58:00,ParcelCo
+ORD-00786,Shipped,2026-01-30 21:23:00,ParcelCo
+ORD-00786,Out for Delivery,2026-01-31 16:23:00,ParcelCo
+ORD-00786,Delivered,2026-02-01 02:23:00,ParcelCo
+ORD-00787,Shipped,2026-01-22 09:34:00,SwiftShip
+ORD-00787,Out for Delivery,2026-01-23 00:34:00,ParcelCo
+ORD-00787,Delivered,2026-01-23 10:34:00,ParcelCo
+ORD-00788,Shipped,2026-01-22 01:57:00,ParcelCo
+ORD-00788,Out for Delivery,2026-01-23 04:57:00,ParcelCo
+ORD-00788,Delivered,2026-01-23 10:57:00,ParcelCo
+ORD-00789,Shipped,2026-02-24 07:47:00,ParcelCo
+ORD-00789,Out for Delivery,2026-02-25 08:47:00,ParcelCo
+ORD-00789,Delivered,2026-02-25 09:47:00,ParcelCo
+ORD-00790,Shipped,2026-02-11 14:03:00,ParcelCo
+ORD-00790,Out for Delivery,2026-02-13 00:03:00,ParcelCo
+ORD-00790,Delivered,2026-02-13 05:03:00,ParcelCo
+ORD-00791,Shipped,2026-01-24 04:57:00,ParcelCo
+ORD-00791,Out for Delivery,2026-01-24 18:57:00,ParcelCo
+ORD-00791,Delivered,2026-01-25 01:57:00,ParcelCo
+ORD-00792,Shipped,2026-01-22 05:33:00,SwiftShip
+ORD-00792,Out for Delivery,2026-01-25 08:33:00,ParcelCo
+ORD-00792,Delivered,2026-01-25 17:33:00,ParcelCo
+ORD-00793,Shipped,2026-01-12 03:06:00,SwiftShip
+ORD-00793,Out for Delivery,2026-01-13 10:06:00,ParcelCo
+ORD-00793,Delivered,2026-01-13 16:06:00,ParcelCo
+ORD-00794,Shipped,2026-02-25 13:00:00,ParcelCo
+ORD-00794,Out for Delivery,2026-02-26 09:00:00,ParcelCo
+ORD-00794,Delivered,2026-02-26 10:00:00,ParcelCo
+ORD-00795,Shipped,2026-01-12 19:11:00,ParcelCo
+ORD-00795,Out for Delivery,2026-01-13 09:11:00,ParcelCo
+ORD-00795,Delivered,2026-01-13 13:11:00,ParcelCo
+ORD-00796,Shipped,2026-02-26 16:13:00,SwiftShip
+ORD-00796,Out for Delivery,2026-02-27 06:13:00,ParcelCo
+ORD-00796,Delivered,2026-02-27 12:13:00,ParcelCo
+ORD-00797,Shipped,2026-02-22 17:32:00,SwiftShip
+ORD-00797,Out for Delivery,2026-02-24 04:32:00,ParcelCo
+ORD-00797,Delivered,2026-02-24 08:32:00,ParcelCo
+ORD-00798,Shipped,2026-01-25 07:36:00,ParcelCo
+ORD-00800,Shipped,2026-02-04 12:28:00,ParcelCo
+ORD-00800,Out for Delivery,2026-02-05 13:28:00,ParcelCo
+ORD-00800,Delivered,2026-02-05 18:28:00,ParcelCo
+ORD-00801,Shipped,2026-02-25 00:53:00,ParcelCo
+ORD-00801,Out for Delivery,2026-02-28 15:53:00,ParcelCo
+ORD-00801,Delivered,2026-03-01 00:53:00,ParcelCo
+ORD-00802,Shipped,2026-02-22 02:18:00,ParcelCo
+ORD-00802,Out for Delivery,2026-02-23 07:18:00,ParcelCo
+ORD-00802,Delivered,2026-02-23 15:18:00,ParcelCo
+ORD-00803,Shipped,2026-01-28 04:23:00,ParcelCo
+ORD-00803,Out for Delivery,2026-01-29 13:23:00,ParcelCo
+ORD-00803,Delivered,2026-01-29 16:23:00,ParcelCo
+ORD-00804,Shipped,2026-01-09 09:04:00,ParcelCo
+ORD-00804,Out for Delivery,2026-01-10 13:04:00,ParcelCo
+ORD-00804,Delivered,2026-01-10 21:04:00,ParcelCo
+ORD-00805,Shipped,2026-01-08 02:38:00,ParcelCo
+ORD-00805,Out for Delivery,2026-01-09 08:38:00,ParcelCo
+ORD-00805,Delivered,2026-01-09 17:38:00,ParcelCo
+ORD-00806,Shipped,2026-01-28 22:32:00,ParcelCo
+ORD-00806,Out for Delivery,2026-01-30 05:32:00,ParcelCo
+ORD-00806,Delivered,2026-01-30 13:32:00,ParcelCo
+ORD-00807,Shipped,2026-02-14 06:34:00,SwiftShip
+ORD-00807,Out for Delivery,2026-02-15 17:34:00,ParcelCo
+ORD-00807,Delivered,2026-02-15 23:34:00,ParcelCo
+ORD-00808,Shipped,2026-01-18 21:20:00,SwiftShip
+ORD-00808,Out for Delivery,2026-01-19 21:20:00,ParcelCo
+ORD-00808,Delivered,2026-01-19 22:20:00,ParcelCo
+ORD-00809,Shipped,2026-01-15 10:55:00,SwiftShip
+ORD-00809,Out for Delivery,2026-01-16 05:55:00,ParcelCo
+ORD-00809,Delivered,2026-01-16 09:55:00,ParcelCo
+ORD-00810,Shipped,2026-02-05 23:44:00,SwiftShip
+ORD-00810,Out for Delivery,2026-02-07 18:44:00,ParcelCo
+ORD-00810,Delivered,2026-02-08 04:44:00,ParcelCo
+ORD-00811,Shipped,2026-02-24 03:42:00,SwiftShip
+ORD-00811,Out for Delivery,2026-02-25 00:42:00,ParcelCo
+ORD-00811,Delivered,2026-02-25 07:42:00,ParcelCo
+ORD-00812,Shipped,2026-02-13 14:55:00,SwiftShip
+ORD-00812,Out for Delivery,2026-02-14 18:55:00,ParcelCo
+ORD-00812,Delivered,2026-02-15 00:55:00,ParcelCo
+ORD-00813,Shipped,2026-01-24 20:35:00,ParcelCo
+ORD-00813,Out for Delivery,2026-01-25 17:35:00,ParcelCo
+ORD-00813,Delivered,2026-01-26 00:35:00,ParcelCo
+ORD-00814,Shipped,2026-02-09 17:21:00,SwiftShip
+ORD-00814,Out for Delivery,2026-02-11 02:21:00,ParcelCo
+ORD-00814,Delivered,2026-02-11 08:21:00,ParcelCo
+ORD-00815,Shipped,2026-01-31 04:29:00,SwiftShip
+ORD-00815,Out for Delivery,2026-01-31 18:29:00,ParcelCo
+ORD-00815,Delivered,2026-01-31 22:29:00,ParcelCo
+ORD-00817,Shipped,2026-02-03 20:56:00,SwiftShip
+ORD-00818,Shipped,2026-01-11 02:08:00,SwiftShip
+ORD-00818,Out for Delivery,2026-01-11 21:08:00,ParcelCo
+ORD-00818,Delivered,2026-01-11 22:08:00,ParcelCo
+ORD-00819,Shipped,2026-01-15 01:16:00,SwiftShip
+ORD-00819,Out for Delivery,2026-01-16 21:16:00,ParcelCo
+ORD-00819,Delivered,2026-01-17 01:16:00,ParcelCo
+ORD-00820,Shipped,2026-02-05 12:51:00,ParcelCo
+ORD-00820,Out for Delivery,2026-02-06 19:51:00,ParcelCo
+ORD-00820,Delivered,2026-02-06 21:51:00,ParcelCo
+ORD-00821,Shipped,2026-02-02 05:38:00,SwiftShip
+ORD-00821,Out for Delivery,2026-02-03 01:38:00,ParcelCo
+ORD-00821,Delivered,2026-02-03 06:38:00,ParcelCo
+ORD-00822,Shipped,2026-01-28 06:11:00,SwiftShip
+ORD-00822,Out for Delivery,2026-01-29 15:11:00,ParcelCo
+ORD-00822,Delivered,2026-01-30 00:11:00,ParcelCo
+ORD-00823,Shipped,2026-01-09 06:47:00,SwiftShip
+ORD-00823,Out for Delivery,2026-01-10 11:47:00,ParcelCo
+ORD-00823,Delivered,2026-01-10 14:47:00,ParcelCo
+ORD-00824,Shipped,2026-02-16 12:26:00,ParcelCo
+ORD-00824,Out for Delivery,2026-02-16 22:26:00,ParcelCo
+ORD-00824,Delivered,2026-02-17 01:26:00,ParcelCo
+ORD-00825,Shipped,2026-02-26 20:36:00,SwiftShip
+ORD-00825,Out for Delivery,2026-02-27 12:36:00,ParcelCo
+ORD-00825,Delivered,2026-02-27 18:36:00,ParcelCo
+ORD-00826,Shipped,2026-01-24 12:39:00,SwiftShip
+ORD-00826,Out for Delivery,2026-01-25 09:39:00,ParcelCo
+ORD-00826,Delivered,2026-01-25 12:39:00,ParcelCo
+ORD-00827,Shipped,2026-02-16 03:24:00,SwiftShip
+ORD-00827,Out for Delivery,2026-02-17 12:24:00,ParcelCo
+ORD-00827,Delivered,2026-02-17 13:24:00,ParcelCo
+ORD-00828,Shipped,2026-01-15 11:44:00,SwiftShip
+ORD-00828,Out for Delivery,2026-01-18 17:44:00,ParcelCo
+ORD-00828,Delivered,2026-01-19 00:44:00,ParcelCo
+ORD-00829,Shipped,2026-02-27 02:16:00,ParcelCo
+ORD-00829,Out for Delivery,2026-02-27 16:16:00,ParcelCo
+ORD-00829,Delivered,2026-02-27 20:16:00,ParcelCo
+ORD-00830,Shipped,2026-01-29 19:55:00,ParcelCo
+ORD-00830,Out for Delivery,2026-01-30 07:55:00,ParcelCo
+ORD-00830,Delivered,2026-01-30 13:55:00,ParcelCo
+ORD-00831,Shipped,2026-01-29 02:12:00,ParcelCo
+ORD-00831,Out for Delivery,2026-01-29 16:12:00,ParcelCo
+ORD-00831,Delivered,2026-01-30 01:12:00,ParcelCo
+ORD-00832,Shipped,2026-02-24 01:14:00,SwiftShip
+ORD-00832,Out for Delivery,2026-02-24 22:14:00,ParcelCo
+ORD-00832,Delivered,2026-02-25 08:14:00,ParcelCo
+ORD-00834,Shipped,2026-02-15 02:08:00,SwiftShip
+ORD-00834,Out for Delivery,2026-02-15 20:08:00,ParcelCo
+ORD-00834,Delivered,2026-02-15 22:08:00,ParcelCo
+ORD-00835,Shipped,2026-02-23 05:46:00,SwiftShip
+ORD-00835,Out for Delivery,2026-02-23 22:46:00,ParcelCo
+ORD-00835,Delivered,2026-02-24 01:46:00,ParcelCo
+ORD-00836,Shipped,2026-01-08 15:58:00,ParcelCo
+ORD-00837,Shipped,2026-01-21 15:22:00,SwiftShip
+ORD-00837,Out for Delivery,2026-01-24 04:22:00,ParcelCo
+ORD-00837,Delivered,2026-01-24 09:22:00,ParcelCo
+ORD-00838,Shipped,2026-01-18 17:14:00,ParcelCo
+ORD-00838,Out for Delivery,2026-01-19 18:14:00,ParcelCo
+ORD-00838,Delivered,2026-01-20 02:14:00,ParcelCo
+ORD-00839,Shipped,2026-01-21 10:32:00,SwiftShip
+ORD-00839,Out for Delivery,2026-01-22 02:32:00,ParcelCo
+ORD-00839,Delivered,2026-01-22 09:32:00,ParcelCo
+ORD-00840,Shipped,2026-02-01 07:59:00,SwiftShip
+ORD-00840,Out for Delivery,2026-02-02 02:59:00,ParcelCo
+ORD-00840,Delivered,2026-02-02 05:59:00,ParcelCo
+ORD-00841,Shipped,2026-02-09 02:09:00,ParcelCo
+ORD-00841,Out for Delivery,2026-02-09 23:09:00,ParcelCo
+ORD-00841,Delivered,2026-02-10 05:09:00,ParcelCo
+ORD-00842,Shipped,2026-02-08 10:46:00,SwiftShip
+ORD-00842,Out for Delivery,2026-02-09 10:46:00,ParcelCo
+ORD-00842,Delivered,2026-02-09 15:46:00,ParcelCo
+ORD-00843,Shipped,2026-02-23 20:46:00,SwiftShip
+ORD-00843,Out for Delivery,2026-02-24 20:46:00,ParcelCo
+ORD-00843,Delivered,2026-02-25 04:46:00,ParcelCo
+ORD-00844,Shipped,2026-02-17 23:31:00,SwiftShip
+ORD-00844,Out for Delivery,2026-02-19 03:31:00,ParcelCo
+ORD-00844,Delivered,2026-02-19 06:31:00,ParcelCo
+ORD-00845,Shipped,2026-02-11 09:50:00,SwiftShip
+ORD-00845,Out for Delivery,2026-02-11 19:50:00,ParcelCo
+ORD-00845,Delivered,2026-02-12 02:50:00,ParcelCo
+ORD-00846,Shipped,2026-01-13 23:17:00,SwiftShip
+ORD-00846,Out for Delivery,2026-01-17 21:17:00,ParcelCo
+ORD-00846,Delivered,2026-01-17 22:17:00,ParcelCo
+ORD-00847,Shipped,2026-01-21 21:32:00,ParcelCo
+ORD-00847,Out for Delivery,2026-01-22 07:32:00,ParcelCo
+ORD-00847,Delivered,2026-01-22 10:32:00,ParcelCo
+ORD-00848,Shipped,2026-02-05 08:59:00,SwiftShip
+ORD-00848,Out for Delivery,2026-02-06 06:59:00,ParcelCo
+ORD-00848,Delivered,2026-02-06 13:59:00,ParcelCo
+ORD-00849,Shipped,2026-02-19 11:14:00,ParcelCo
+ORD-00849,Out for Delivery,2026-02-20 12:14:00,ParcelCo
+ORD-00849,Delivered,2026-02-20 18:14:00,ParcelCo
+ORD-00851,Shipped,2026-02-21 15:37:00,ParcelCo
+ORD-00851,Out for Delivery,2026-02-22 17:37:00,ParcelCo
+ORD-00851,Delivered,2026-02-22 19:37:00,ParcelCo
+ORD-00852,Shipped,2026-02-25 10:39:00,SwiftShip
+ORD-00852,Out for Delivery,2026-02-26 13:39:00,ParcelCo
+ORD-00852,Delivered,2026-02-26 19:39:00,ParcelCo
+ORD-00853,Shipped,2026-02-04 12:22:00,ParcelCo
+ORD-00853,Out for Delivery,2026-02-05 15:22:00,ParcelCo
+ORD-00853,Delivered,2026-02-06 00:22:00,ParcelCo
+ORD-00854,Shipped,2026-02-17 08:10:00,ParcelCo
+ORD-00854,Out for Delivery,2026-02-18 19:10:00,ParcelCo
+ORD-00854,Delivered,2026-02-19 02:10:00,ParcelCo
+ORD-00855,Shipped,2026-01-30 10:54:00,SwiftShip
+ORD-00856,Shipped,2026-01-13 08:29:00,ParcelCo
+ORD-00856,Out for Delivery,2026-01-14 03:29:00,ParcelCo
+ORD-00856,Delivered,2026-01-14 05:29:00,ParcelCo
+ORD-00857,Shipped,2026-01-06 21:30:00,SwiftShip
+ORD-00857,Out for Delivery,2026-01-07 09:30:00,ParcelCo
+ORD-00857,Delivered,2026-01-07 18:30:00,ParcelCo
+ORD-00858,Shipped,2026-01-11 21:11:00,ParcelCo
+ORD-00858,Out for Delivery,2026-01-12 09:11:00,ParcelCo
+ORD-00858,Delivered,2026-01-12 11:11:00,ParcelCo
+ORD-00859,Shipped,2026-01-10 19:17:00,SwiftShip
+ORD-00859,Out for Delivery,2026-01-11 06:17:00,ParcelCo
+ORD-00859,Delivered,2026-01-11 08:17:00,ParcelCo
+ORD-00860,Shipped,2026-02-10 21:18:00,ParcelCo
+ORD-00860,Out for Delivery,2026-02-11 07:18:00,ParcelCo
+ORD-00860,Delivered,2026-02-11 10:18:00,ParcelCo
+ORD-00861,Shipped,2026-01-28 12:55:00,ParcelCo
+ORD-00861,Out for Delivery,2026-01-29 00:55:00,ParcelCo
+ORD-00861,Delivered,2026-01-29 04:55:00,ParcelCo
+ORD-00862,Shipped,2026-01-19 19:18:00,SwiftShip
+ORD-00862,Out for Delivery,2026-01-20 08:18:00,ParcelCo
+ORD-00862,Delivered,2026-01-20 10:18:00,ParcelCo
+ORD-00863,Shipped,2026-02-15 15:10:00,ParcelCo
+ORD-00863,Out for Delivery,2026-02-16 15:10:00,ParcelCo
+ORD-00863,Delivered,2026-02-17 01:10:00,ParcelCo
+ORD-00864,Shipped,2026-02-05 16:26:00,ParcelCo
+ORD-00864,Out for Delivery,2026-02-08 07:26:00,ParcelCo
+ORD-00864,Delivered,2026-02-08 14:26:00,ParcelCo
+ORD-00865,Shipped,2026-01-18 09:14:00,SwiftShip
+ORD-00865,Out for Delivery,2026-01-18 20:14:00,ParcelCo
+ORD-00865,Delivered,2026-01-18 23:14:00,ParcelCo
+ORD-00866,Shipped,2026-02-03 14:24:00,ParcelCo
+ORD-00866,Out for Delivery,2026-02-04 19:24:00,ParcelCo
+ORD-00866,Delivered,2026-02-05 02:24:00,ParcelCo
+ORD-00868,Shipped,2026-01-20 07:04:00,ParcelCo
+ORD-00868,Out for Delivery,2026-01-20 17:04:00,ParcelCo
+ORD-00868,Delivered,2026-01-21 00:04:00,ParcelCo
+ORD-00869,Shipped,2026-01-12 22:21:00,SwiftShip
+ORD-00869,Out for Delivery,2026-01-13 16:21:00,ParcelCo
+ORD-00869,Delivered,2026-01-13 19:21:00,ParcelCo
+ORD-00870,Shipped,2026-01-22 00:48:00,SwiftShip
+ORD-00870,Out for Delivery,2026-01-22 12:48:00,ParcelCo
+ORD-00870,Delivered,2026-01-22 21:48:00,ParcelCo
+ORD-00871,Shipped,2026-02-07 18:54:00,SwiftShip
+ORD-00871,Out for Delivery,2026-02-08 21:54:00,ParcelCo
+ORD-00871,Delivered,2026-02-09 05:54:00,ParcelCo
+ORD-00872,Shipped,2026-02-08 20:23:00,SwiftShip
+ORD-00872,Out for Delivery,2026-02-09 20:23:00,ParcelCo
+ORD-00872,Delivered,2026-02-10 02:23:00,ParcelCo
+ORD-00873,Shipped,2026-02-26 09:05:00,SwiftShip
+ORD-00873,Out for Delivery,2026-02-28 15:05:00,ParcelCo
+ORD-00873,Delivered,2026-02-28 23:05:00,ParcelCo
+ORD-00874,Shipped,2026-02-22 10:43:00,ParcelCo
+ORD-00875,Shipped,2026-02-06 09:52:00,ParcelCo
+ORD-00875,Out for Delivery,2026-02-07 02:52:00,ParcelCo
+ORD-00875,Delivered,2026-02-07 08:52:00,ParcelCo
+ORD-00876,Shipped,2026-01-25 11:20:00,ParcelCo
+ORD-00876,Out for Delivery,2026-01-25 22:20:00,ParcelCo
+ORD-00876,Delivered,2026-01-26 07:20:00,ParcelCo
+ORD-00877,Shipped,2026-02-04 20:08:00,ParcelCo
+ORD-00877,Out for Delivery,2026-02-05 13:08:00,ParcelCo
+ORD-00877,Delivered,2026-02-05 20:08:00,ParcelCo
+ORD-00878,Shipped,2026-02-17 05:53:00,ParcelCo
+ORD-00878,Out for Delivery,2026-02-17 16:53:00,ParcelCo
+ORD-00878,Delivered,2026-02-17 23:53:00,ParcelCo
+ORD-00879,Shipped,2026-02-04 23:38:00,ParcelCo
+ORD-00879,Out for Delivery,2026-02-06 10:38:00,ParcelCo
+ORD-00879,Delivered,2026-02-06 17:38:00,ParcelCo
+ORD-00880,Shipped,2026-02-24 00:50:00,ParcelCo
+ORD-00880,Out for Delivery,2026-02-25 08:50:00,ParcelCo
+ORD-00880,Delivered,2026-02-25 10:50:00,ParcelCo
+ORD-00881,Shipped,2026-01-24 07:02:00,ParcelCo
+ORD-00881,Out for Delivery,2026-01-25 12:02:00,ParcelCo
+ORD-00881,Delivered,2026-01-25 16:02:00,ParcelCo
+ORD-00882,Shipped,2026-01-19 12:26:00,ParcelCo
+ORD-00882,Out for Delivery,2026-01-21 18:26:00,ParcelCo
+ORD-00882,Delivered,2026-01-22 04:26:00,ParcelCo
+ORD-00883,Shipped,2026-02-06 04:01:00,SwiftShip
+ORD-00883,Out for Delivery,2026-02-07 12:01:00,ParcelCo
+ORD-00883,Delivered,2026-02-07 13:01:00,ParcelCo
+ORD-00885,Shipped,2026-02-17 19:31:00,SwiftShip
+ORD-00885,Out for Delivery,2026-02-18 09:31:00,ParcelCo
+ORD-00885,Delivered,2026-02-18 16:31:00,ParcelCo
+ORD-00886,Shipped,2026-02-09 15:22:00,SwiftShip
+ORD-00886,Out for Delivery,2026-02-10 18:22:00,ParcelCo
+ORD-00886,Delivered,2026-02-11 03:22:00,ParcelCo
+ORD-00887,Shipped,2026-01-14 12:41:00,SwiftShip
+ORD-00887,Out for Delivery,2026-01-15 00:41:00,ParcelCo
+ORD-00887,Delivered,2026-01-15 01:41:00,ParcelCo
+ORD-00888,Shipped,2026-01-18 13:57:00,SwiftShip
+ORD-00888,Out for Delivery,2026-01-19 19:57:00,ParcelCo
+ORD-00888,Delivered,2026-01-20 03:57:00,ParcelCo
+ORD-00889,Shipped,2026-02-10 13:33:00,SwiftShip
+ORD-00889,Out for Delivery,2026-02-11 19:33:00,ParcelCo
+ORD-00889,Delivered,2026-02-11 22:33:00,ParcelCo
+ORD-00890,Shipped,2026-01-18 13:24:00,SwiftShip
+ORD-00890,Out for Delivery,2026-01-19 02:24:00,ParcelCo
+ORD-00890,Delivered,2026-01-19 04:24:00,ParcelCo
+ORD-00891,Shipped,2026-02-26 19:03:00,SwiftShip
+ORD-00891,Out for Delivery,2026-03-02 00:03:00,ParcelCo
+ORD-00891,Delivered,2026-03-02 05:03:00,ParcelCo
+ORD-00892,Shipped,2026-02-23 22:21:00,ParcelCo
+ORD-00892,Out for Delivery,2026-02-24 10:21:00,ParcelCo
+ORD-00892,Delivered,2026-02-24 16:21:00,ParcelCo
+ORD-00893,Shipped,2026-02-09 07:18:00,SwiftShip
+ORD-00894,Shipped,2026-01-17 19:43:00,SwiftShip
+ORD-00894,Out for Delivery,2026-01-18 23:43:00,ParcelCo
+ORD-00894,Delivered,2026-01-19 02:43:00,ParcelCo
+ORD-00895,Shipped,2026-02-19 04:05:00,SwiftShip
+ORD-00895,Out for Delivery,2026-02-20 15:05:00,ParcelCo
+ORD-00895,Delivered,2026-02-20 23:05:00,ParcelCo
+ORD-00896,Shipped,2026-01-20 01:59:00,SwiftShip
+ORD-00896,Out for Delivery,2026-01-20 21:59:00,ParcelCo
+ORD-00896,Delivered,2026-01-21 07:59:00,ParcelCo
+ORD-00897,Shipped,2026-02-26 07:55:00,ParcelCo
+ORD-00897,Out for Delivery,2026-02-26 17:55:00,ParcelCo
+ORD-00897,Delivered,2026-02-26 23:55:00,ParcelCo
+ORD-00898,Shipped,2026-02-12 01:02:00,ParcelCo
+ORD-00898,Out for Delivery,2026-02-12 14:02:00,ParcelCo
+ORD-00898,Delivered,2026-02-12 16:02:00,ParcelCo
+ORD-00899,Shipped,2026-02-12 12:11:00,ParcelCo
+ORD-00899,Out for Delivery,2026-02-13 09:11:00,ParcelCo
+ORD-00899,Delivered,2026-02-13 14:11:00,ParcelCo
+ORD-00900,Shipped,2026-02-14 19:57:00,SwiftShip
+ORD-00900,Out for Delivery,2026-02-17 07:57:00,ParcelCo
+ORD-00900,Delivered,2026-02-17 13:57:00,ParcelCo
+ORD-00902,Shipped,2026-02-18 04:35:00,ParcelCo
+ORD-00902,Out for Delivery,2026-02-18 16:35:00,ParcelCo
+ORD-00902,Delivered,2026-02-18 18:35:00,ParcelCo
+ORD-00903,Shipped,2026-02-02 12:21:00,ParcelCo
+ORD-00903,Out for Delivery,2026-02-03 19:21:00,ParcelCo
+ORD-00903,Delivered,2026-02-04 00:21:00,ParcelCo
+ORD-00904,Shipped,2026-02-22 16:54:00,SwiftShip
+ORD-00904,Out for Delivery,2026-02-23 20:54:00,ParcelCo
+ORD-00904,Delivered,2026-02-24 04:54:00,ParcelCo
+ORD-00905,Shipped,2026-01-28 11:08:00,SwiftShip
+ORD-00905,Out for Delivery,2026-01-29 19:08:00,ParcelCo
+ORD-00905,Delivered,2026-01-30 04:08:00,ParcelCo
+ORD-00906,Shipped,2026-01-21 16:23:00,SwiftShip
+ORD-00906,Out for Delivery,2026-01-22 22:23:00,ParcelCo
+ORD-00906,Delivered,2026-01-23 06:23:00,ParcelCo
+ORD-00907,Shipped,2026-01-06 12:31:00,SwiftShip
+ORD-00907,Out for Delivery,2026-01-07 11:31:00,ParcelCo
+ORD-00907,Delivered,2026-01-07 20:31:00,ParcelCo
+ORD-00908,Shipped,2026-01-27 11:40:00,ParcelCo
+ORD-00908,Out for Delivery,2026-01-28 03:40:00,ParcelCo
+ORD-00908,Delivered,2026-01-28 09:40:00,ParcelCo
+ORD-00909,Shipped,2026-02-16 16:12:00,ParcelCo
+ORD-00909,Out for Delivery,2026-02-20 21:12:00,ParcelCo
+ORD-00909,Delivered,2026-02-21 04:12:00,ParcelCo
+ORD-00910,Shipped,2026-01-25 03:38:00,SwiftShip
+ORD-00910,Out for Delivery,2026-01-25 12:38:00,ParcelCo
+ORD-00910,Delivered,2026-01-25 15:38:00,ParcelCo
+ORD-00911,Shipped,2026-02-06 08:45:00,SwiftShip
+ORD-00911,Out for Delivery,2026-02-06 18:45:00,ParcelCo
+ORD-00911,Delivered,2026-02-07 04:45:00,ParcelCo
+ORD-00912,Shipped,2026-02-08 18:42:00,SwiftShip
+ORD-00913,Shipped,2026-02-22 02:24:00,ParcelCo
+ORD-00913,Out for Delivery,2026-02-22 19:24:00,ParcelCo
+ORD-00913,Delivered,2026-02-22 20:24:00,ParcelCo
+ORD-00914,Shipped,2026-02-01 11:13:00,SwiftShip
+ORD-00914,Out for Delivery,2026-02-02 03:13:00,ParcelCo
+ORD-00914,Delivered,2026-02-02 07:13:00,ParcelCo
+ORD-00915,Shipped,2026-02-03 13:07:00,SwiftShip
+ORD-00915,Out for Delivery,2026-02-04 18:07:00,ParcelCo
+ORD-00915,Delivered,2026-02-04 20:07:00,ParcelCo
+ORD-00916,Shipped,2026-01-12 23:58:00,ParcelCo
+ORD-00916,Out for Delivery,2026-01-13 17:58:00,ParcelCo
+ORD-00916,Delivered,2026-01-13 21:58:00,ParcelCo
+ORD-00917,Shipped,2026-02-16 11:32:00,ParcelCo
+ORD-00917,Out for Delivery,2026-02-17 21:32:00,ParcelCo
+ORD-00917,Delivered,2026-02-18 06:32:00,ParcelCo
+ORD-00919,Shipped,2026-02-22 03:21:00,ParcelCo
+ORD-00919,Out for Delivery,2026-02-23 04:21:00,ParcelCo
+ORD-00919,Delivered,2026-02-23 10:21:00,ParcelCo
+ORD-00920,Shipped,2026-02-06 15:14:00,SwiftShip
+ORD-00920,Out for Delivery,2026-02-07 11:14:00,ParcelCo
+ORD-00920,Delivered,2026-02-07 14:14:00,ParcelCo
+ORD-00921,Shipped,2026-02-24 19:10:00,ParcelCo
+ORD-00921,Out for Delivery,2026-02-25 23:10:00,ParcelCo
+ORD-00921,Delivered,2026-02-26 05:10:00,ParcelCo
+ORD-00922,Shipped,2026-01-11 04:59:00,ParcelCo
+ORD-00922,Out for Delivery,2026-01-12 15:59:00,ParcelCo
+ORD-00922,Delivered,2026-01-13 01:59:00,ParcelCo
+ORD-00923,Shipped,2026-01-19 04:18:00,ParcelCo
+ORD-00923,Out for Delivery,2026-01-20 13:18:00,ParcelCo
+ORD-00923,Delivered,2026-01-20 22:18:00,ParcelCo
+ORD-00924,Shipped,2026-02-28 02:08:00,ParcelCo
+ORD-00924,Out for Delivery,2026-02-28 12:08:00,ParcelCo
+ORD-00924,Delivered,2026-02-28 17:08:00,ParcelCo
+ORD-00925,Shipped,2026-01-20 09:21:00,SwiftShip
+ORD-00925,Out for Delivery,2026-01-21 03:21:00,ParcelCo
+ORD-00925,Delivered,2026-01-21 06:21:00,ParcelCo
+ORD-00926,Shipped,2026-02-18 22:31:00,SwiftShip
+ORD-00926,Out for Delivery,2026-02-19 09:31:00,ParcelCo
+ORD-00926,Delivered,2026-02-19 16:31:00,ParcelCo
+ORD-00927,Shipped,2026-02-24 05:08:00,SwiftShip
+ORD-00927,Out for Delivery,2026-02-26 10:08:00,ParcelCo
+ORD-00927,Delivered,2026-02-26 13:08:00,ParcelCo
+ORD-00928,Shipped,2026-01-27 07:43:00,SwiftShip
+ORD-00928,Out for Delivery,2026-01-27 17:43:00,ParcelCo
+ORD-00928,Delivered,2026-01-27 22:43:00,ParcelCo
+ORD-00929,Shipped,2026-01-22 16:12:00,ParcelCo
+ORD-00929,Out for Delivery,2026-01-24 00:12:00,ParcelCo
+ORD-00929,Delivered,2026-01-24 05:12:00,ParcelCo
+ORD-00930,Shipped,2026-01-08 19:48:00,SwiftShip
+ORD-00930,Out for Delivery,2026-01-10 06:48:00,ParcelCo
+ORD-00930,Delivered,2026-01-10 09:48:00,ParcelCo
+ORD-00931,Shipped,2026-01-09 07:56:00,ParcelCo
+ORD-00932,Shipped,2026-01-19 16:28:00,ParcelCo
+ORD-00932,Out for Delivery,2026-01-21 00:28:00,ParcelCo
+ORD-00932,Delivered,2026-01-21 10:28:00,ParcelCo
+ORD-00933,Shipped,2026-01-13 19:46:00,SwiftShip
+ORD-00933,Out for Delivery,2026-01-14 21:46:00,ParcelCo
+ORD-00933,Delivered,2026-01-15 05:46:00,ParcelCo
+ORD-00934,Shipped,2026-02-04 17:51:00,SwiftShip
+ORD-00934,Out for Delivery,2026-02-05 15:51:00,ParcelCo
+ORD-00934,Delivered,2026-02-06 00:51:00,ParcelCo
+ORD-00936,Shipped,2026-01-08 23:54:00,ParcelCo
+ORD-00936,Out for Delivery,2026-01-12 15:54:00,ParcelCo
+ORD-00936,Delivered,2026-01-12 19:54:00,ParcelCo
+ORD-00937,Shipped,2026-01-22 18:59:00,SwiftShip
+ORD-00937,Out for Delivery,2026-01-24 00:59:00,ParcelCo
+ORD-00937,Delivered,2026-01-24 03:59:00,ParcelCo
+ORD-00938,Shipped,2026-01-08 05:43:00,ParcelCo
+ORD-00938,Out for Delivery,2026-01-09 08:43:00,ParcelCo
+ORD-00938,Delivered,2026-01-09 17:43:00,ParcelCo
+ORD-00939,Shipped,2026-02-23 23:10:00,ParcelCo
+ORD-00939,Out for Delivery,2026-02-24 09:10:00,ParcelCo
+ORD-00939,Delivered,2026-02-24 18:10:00,ParcelCo
+ORD-00940,Shipped,2026-02-22 09:38:00,SwiftShip
+ORD-00940,Out for Delivery,2026-02-22 18:38:00,ParcelCo
+ORD-00940,Delivered,2026-02-23 01:38:00,ParcelCo
+ORD-00941,Shipped,2026-01-25 08:49:00,SwiftShip
+ORD-00941,Out for Delivery,2026-01-25 16:49:00,ParcelCo
+ORD-00941,Delivered,2026-01-25 19:49:00,ParcelCo
+ORD-00942,Shipped,2026-02-27 21:41:00,ParcelCo
+ORD-00942,Out for Delivery,2026-03-01 00:41:00,ParcelCo
+ORD-00942,Delivered,2026-03-01 07:41:00,ParcelCo
+ORD-00943,Shipped,2026-01-28 08:48:00,ParcelCo
+ORD-00943,Out for Delivery,2026-01-28 18:48:00,ParcelCo
+ORD-00943,Delivered,2026-01-28 20:48:00,ParcelCo
+ORD-00944,Shipped,2026-01-16 03:15:00,ParcelCo
+ORD-00944,Out for Delivery,2026-01-17 09:15:00,ParcelCo
+ORD-00944,Delivered,2026-01-17 15:15:00,ParcelCo
+ORD-00945,Shipped,2026-02-07 09:53:00,ParcelCo
+ORD-00945,Out for Delivery,2026-02-11 05:53:00,ParcelCo
+ORD-00945,Delivered,2026-02-11 12:53:00,ParcelCo
+ORD-00946,Shipped,2026-01-23 09:52:00,ParcelCo
+ORD-00946,Out for Delivery,2026-01-24 07:52:00,ParcelCo
+ORD-00946,Delivered,2026-01-24 14:52:00,ParcelCo
+ORD-00947,Shipped,2026-01-20 12:07:00,ParcelCo
+ORD-00947,Out for Delivery,2026-01-20 21:07:00,ParcelCo
+ORD-00947,Delivered,2026-01-21 04:07:00,ParcelCo
+ORD-00948,Shipped,2026-01-19 22:12:00,ParcelCo
+ORD-00948,Out for Delivery,2026-01-20 16:12:00,ParcelCo
+ORD-00948,Delivered,2026-01-21 01:12:00,ParcelCo
+ORD-00949,Shipped,2026-01-26 11:01:00,ParcelCo
+ORD-00949,Out for Delivery,2026-01-27 16:01:00,ParcelCo
+ORD-00949,Delivered,2026-01-27 20:01:00,ParcelCo
+ORD-00950,Shipped,2026-01-14 03:34:00,SwiftShip
+ORD-00951,Shipped,2026-01-27 02:50:00,ParcelCo
+ORD-00951,Out for Delivery,2026-01-27 22:50:00,ParcelCo
+ORD-00951,Delivered,2026-01-28 05:50:00,ParcelCo
+ORD-00953,Shipped,2026-02-06 13:30:00,SwiftShip
+ORD-00953,Out for Delivery,2026-02-07 03:30:00,ParcelCo
+ORD-00953,Delivered,2026-02-07 04:30:00,ParcelCo
+ORD-00954,Shipped,2026-02-16 19:46:00,SwiftShip
+ORD-00954,Out for Delivery,2026-02-18 14:46:00,ParcelCo
+ORD-00954,Delivered,2026-02-18 18:46:00,ParcelCo
+ORD-00955,Shipped,2026-01-11 08:41:00,ParcelCo
+ORD-00955,Out for Delivery,2026-01-12 01:41:00,ParcelCo
+ORD-00955,Delivered,2026-01-12 05:41:00,ParcelCo
+ORD-00956,Shipped,2026-02-13 13:04:00,ParcelCo
+ORD-00956,Out for Delivery,2026-02-14 12:04:00,ParcelCo
+ORD-00956,Delivered,2026-02-14 22:04:00,ParcelCo
+ORD-00957,Shipped,2026-01-15 21:22:00,SwiftShip
+ORD-00957,Out for Delivery,2026-01-16 06:22:00,ParcelCo
+ORD-00957,Delivered,2026-01-16 14:22:00,ParcelCo
+ORD-00958,Shipped,2026-01-25 23:09:00,SwiftShip
+ORD-00958,Out for Delivery,2026-01-26 22:09:00,ParcelCo
+ORD-00958,Delivered,2026-01-27 04:09:00,ParcelCo
+ORD-00959,Shipped,2026-01-30 07:46:00,ParcelCo
+ORD-00959,Out for Delivery,2026-01-31 11:46:00,ParcelCo
+ORD-00959,Delivered,2026-01-31 14:46:00,ParcelCo
+ORD-00960,Shipped,2026-02-27 03:10:00,SwiftShip
+ORD-00960,Out for Delivery,2026-02-28 04:10:00,ParcelCo
+ORD-00960,Delivered,2026-02-28 12:10:00,ParcelCo
+ORD-00961,Shipped,2026-01-28 23:25:00,ParcelCo
+ORD-00961,Out for Delivery,2026-01-30 05:25:00,ParcelCo
+ORD-00961,Delivered,2026-01-30 13:25:00,ParcelCo
+ORD-00962,Shipped,2026-02-10 19:58:00,SwiftShip
+ORD-00962,Out for Delivery,2026-02-11 06:58:00,ParcelCo
+ORD-00962,Delivered,2026-02-11 14:58:00,ParcelCo
+ORD-00963,Shipped,2026-02-16 17:57:00,ParcelCo
+ORD-00963,Out for Delivery,2026-02-20 00:57:00,ParcelCo
+ORD-00963,Delivered,2026-02-20 01:57:00,ParcelCo
+ORD-00964,Shipped,2026-02-22 15:46:00,SwiftShip
+ORD-00964,Out for Delivery,2026-02-23 01:46:00,ParcelCo
+ORD-00964,Delivered,2026-02-23 05:46:00,ParcelCo
+ORD-00965,Shipped,2026-02-03 02:07:00,ParcelCo
+ORD-00965,Out for Delivery,2026-02-03 21:07:00,ParcelCo
+ORD-00965,Delivered,2026-02-03 23:07:00,ParcelCo
+ORD-00966,Shipped,2026-02-20 12:56:00,ParcelCo
+ORD-00966,Out for Delivery,2026-02-21 18:56:00,ParcelCo
+ORD-00966,Delivered,2026-02-22 02:56:00,ParcelCo
+ORD-00967,Shipped,2026-02-12 05:35:00,SwiftShip
+ORD-00967,Out for Delivery,2026-02-12 17:35:00,ParcelCo
+ORD-00967,Delivered,2026-02-12 21:35:00,ParcelCo
+ORD-00968,Shipped,2026-02-02 04:56:00,SwiftShip
+ORD-00968,Out for Delivery,2026-02-02 23:56:00,ParcelCo
+ORD-00968,Delivered,2026-02-03 06:56:00,ParcelCo
+ORD-00970,Shipped,2026-01-28 05:33:00,ParcelCo
+ORD-00970,Out for Delivery,2026-01-28 20:33:00,ParcelCo
+ORD-00970,Delivered,2026-01-28 22:33:00,ParcelCo
+ORD-00971,Shipped,2026-02-04 14:42:00,ParcelCo
+ORD-00971,Out for Delivery,2026-02-05 14:42:00,ParcelCo
+ORD-00971,Delivered,2026-02-05 20:42:00,ParcelCo
+ORD-00972,Shipped,2026-02-27 11:56:00,SwiftShip
+ORD-00972,Out for Delivery,2026-03-02 22:56:00,ParcelCo
+ORD-00972,Delivered,2026-03-03 06:56:00,ParcelCo
+ORD-00973,Shipped,2026-02-03 08:41:00,ParcelCo
+ORD-00973,Out for Delivery,2026-02-04 18:41:00,ParcelCo
+ORD-00973,Delivered,2026-02-04 21:41:00,ParcelCo
+ORD-00974,Shipped,2026-01-19 23:01:00,ParcelCo
+ORD-00974,Out for Delivery,2026-01-20 17:01:00,ParcelCo
+ORD-00974,Delivered,2026-01-20 21:01:00,ParcelCo
+ORD-00975,Shipped,2026-01-18 07:01:00,ParcelCo
+ORD-00975,Out for Delivery,2026-01-18 21:01:00,ParcelCo
+ORD-00975,Delivered,2026-01-19 06:01:00,ParcelCo
+ORD-00976,Shipped,2026-01-18 17:08:00,SwiftShip
+ORD-00976,Out for Delivery,2026-01-19 17:08:00,ParcelCo
+ORD-00976,Delivered,2026-01-19 22:08:00,ParcelCo
+ORD-00977,Shipped,2026-01-31 19:54:00,ParcelCo
+ORD-00977,Out for Delivery,2026-02-01 21:54:00,ParcelCo
+ORD-00977,Delivered,2026-02-02 00:54:00,ParcelCo
+ORD-00978,Shipped,2026-02-19 15:25:00,ParcelCo
+ORD-00978,Out for Delivery,2026-02-20 04:25:00,ParcelCo
+ORD-00978,Delivered,2026-02-20 07:25:00,ParcelCo
+ORD-00979,Shipped,2026-02-05 10:22:00,SwiftShip
+ORD-00979,Out for Delivery,2026-02-05 22:22:00,ParcelCo
+ORD-00979,Delivered,2026-02-06 01:22:00,ParcelCo
+ORD-00980,Shipped,2026-02-27 21:13:00,SwiftShip
+ORD-00980,Out for Delivery,2026-03-01 00:13:00,ParcelCo
+ORD-00980,Delivered,2026-03-01 07:13:00,ParcelCo
+ORD-00981,Shipped,2026-02-27 18:22:00,ParcelCo
+ORD-00981,Out for Delivery,2026-03-03 11:22:00,ParcelCo
+ORD-00981,Delivered,2026-03-03 12:22:00,ParcelCo
+ORD-00982,Shipped,2026-01-08 00:01:00,SwiftShip
+ORD-00982,Out for Delivery,2026-01-09 06:01:00,ParcelCo
+ORD-00982,Delivered,2026-01-09 13:01:00,ParcelCo
+ORD-00983,Shipped,2026-01-29 16:43:00,ParcelCo
+ORD-00983,Out for Delivery,2026-01-30 04:43:00,ParcelCo
+ORD-00983,Delivered,2026-01-30 08:43:00,ParcelCo
+ORD-00984,Shipped,2026-01-21 01:42:00,SwiftShip
+ORD-00984,Out for Delivery,2026-01-22 00:42:00,ParcelCo
+ORD-00984,Delivered,2026-01-22 09:42:00,ParcelCo
+ORD-00985,Shipped,2026-01-31 11:33:00,ParcelCo
+ORD-00985,Out for Delivery,2026-02-01 01:33:00,ParcelCo
+ORD-00985,Delivered,2026-02-01 04:33:00,ParcelCo
+ORD-00987,Shipped,2026-02-24 20:47:00,SwiftShip
+ORD-00987,Out for Delivery,2026-02-25 13:47:00,ParcelCo
+ORD-00987,Delivered,2026-02-25 20:47:00,ParcelCo
+ORD-00988,Shipped,2026-02-21 09:11:00,ParcelCo
+ORD-00989,Shipped,2026-02-04 15:56:00,ParcelCo
+ORD-00989,Out for Delivery,2026-02-05 16:56:00,ParcelCo
+ORD-00989,Delivered,2026-02-06 00:56:00,ParcelCo
+ORD-00990,Shipped,2026-02-10 23:42:00,SwiftShip
+ORD-00990,Out for Delivery,2026-02-13 04:42:00,ParcelCo
+ORD-00990,Delivered,2026-02-13 05:42:00,ParcelCo
+ORD-00991,Shipped,2026-02-26 18:04:00,SwiftShip
+ORD-00991,Out for Delivery,2026-02-28 01:04:00,ParcelCo
+ORD-00991,Delivered,2026-02-28 03:04:00,ParcelCo
+ORD-00992,Shipped,2026-01-30 15:11:00,ParcelCo
+ORD-00992,Out for Delivery,2026-01-30 23:11:00,ParcelCo
+ORD-00992,Delivered,2026-01-31 00:11:00,ParcelCo
+ORD-00993,Shipped,2026-02-16 17:49:00,ParcelCo
+ORD-00993,Out for Delivery,2026-02-17 10:49:00,ParcelCo
+ORD-00993,Delivered,2026-02-17 17:49:00,ParcelCo
+ORD-00994,Shipped,2026-02-26 00:57:00,SwiftShip
+ORD-00994,Out for Delivery,2026-02-27 08:57:00,ParcelCo
+ORD-00994,Delivered,2026-02-27 15:57:00,ParcelCo
+ORD-00995,Shipped,2026-01-25 20:04:00,ParcelCo
+ORD-00995,Out for Delivery,2026-01-27 03:04:00,ParcelCo
+ORD-00995,Delivered,2026-01-27 09:04:00,ParcelCo
+ORD-00996,Shipped,2026-01-15 18:43:00,ParcelCo
+ORD-00996,Out for Delivery,2026-01-17 02:43:00,ParcelCo
+ORD-00996,Delivered,2026-01-17 05:43:00,ParcelCo
+ORD-00997,Shipped,2026-02-25 10:11:00,SwiftShip
+ORD-00997,Out for Delivery,2026-02-26 01:11:00,ParcelCo
+ORD-00997,Delivered,2026-02-26 07:11:00,ParcelCo
+ORD-00998,Shipped,2026-01-31 10:44:00,ParcelCo
+ORD-00998,Out for Delivery,2026-02-01 01:44:00,ParcelCo
+ORD-00998,Delivered,2026-02-01 03:44:00,ParcelCo
+ORD-00999,Shipped,2026-01-27 09:52:00,ParcelCo
+ORD-00999,Out for Delivery,2026-01-30 04:52:00,ParcelCo
+ORD-00999,Delivered,2026-01-30 06:52:00,ParcelCo
+ORD-01000,Shipped,2026-01-27 05:09:00,ParcelCo
+ORD-01000,Out for Delivery,2026-01-27 20:09:00,ParcelCo
+ORD-01000,Delivered,2026-01-28 00:09:00,ParcelCo

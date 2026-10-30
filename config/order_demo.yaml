@@ -1,0 +1,30 @@
+project:
+  name: synthetic_order_fulfillment
+  version: 1.4.2
+paths:
+  identity_vault: secure_local
+  output: output/order_demo
+privacy:
+  review_required_for_all_columns: true
+  identity_fields:
+    Order ID:
+      class: case_identifier
+      action: pseudonymize
+      namespace: case
+      prefix: CASE_
+      target_column: Case_ID
+    Customer Name:
+      class: person_name
+      action: remove
+sources:
+- name: order_events
+  path: examples/orders.csv
+  sheet: 0
+  event_rules:
+  - name: order_status
+    activity_from: Status
+    timestamp_from: Event Time
+    attributes:
+    - Channel
+integration:
+  duplicate_policy: flag
